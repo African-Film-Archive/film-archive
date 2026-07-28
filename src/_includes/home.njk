@@ -1,0 +1,32 @@
+<section class="hero">
+  <h1>THE REEL</h1>
+  <p>A living discovery layer for African cinema — 1895 to present.</p>
+</section>
+
+<section id="eras">
+  <h2 class="section-title">Browse by Era</h2>
+  <div class="era-grid">
+    {% for era in eras %}
+    <div class="era-card">
+      <a href="/eras/{{ era.slug }}/">
+        <h3>{{ era.name }}</h3>
+        <p class="meta">{{ era.range }}</p>
+        <p>{{ era.description }}</p>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="news">
+  <h2 class="section-title">From the Archive</h2>
+  <div class="film-grid">
+    {% for item in news %}
+    <div class="film-card">
+      <p class="meta">{{ item.tag }} — {{ item.date }}</p>
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.body }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>

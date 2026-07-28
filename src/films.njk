@@ -1,0 +1,10 @@
+---
+layout: film.njk
+pagination:
+  data: films
+  size: 1
+  alias: film
+permalink: "/films/{{ film.id }}/"
+eleventyComputed:
+  title: "{{ film.title }}"
+---

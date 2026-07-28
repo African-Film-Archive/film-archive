@@ -1,0 +1,17 @@
+{% set currentEra = eras | findEra(eraSlug) %}
+<section class="hero">
+  <h1>{{ currentEra.name }}</h1>
+  <p>{{ currentEra.range }} — {{ currentEra.description }}</p>
+</section>
+
+<div class="film-grid">
+  {% for film in films | byEra(eraSlug) %}
+  <div class="film-card">
+    <a href="/films/{{ film.id }}/">
+      <h3>{{ film.title }}</h3>
+      <p class="meta">{{ film.year }} — {{ film.director }}</p>
+      <p class="meta">{{ film.country | join(", ") }}</p>
+    </a>
+  </div>
+  {% endfor %}
+</div>

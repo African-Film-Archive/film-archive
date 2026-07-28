@@ -1,0 +1,15 @@
+<section class="hero">
+  <h1>{{ film.title }}</h1>
+  <p class="meta">{{ film.year }} — {{ film.director }} — {{ film.country | join(", ") }}</p>
+</section>
+
+<article class="film-card" style="max-width:700px;margin:0 auto;">
+  <p class="meta">{{ film.type }} · {{ film.genre }} · {{ film.era }}</p>
+  <p>{{ film.description }}</p>
+  <p><strong>Fun fact:</strong> {{ film.fun_fact }}</p>
+  {% if film.notes %}<p class="meta"><strong>Notes:</strong> {{ film.notes }}</p>{% endif %}
+  <p class="meta">Verification: {{ film.verification_status }} · Sources:
+    {% for s in film.sources_consulted %}<a href="{{ s }}">[{{ loop.index }}]</a> {% endfor %}
+  </p>
+  {% if film.poster_url %}<p class="meta"><a href="{{ film.poster_url }}">Poster source: {{ film.poster_source }}</a></p>{% endif %}
+</article>

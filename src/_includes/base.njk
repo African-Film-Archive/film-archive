@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title or "African Film Archive" }} — African Film Archive</title>
+  <meta name="description" content="{{ description or 'A living discovery layer for African cinema, 1895 to present.' }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica&family=Cormorant+Garamond:wght@400;500;600&family=Special+Elite&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+  <div class="grain-overlay" aria-hidden="true"></div>
+  <div class="scanlines" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="brand" href="/">African Film Archive</a>
+    <nav class="topnav">
+      <a href="/#eras">Browse by Era</a>
+      <a href="/#news">News</a>
+      <a href="/membership/">Membership</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <p>African Film Archive — a living discovery layer for African cinema, 1895 to present.</p>
+    <p><a href="mailto:mail@africanfilmarchive.win">mail@africanfilmarchive.win</a></p>
+  </footer>
+</body>
+</html>
