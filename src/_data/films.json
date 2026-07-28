@@ -1846,5 +1846,133 @@
     ],
     "date_verified": "2026-07-29",
     "notes": "Non-African-directed colonial-era production, included per methodology as clearly labeled pre-history era work; directed by British filmmaker Terry Bishop from a screenplay by Montagu Slater, funded by the Central Office of Information at the Colonial Office with a budget of roughly GBP 30,000."
+  },
+  {
+    "id": "allan-quatermain-1920",
+    "title": "Allan Quatermain",
+    "year": 1920,
+    "director": "H. Lisle Lucoque",
+    "country": ["South Africa"],
+    "type": "feature",
+    "genre": "adventure, silent",
+    "era": "pre-history",
+    "description": "A silent adventure feature produced by African Film Productions and shot on location in KwaZulu-Natal, adapted from H. Rider Haggard's novel as a sequel to King Solomon's Mines, starring Albert Lawrence in the title role.",
+    "fun_fact": "African Film Productions made over forty fiction films between 1916 and 1924 before shifting mainly to documentary and newsreel work; this is one of the surviving titles from that run.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.themoviedb.org/movie/1169353-allan-quatermain",
+      "https://thebioscope.net/2012/02/26/the-bioscope-guide-to-south-africa/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed colonial-era production, included per methodology as clearly labeled pre-history era work. Some databases list a 1919 production date with 1920 release; treated here as 1920 per African Film Productions release records."
+  },
+  {
+    "id": "nionga-1925",
+    "title": "Nionga",
+    "year": 1925,
+    "director": "Unknown (Stoll Film Company)",
+    "country": ["United Kingdom"],
+    "type": "feature",
+    "genre": "drama, silent",
+    "era": "pre-history",
+    "description": "A silent drama of tribal life in Central Africa produced by the Stoll Film Company, following a chieftain's daughter persuaded by a witch doctor to turn her betrothed against a neighboring tribe.",
+    "fun_fact": "The film's actual shooting location was never clearly documented; contemporary critics read it less as a record of a specific place than as a generalized British popular image of 'Africa' in the 1920s.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "http://www.screenonline.org.uk/film/id/1401704/index.html",
+      "http://www.colonialfilm.org.uk/node/1910"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed colonial-era production, included per methodology as clearly labeled pre-history era work; director not credited in surviving records."
+  },
+  {
+    "id": "laila-1927",
+    "title": "Laila",
+    "year": 1927,
+    "director": "Stephan Rosti, Wedad Orfi",
+    "country": ["Egypt"],
+    "type": "feature",
+    "genre": "drama, silent",
+    "era": "pre-history",
+    "description": "Produced by and starring Aziza Amir, this silent melodrama about a woman who becomes pregnant outside marriage is widely credited as the first Egyptian feature film made with an entirely Egyptian cast for an Egyptian audience. It premiered on 16 November 1927 at Cairo's Metropole Cinema.",
+    "fun_fact": "Aziza Amir became known as 'the Mother of Egyptian Cinema'; Egyptian statesman Talaat Harb said she 'achieved what men have failed to' in producing a homegrown national film industry.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Laila_(1927_film)",
+      "https://en.wikipedia.org/wiki/Aziza_Amir",
+      "https://egyptianstreets.com/2025/10/15/uncovering-the-dawn-of-egyptian-silent-cinema-a-closer-look-at-laila-and-zaynab/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "First Africa-originated (Egyptian) fiction feature in the archive from this decade, distinct from the era's European/Hollywood safari and colonial productions. A rival claimant, Zaynab (1930), is sometimes cited as the first Egyptian feature by other historians; Laila is the more widely cited claimant and predates it."
+  },
+  {
+    "id": "sallama-1945",
+    "title": "Sallama",
+    "year": 1945,
+    "director": "Togo Mizrahi",
+    "country": ["Egypt"],
+    "type": "feature",
+    "genre": "drama, musical, historical",
+    "era": "pre-history",
+    "description": "Set in the Umayyad era, this Egyptian historical drama stars the singer Umm Kulthum as Sallama, a servant in the household of Abu al-Wafa. It was written by Bayram al-Tunisi and Ali Ahmad Bakathir, with music by Zakaria Ahmed and Riad Al Sunbati.",
+    "fun_fact": "This was the only film Togo Mizrahi, one of the most prolific directors of Egypt's studio era, ever made with Umm Kulthum, and is generally regarded as his final major work.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Sallama_(film)",
+      "https://www.bibalex.org/alexcinema/cinematographers/togo_mizrahi.html"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Egyptian studio-era production; included in pre-history era per the archive's chronology, not directed by a Sub-Saharan African filmmaker but a landmark of Africa-originated cinema in this decade."
+  },
+  {
+    "id": "north-and-south-of-the-niger-1947",
+    "title": "North and South of the Niger",
+    "year": 1947,
+    "director": "John Page",
+    "country": ["Nigeria", "United Kingdom"],
+    "type": "documentary",
+    "genre": "documentary",
+    "era": "pre-history",
+    "description": "A 51-minute documentary sponsored by the Central Office of Information and the Colonial Office, produced by the Taurus Film Unit with commentary by D. M. Williams, documenting British colonial administration's social and economic programs in Nigeria.",
+    "fun_fact": "It was made in the same colonial documentary tradition as Daybreak in Udi, two years before that film would go on to win an Academy Award.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "http://www.colonialfilm.org.uk/node/61",
+      "https://en.wikipedia.org/wiki/List_of_Nigerian_films_before_1970"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed colonial-era production, included per methodology as clearly labeled pre-history era work."
+  },
+  {
+    "id": "jim-comes-to-joburg-1949",
+    "title": "Jim Comes to Jo'burg (African Jim)",
+    "year": 1949,
+    "director": "Donald Swanson",
+    "country": ["South Africa"],
+    "type": "feature",
+    "genre": "drama, musical",
+    "era": "pre-history",
+    "description": "The first feature-length entertainment film made with a Black South African cast and produced specifically for Black audiences, starring Daniel Adnewmah, Dolly Rathebe, and Dan Twala. It follows Jim, who leaves his rural home for Johannesburg and is discovered as a singer after a rough start in the city.",
+    "fun_fact": "It used real musicians from the townships and was, by contemporary accounts, a sensation with Black audiences, who had rarely if ever seen their own communities' performers as the leads on screen.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/African_Jim",
+      "https://africanfilmny.org/films/jim-comes-to-joburg/",
+      "https://www.allmovie.com/movie/african-jim-am95759"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Produced by white filmmaker Donald Swanson under apartheid-era South Africa's racial studio system, but with a Black cast and aimed at Black audiences; included in pre-history era per chronology. Sometimes credited to Eric Rutherford as producer."
   }
 ]
