@@ -1758,5 +1758,93 @@
     ],
     "date_verified": "2026-07-28",
     "notes": "Raingou's feature directorial debut; world premiere at Rotterdam 2023."
+  },
+  {
+    "id": "trailing-african-wild-animals-1923",
+    "title": "Trailing African Wild Animals",
+    "year": 1923,
+    "director": "Martin E. Johnson, Osa Johnson",
+    "country": ["United States"],
+    "type": "documentary",
+    "genre": "documentary, expedition film",
+    "era": "pre-history",
+    "description": "Documenting a two-year expedition across British East Africa toward Lake Paradise, this silent American documentary follows explorers Martin and Osa Johnson and a safari party of over 100 local guides, porters, and gunbearers capturing footage of lions, elephants, and rhinoceros.",
+    "fun_fact": "The film climaxes with an elephant charging the camera, stopped within six feet by a shot from Osa Johnson's rifle, a moment contemporary audiences found both thrilling and troubling.",
+    "poster_url": "https://catalog.afi.com/Catalog/MovieDetails/7292",
+    "poster_source": "AFI Catalog",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt4709120/",
+      "https://catalog.afi.com/Catalog/MovieDetails/7292",
+      "https://www.tcm.com/tcmdb/title/562142/trailing-african-wild-animals"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed American expedition documentary, included per methodology as clearly labeled pre-history era work. Reflects the big-game-hunting expedition genre typical of 1920s American depictions of Africa."
+  },
+  {
+    "id": "simba-king-of-the-beasts-1928",
+    "title": "Simba: The King of the Beasts",
+    "year": 1928,
+    "director": "Martin E. Johnson, Osa Johnson",
+    "country": ["United States"],
+    "type": "documentary",
+    "genre": "documentary, expedition film",
+    "era": "pre-history",
+    "description": "Filmed over four years between 1924 and 1927 on the Johnsons' second expedition to Kenya, this silent documentary tracks lions across the veld on foot safari, alongside broader footage of Kenyan wildlife and peoples.",
+    "fun_fact": "Kodak founder George Eastman visited the Johnsons in the field during the Kenyan trek, reportedly filming some of the expedition himself on his own camera.",
+    "poster_url": "https://en.wikipedia.org/wiki/Simba:_King_of_the_Beasts",
+    "poster_source": "Wikipedia",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Simba:_King_of_the_Beasts",
+      "https://www.imdb.com/title/tt0019385/",
+      "https://milestonefilms.com/products/simba"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed American expedition documentary, included per methodology as clearly labeled pre-history era work. Simba is Swahili for lion, taken directly as the title."
+  },
+  {
+    "id": "men-of-two-worlds-1946",
+    "title": "Men of Two Worlds",
+    "year": 1946,
+    "director": "Thorold Dickinson",
+    "country": ["United Kingdom"],
+    "type": "feature",
+    "genre": "drama",
+    "era": "pre-history",
+    "description": "Shot in Technicolor on location in Tanganyika after production was delayed three years by wartime disruption, including U-boat damage to camera stock in transit, this British drama follows an African music student who returns home to confront a witch doctor's hold over his tribe.",
+    "fun_fact": "Conceived in 1943 as a wartime propaganda project to justify British colonial policy in Africa, the film was not released until 1946, and much of its surviving footage was ultimately shot indoors at Denham Studios after location material was lost or degraded.",
+    "poster_url": "https://en.wikipedia.org/wiki/Men_of_Two_Worlds",
+    "poster_source": "Wikipedia",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Men_of_Two_Worlds",
+      "http://www.colonialfilm.org.uk/node/1845",
+      "https://variety.com/1945/film/reviews/men-of-two-worlds-1200414737/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed British colonial-era production, included per methodology as clearly labeled pre-history era work. Starred Robert Adams, a Guyanese-British actor, in a lead role."
+  },
+  {
+    "id": "daybreak-in-udi-1949",
+    "title": "Daybreak in Udi",
+    "year": 1949,
+    "director": "Terry Bishop",
+    "country": ["United Kingdom", "Nigeria"],
+    "type": "documentary",
+    "genre": "documentary",
+    "era": "pre-history",
+    "description": "Funded by Britain's Colonial Office and shot on location in Udi, in present-day Enugu State, this documentary follows a Nigerian community building a rural maternity home through collective self-help methods, and won the Academy Award for Best Documentary Feature in 1950.",
+    "fun_fact": "It is often cited as the first Nigeria-set film to win an Oscar, and also won a BAFTA for Best Documentary, though it was a British Colonial Office production rather than a Nigerian-directed work.",
+    "poster_url": "https://en.wikipedia.org/wiki/Daybreak_in_Udi",
+    "poster_source": "Wikipedia",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Daybreak_in_Udi",
+      "https://ynaija.com/throwback-daybreak-in-udi-was-the-first-nigerian-language-film-to-win-an-oscar/",
+      "https://discovery.ucl.ac.uk/1443486/1/dech12119.pdf"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed colonial-era production, included per methodology as clearly labeled pre-history era work; directed by British filmmaker Terry Bishop from a screenplay by Montagu Slater, funded by the Central Office of Information at the Colonial Office with a budget of roughly GBP 30,000."
   }
 ]
