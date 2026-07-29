@@ -918,11 +918,11 @@ permalink: "/"
 <span class="col-kicker">From the archive</span>
 <h3 class="col-header">Short Clips</h3>
 <a class="clip-item" href="https://www.instagram.com/p/DWwBsGOgj_n/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;">
-  <div class="clip-thumb" style="background-image:url('https://www.instagram.com/p/DWwBsGOgj_n/media/?size=l');background-color:#2b2015;background-size:cover;background-position:center;position:relative;"><span class="clip-play">&#9654;</span><span class="clip-duration">0:35</span></div>
+  <div class="clip-thumb" style="background-image:url('https://image.tmdb.org/t/p/w500/9RNrozaagFmpm6m0CP7q4XDcIXj.jpg');background-color:#2b2015;background-size:cover;background-position:center;position:relative;"><span class="clip-play">&#9654;</span><span class="clip-duration">0:35</span></div>
   <div class="clip-caption">An African story told on its own terms, animated in a visual language drawn from African art.</div><div class="clip-source"><em>Kirikou and the Sorceress</em> (1998)</div>
 </a>
 <a class="clip-item" href="https://www.instagram.com/p/DXJqoFjAmbS/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;">
-  <div class="clip-thumb" style="background-image:url('https://www.instagram.com/p/DXJqoFjAmbS/media/?size=l');background-color:#2b2015;background-size:cover;background-position:center;position:relative;"><span class="clip-play">&#9654;</span><span class="clip-duration">0:55</span></div>
+  <div class="clip-thumb" style="background-image:url('https://image.tmdb.org/t/p/w500/w5mnYVgXZoX679r1BJFw8gWLVKJ.jpg');background-color:#2b2015;background-size:cover;background-position:center;position:relative;"><span class="clip-play">&#9654;</span><span class="clip-duration">0:55</span></div>
   <div class="clip-caption">A rare 1960 film of Lagos on the edge of independence.</div><div class="clip-source"><em>Bound for Lagos</em>, dir. Edric Connor (1960)</div>
 </a>
 </div>
@@ -1013,10 +1013,7 @@ function renderValue(v,list){
     grid.appendChild(card);
   });
 }
-document.getElementById('facetSelect').addEventListener('change',e=>{curFacet=e.target.value;curValue=null;document.querySelectorAll('.review-item').forEach(function(r){
-  r.addEventListener('click',function(){ r.classList.toggle('open'); var m=r.querySelector('.review-more'); if(m) m.innerHTML = r.classList.contains('open') ? 'Close &#9652;' : 'Read the full review &#9662;'; });
-});
-buildButtons();});
+document.getElementById('facetSelect').addEventListener('change',e=>{curFacet=e.target.value;curValue=null;buildButtons();});
 // live Lagos date + issue number
 (function(){
   const now=new Date();
@@ -1030,6 +1027,9 @@ buildButtons();});
     document.addEventListener('click',function(){ l.style.display='none'; }); }
 })();
 buildButtons();
+document.querySelectorAll('.review-item').forEach(function(r){
+  r.addEventListener('click',function(){ r.classList.toggle('open'); var m=r.querySelector('.review-more'); if(m) m.innerHTML = r.classList.contains('open') ? 'Close &#9652;' : 'Read the full review &#9662;'; });
+});
 </script>
 
 </body>
