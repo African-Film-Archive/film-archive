@@ -814,6 +814,18 @@ permalink: "/"
   .film-grid{grid-template-columns:1fr !important;}
   .title{font-size:1.8rem !important;}
 }
+
+.review-item{cursor:pointer;transition:background 0.15s;}
+.review-item:hover{background:rgba(43,32,21,0.04);}
+.review-more{font-family:'Special Elite',monospace;font-size:0.6rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--rust);margin-top:0.5rem;}
+.review-full{display:none;margin-top:0.9rem;font-family:'Cormorant Garamond',serif;font-size:1.02rem;line-height:1.65;color:var(--ink);}
+.review-full p{margin:0 0 0.8rem;}
+.review-item.open .review-full{display:block;}
+
+.clip-thumb{overflow:hidden;}
+.clip-thumb::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0.05),rgba(0,0,0,0.45));z-index:1;}
+.clip-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:2;color:#fff;font-size:1.6rem;text-shadow:0 1px 4px rgba(0,0,0,0.6);}
+.clip-duration{z-index:2;}
 </style>
 </head>
 <body class="paper-bg">
@@ -885,14 +897,34 @@ permalink: "/"
 <div class="col">
 <span class="col-kicker">On our mind</span>
 <h3 class="col-header">Reviews &amp; Essays</h3>
-<div class="review-item"><div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><div class="review-title">A visual letter, a homage to Senegal and Africa</div><div class="review-excerpt">"Safi Faye's portrait of Serer village life reads as a letter home, patient and clear-eyed."</div><div class="review-byline">On Our Mind &middot; <em>Kaddu Beykat</em> (1975)</div></div>
-<div class="review-item"><div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><div class="review-title">You can't hide us</div><div class="review-excerpt">"Nii Kwate Owoo turns the camera on African artefacts locked in European museum basements, and asks who the archive is for."</div><div class="review-byline">On Our Mind &middot; <em>You Hide Me</em> (1970)</div></div>
+<div class="review-item">
+  <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+  <div class="review-title">A visual letter, a homage to Senegal and Africa</div>
+  <div class="review-excerpt">"Framed as a personal, vulnerable letter to a friend, the first feature-length film commercially directed by a woman from Africa."</div>
+  <div class="review-byline">On Our Mind &middot; <em>Kaddu Beykat</em> (1975)</div>
+  <div class="review-more">Read the full review &#9662;</div>
+  <div class="review-full"><p>The film begins with a voice-over saying, "This is my village, you are going to spend a moment with us at home." This is an invitation into a home, into community and into an intimate journey. The hallmark of a grounded, intentional cinema in conversation with a generational, passed-on tradition of oral storytelling.</p><p>Upon release the film was banned in Senegal. For various reasons, personally, I think for showing the arrival, illusion and death of the middle class. Baba Diop rightly suggests it was banned for showing the humble people of Serer, and for giving voice to peasants. In the 1970s Senegal, peasants were detested because they could not pay their taxes.</p><p>So the year is 1975. African nations, almost two decades after independence from some global-northern countries, were starting to feel the effects of Neocolonialism and, as a result, a wildly fluctuating economy. Kaddu Beykat becomes the very first feature-length commercial film directed by a woman from Africa, accomplished through bravery.</p><p>Kaddu Beykat (The Voice of the Peasant, often translated as Letter from my Village) is Safi Faye's first feature-length film after film school and several short films. It is a gentle and aware visual poem, filmed in the rainy season with a small three-person crew, in three weeks. It brilliantly explores the aesthetics of fiction and non-fiction, and highlights matriarchal agency.</p><p>Pioneering a minimalistic docu-drama style, the film creates a visionary, intimate experience, an engaged cinema. While earlier docufiction relied on authoritative, detached European narrators, Faye's film is framed as a personal, vulnerable letter to a friend, accompanied by sharp monochromatic visuals of her hometown, in captivity of fluctuating produce prices.</p><p>The film critiques the lingering colonial economic structure, designed for dependency, as well as the sycophancy of the rising Black middle class, whose corruption sets a dangerous precedent. I agree with Françoise Pfaff's apt conclusion that it is "soberly poetic yet politically effective." It was banned because it openly criticized the Senegalese government's neocolonial agricultural policies.</p><p>Safi Faye was first a teacher, then an actor turned prolific filmmaker. Over her career she directed several vital works showing alternatives to urban African life, postcolonial economics, and community structures. She used her academic and cinematic training to challenge and avoid replicating Western paradigms. The life and work of Safi Faye reinforces the need for Africans to tell our own stories.</p></div>
+</div>
+<div class="review-item">
+  <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+  <div class="review-title">A shocking revelation, but you can't hide us</div>
+  <div class="review-excerpt">"Owoo, at 26, filmed the British Museum's hidden vaults of looted Asante treasures. The film was banned, and became an anchor of the restitution movement."</div>
+  <div class="review-byline">On Our Mind &middot; <em>You Hide Me</em> (1970)</div>
+  <div class="review-more">Read the full review &#9662;</div>
+  <div class="review-full"><p>Note: this review contains significant spoilers.</p><p>Filmed over 50 years ago, You Hide Me is often described as one of the earliest independent films from Anglophone Africa, especially in the context of post-colonial African cinema. The film was openly banned after exposing the British Museum's hidden African collections, but fortunately the ban brought more attention to the film.</p><p>In 1966, four years before the release of this film, Kwame Nkrumah, the Pan-African pioneer, writer and leader, was deposed for his activist stance and due to fears of communist alignment. Britain was highly receptive to this overthrow, as expected.</p><p>In 1969, Ghana transitioned to the civilian Second Republic under Prime Minister Kofi Busia, who implemented Western-backed austerity proposed by the IMF and World Bank. The aftermath was an economic crisis and currency devaluations that fuelled disillusionment and unrest.</p><p>In 1970 You Hide Me was a surprise release, to international acclaim. Its revelations were embarrassing for the people involved. The film revealed, for the first time, hundreds of thousands of previously unseen, rare Asante art treasures stolen by the British after the Sagrenti War and the invasion of Kumasi in the 1870s, as well as other treasures looted by British Expeditionary Forces.</p><p>In 1971 the director traveled with the film to Ghana. It was banned by the Ghanaian government and rejected by Ghana Television for being "anti-British." Busia's government was being controlled by the IMF and World Bank, institutions that are part of a neo-colonial system built by Western powers. In 1972 there was a coup, just one year after the ban: Busia's government was overthrown in the January 1972 coup.</p><p>Owoo, at 26, managed to outsmart the directors of the British Museum and its security system to access the museum's secret underground vaults and record artifacts stowed there, with Margaret Prah and cinematographer Eddie Newstead. A few hours was all they needed. The footage revealed the extent of the theft, objects stashed in plastic bags and crates, shelves, masks, sculptures, sacred objects. Catalogued. Stored. Studied. Hidden. The film asks: why are thousands of stolen African objects still stored and displayed in European and American museums?</p><p>The cinematography and editing reinforce the urgency, handheld 16mm, close-ups, the slow motion at the beginning, the objects re-awakening and made to feel alive, as opposed to the labelled and sealed artefact. This film is an influential anchor to the ongoing restitution movement.</p></div>
+</div>
 </div>
 <div class="col">
 <span class="col-kicker">From the archive</span>
 <h3 class="col-header">Short Clips</h3>
-<a class="clip-item" href="https://www.instagram.com/p/DWwBsGOgj_n/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;"><div class="clip-thumb"><span class="clip-duration">0:35</span></div><div class="clip-caption">An African story told on its own terms, animated in a visual language drawn from African art.</div><div class="clip-source"><em>Kirikou and the Sorceress</em> (1998)</div></a>
-<a class="clip-item" href="https://www.instagram.com/p/DXJqoFjAmbS/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;"><div class="clip-thumb"><span class="clip-duration">0:55</span></div><div class="clip-caption">A rare 1960 film of Lagos on the edge of independence.</div><div class="clip-source"><em>Bound for Lagos</em>, dir. Edric Connor (1960)</div></a>
+<a class="clip-item" href="https://www.instagram.com/p/DWwBsGOgj_n/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;">
+  <div class="clip-thumb" style="background-image:url('https://www.instagram.com/p/DWwBsGOgj_n/media/?size=l');background-color:#2b2015;background-size:cover;background-position:center;position:relative;"><span class="clip-play">&#9654;</span><span class="clip-duration">0:35</span></div>
+  <div class="clip-caption">An African story told on its own terms, animated in a visual language drawn from African art.</div><div class="clip-source"><em>Kirikou and the Sorceress</em> (1998)</div>
+</a>
+<a class="clip-item" href="https://www.instagram.com/p/DXJqoFjAmbS/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;">
+  <div class="clip-thumb" style="background-image:url('https://www.instagram.com/p/DXJqoFjAmbS/media/?size=l');background-color:#2b2015;background-size:cover;background-position:center;position:relative;"><span class="clip-play">&#9654;</span><span class="clip-duration">0:55</span></div>
+  <div class="clip-caption">A rare 1960 film of Lagos on the edge of independence.</div><div class="clip-source"><em>Bound for Lagos</em>, dir. Edric Connor (1960)</div>
+</a>
 </div>
 </section>
 
@@ -981,7 +1013,10 @@ function renderValue(v,list){
     grid.appendChild(card);
   });
 }
-document.getElementById('facetSelect').addEventListener('change',e=>{curFacet=e.target.value;curValue=null;buildButtons();});
+document.getElementById('facetSelect').addEventListener('change',e=>{curFacet=e.target.value;curValue=null;document.querySelectorAll('.review-item').forEach(function(r){
+  r.addEventListener('click',function(){ r.classList.toggle('open'); var m=r.querySelector('.review-more'); if(m) m.innerHTML = r.classList.contains('open') ? 'Close &#9652;' : 'Read the full review &#9662;'; });
+});
+buildButtons();});
 // live Lagos date + issue number
 (function(){
   const now=new Date();
