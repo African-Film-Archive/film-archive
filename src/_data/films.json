@@ -6064,5 +6064,3040 @@
     ],
     "date_verified": "2026-07-29",
     "notes": "Traore is Malian."
+  },
+  {
+    "id": "barsoum-looking-for-a-job-1923",
+    "title": "Barsoum Yabhas Aen Wazifa (Barsoum Looking for a Job)",
+    "year": 1923,
+    "director": "Mohamed Bayoumi",
+    "country": [
+      "Egypt"
+    ],
+    "type": "short",
+    "genre": "comedy, silent",
+    "era": "pre-history",
+    "description": "A silent short comedy by Mohamed Bayoumi, generally credited as the first Egyptian to direct and shoot a film in Egypt, starring Fawzi Mounib as a man searching for work. Bayoumi had trained in filmmaking in Berlin before returning to Cairo in 1923 and founding his own studio, Studio Amon Films, in the Shubra neighborhood.",
+    "fun_fact": "The same year, Bayoumi also shot Amun, a newsreel of nationalist leader Saad Zaghloul's return from exile, making him the first Egyptian to produce a newsreel as well.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/List_of_Egyptian_films_of_the_1920s",
+      "https://www.bibalex.org/alexcinema/cinematographers/Mohamed_Bayoumi.html",
+      "https://ismailiafilmfest.com/ismailia2024/20240109_En.html"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-colonial-power-directed; Egyptian-directed silent short, included per methodology as an early pre-history-era work. Some sources give the studio founding date as 1923, others cite Bayoumi's Berlin training ending slightly differently; core facts (director, year, subject) agree across sources."
+  },
+  {
+    "id": "al-bashkateb-1924",
+    "title": "Al-Bashkateb (The Head Clerk)",
+    "year": 1924,
+    "director": "Mohamed Bayoumi",
+    "country": [
+      "Egypt"
+    ],
+    "type": "short",
+    "genre": "comedy, silent",
+    "era": "pre-history",
+    "description": "A silent short fiction film starring Amin Atallah, regarded by film historians as the first fiction film shot and directed by an Egyptian filmmaker. It was produced independently through Bayoumi's own small studio rather than a foreign production company, distinguishing it from most other Egyptian films of the era, which relied on European technicians.",
+    "fun_fact": "Bayoumi shot the film on equipment and technique he had studied in Berlin, effectively transplanting German filmmaking training into Cairo's earliest local productions.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/List_of_Egyptian_films_of_the_1920s",
+      "https://www.bibalex.org/alexcinema/films/Early_Films.html"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Egyptian-directed; included as an early indigenous production within the non-restricted pre-history era."
+  },
+  {
+    "id": "qoublah-fil-sahara-1928",
+    "title": "Qoublah fil sahara (Kiss in the Desert)",
+    "year": 1928,
+    "director": "Ibrahim Lama",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "silent, drama",
+    "era": "pre-history",
+    "description": "A silent Egyptian feature directed by Ibrahim Lama, one of the Lama brothers who were prolific independent producers in Cairo during the silent era, starring Badr Lama and Ibrahim Zoulficar. It belongs to the wave of desert-set romantic dramas that dominated late-1920s Egyptian silent cinema.",
+    "fun_fact": "The Lama brothers, Ibrahim and Badr, were Chilean-Palestinian immigrants to Egypt who became two of the most active independent filmmakers of the country's silent era.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/List_of_Egyptian_films_of_the_1920s",
+      "https://www.wikidata.org/wiki/Q20384383"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Egyptian-directed silent feature; marked probable because detailed plot/production sources beyond the Wikipedia filmography list and Wikidata entry could not be independently located."
+  },
+  {
+    "id": "bint-al-nil-1929",
+    "title": "Bint al-Nil (Daughter of the Nile)",
+    "year": 1929,
+    "director": "Aziza Amir",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "silent, drama",
+    "era": "pre-history",
+    "description": "A silent drama directed by and starring Aziza Amir, one of the first Egyptian women to direct, produce, and star in her own films, alongside Ahmed Allam. Amir had already made her mark as producer and lead of Laila (1927), often cited as the first Egyptian feature film, and continued directing through the silent era.",
+    "fun_fact": "Aziza Amir is frequently credited alongside Assia Dagher and Fatma Rushdi as one of the three pioneering actress-producers who effectively built Egypt's early film industry from scratch.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/List_of_Egyptian_films_of_the_1920s",
+      "https://en.wikipedia.org/wiki/Aziza_Amir"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Egyptian-directed; woman-directed silent feature. Marked probable pending a dedicated secondary source beyond Wikipedia's filmography and biography pages."
+  },
+  {
+    "id": "ghadat-al-sahara-1929",
+    "title": "Ghadat al-sahara (The Desert Belle)",
+    "year": 1929,
+    "director": "Wedad Orfi, Ahmed Galal",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "silent, drama",
+    "era": "pre-history",
+    "description": "A silent Egyptian drama co-directed by Wedad Orfi and Ahmed Galal, starring pioneering actress-producer Assia Dagher alongside Orfi. It is part of the late-1920s cycle of desert romances that defined Egyptian silent cinema before the coming of sound.",
+    "fun_fact": "Star Assia Dagher went on to found her own production company, Lotus Films, becoming one of the most influential producers in Egyptian cinema history.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/List_of_Egyptian_films_of_the_1920s",
+      "https://en.wikipedia.org/wiki/Assia_Dagher"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Egyptian-directed silent feature; marked probable pending additional independent sourcing beyond Wikipedia filmography and biography pages."
+  },
+  {
+    "id": "weddad-1936",
+    "title": "Weddad (Wydad)",
+    "year": 1936,
+    "director": "Fritz Kramp",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "romantic musical",
+    "era": "pre-history",
+    "description": "A romantic musical set in the Mamluk Sultanate era, based on a tale inspired by One Thousand and One Nights, and notable as the film debut of singer Umm Kulthum in the title role. Produced by the newly founded Studio Misr, it was the studio's biggest production to date and its commercial success established Studio Misr as Egypt's leading film company.",
+    "fun_fact": "The football club Wydad AC of Casablanca, Morocco, took its name directly from this film after Moroccan founders were captivated by it.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Weddad",
+      "https://www.imdb.com/title/tt0237908/",
+      "https://en.wikipedia.org/wiki/Studio_Misr"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed (German director working for Studio Misr) colonial-era-adjacent commercial production; included per methodology as a labeled non-Egyptian-directed work within Egypt's studio era."
+  },
+  {
+    "id": "salama-is-okay-1937",
+    "title": "Salama Is Okay (Salama fi Khayr)",
+    "year": 1937,
+    "director": "Niazi Mostafa",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "comedy",
+    "era": "pre-history",
+    "description": "A comedy written by and starring famed stage and screen comedian Naguib el-Rihani as Salama, an honest porter wrongly accused of theft, directed by Niazi Mostafa. The film is included on the Cairo International Film Festival's Top 100 Egyptian Films list.",
+    "fun_fact": "Director Niazi Mostafa went on to make 74 films across a decades-long career, becoming one of the most prolific directors in Egyptian film history.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Salama_Is_Okay",
+      "https://www.imdb.com/title/tt0281161/",
+      "https://www.fcat.es/FCAT/index.php?option=com_zoo&task=item&item_id=652&Itemid=37"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Egyptian-directed studio-era comedy."
+  },
+  {
+    "id": "al-azeema-1939",
+    "title": "Al-Azeema (The Will)",
+    "year": 1939,
+    "director": "Kamal Selim",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "drama, romance",
+    "era": "pre-history",
+    "description": "A drama produced by Studio Misr, directed by Kamal Selim and starring Anwar Wagdy, Fatma Rushdy, and Hussein Sedky, released in November 1939. The film is widely cited by Egyptian film historians as marking a turn toward social-realist storytelling grounded in the lives of ordinary Cairenes, moving away from the melodramatic desert romances of the silent era.",
+    "fun_fact": "Al-Azeema is frequently named by Egyptian critics as the country's first true realist film, prefiguring the neorealist wave that would follow in Egyptian cinema after World War II.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/List_of_Egyptian_films_of_1939",
+      "https://goldenglobes.com/articles/century-egyptian-cinema/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Egyptian-directed. Note: some sources credit 'The Will' as English title, others 'Determination'; both refer to the same 1939 Kamal Selim film."
+  },
+  {
+    "id": "blazing-the-trail-1927",
+    "title": "Blazing the Trail",
+    "year": 1927,
+    "director": "H. Bruce Woolfe (producer), British Instructional Films",
+    "country": [
+      "Gold Coast",
+      "United Kingdom"
+    ],
+    "type": "documentary",
+    "genre": "documentary, colonial propaganda",
+    "era": "pre-history",
+    "description": "A British Instructional Films silent documentary short released as part of 'The Empire Series', showing the construction of Takoradi harbour, roads, and railways in the Gold Coast, with African laborers working under European supervision. Contemporary trade press such as Kinematograph Weekly praised the film for bringing the 'bustle and romance of railway-making on the Gold Coast' to British audiences.",
+    "fun_fact": "The footage was reused in at least two other British colonial films, The Harbour (1930) and West Africa Calling (1927), showing how the same Gold Coast development footage was recycled across multiple propaganda releases.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "http://www.colonialfilm.org.uk/node/1688",
+      "http://www.colonialfilm.org.uk/production-company/british-instructional-films"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed British colonial propaganda documentary; included per methodology as clearly labeled colonial-era work. Print held by the BFI (ID 430585), documented and analyzed on colonialfilm.org.uk using period Kinematograph Weekly and Bioscope trade press as underlying sources."
+  },
+  {
+    "id": "here-is-the-gold-coast-1947",
+    "title": "Here Is the Gold Coast",
+    "year": 1947,
+    "director": "John Page",
+    "country": [
+      "Gold Coast",
+      "United Kingdom"
+    ],
+    "type": "documentary",
+    "genre": "documentary, colonial propaganda",
+    "era": "pre-history",
+    "description": "A Central Office of Information documentary narrated by West African commentator Augustus Engmann, outlining a ten-year British development and welfare plan for the Gold Coast, contrasting modernizing Accra with the 'Northern Territories'. The film was screened at the 1947 Edinburgh Festival and distributed non-theatrically in the United States through British Information Services.",
+    "fun_fact": "Gold Coast students studying in Britain publicly protested the film in the Gold Coast Legislative Assembly in 1955, objecting that it depicted only 'the remotest parts of the country' where people appeared 'almost all naked'.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "http://www.colonialfilm.org.uk/node/1280",
+      "http://www.bfi.org.uk/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed British colonial development propaganda; included per methodology. Print held by BFI (ID 10959); colonialfilm.org.uk analysis cites period sources including Kinematograph Weekly, Monthly Film Bulletin, and Documentary Film News."
+  },
+  {
+    "id": "palaver-1926",
+    "title": "Palaver: A Romance of Northern Nigeria",
+    "year": 1926,
+    "director": "Geoffrey Barkas",
+    "country": [
+      "Nigeria",
+      "United Kingdom"
+    ],
+    "type": "feature",
+    "genre": "silent, drama",
+    "era": "pre-history",
+    "description": "A silent British feature shot among the Sura and Angas peoples of what is now Bauchi and Plateau States in Northern Nigeria, dramatizing a conflict between a British district officer and a tin miner. It is generally cited as the earliest feature film made in Nigeria and the first to feature Nigerian actors, Dawiya and Yilkuba, in speaking (intertitle-credited) roles.",
+    "fun_fact": "Its two Nigerian leads, Dawiya, playing the Sura king, and Yilkuba, playing a witch doctor, are considered Nigeria's earliest identifiable film actors.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Filmmaking_in_Colonial_Nigeria",
+      "http://www.colonialfilm.org.uk/node/1342"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed British colonial-era production shot on location in Nigeria; included per methodology as clearly labeled colonial-era work."
+  },
+  {
+    "id": "african-mirror-debut-1913",
+    "title": "African Mirror (newsreel, debut issue)",
+    "year": 1913,
+    "director": "African Film Productions",
+    "country": [
+      "South Africa"
+    ],
+    "type": "short",
+    "genre": "newsreel",
+    "era": "pre-history",
+    "description": "South Africa's first newsreel, first screened on 5 May 1913 and produced by African Film Productions, went on to become the world's longest continuously running commercial newsreel, operating until 1984. During the pre-history period it circulated across southern, eastern, and (during WWII) North African exhibition circuits, and its footage was supplied to newsreels such as Pathe.",
+    "fun_fact": "African Mirror ran for roughly seventy years, making it one of the longest-running newsreel series ever produced anywhere in the world.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://sahistory.org.za/article/history-south-african-film-industry-timeline-1895-2003",
+      "https://www.tandfonline.com/doi/abs/10.1080/03057070.2013.826071",
+      "https://www.researchgate.net/publication/263244087_African_Mirror_The_Life_and_Times_of_the_South_African_Newsreel_from_1910_to_1948"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Represents the debut issue/series launch rather than a single discrete film; South African-produced newsreel aimed primarily at white, Indian, and 'coloured' audiences under the segregation-era exhibition system. Included as a foundational pre-history-era moving-image record distinct from any narrative feature already catalogued."
+  },
+  {
+    "id": "le-bled-1929",
+    "title": "Le Bled",
+    "year": 1929,
+    "director": "Jean Renoir",
+    "country": [
+      "Algeria",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "silent, drama, colonial",
+    "era": "pre-history",
+    "description": "A silent French colonial drama shot in French Algeria, commissioned to mark the centenary of French colonization of Algeria, following the same cycle of Saharan romance and settler-anxiety themes established by L'Atlantide (1921). It was directed by Jean Renoir, early in his career, before he became one of French cinema's most celebrated auteurs.",
+    "fun_fact": "The film was commissioned specifically to commemorate one hundred years of French rule in Algeria, making its propagandistic purpose explicit from the outset.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Cinema_of_Algeria",
+      "https://en.wikipedia.org/wiki/Le_Bled"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed French colonial centenary propaganda film; included per methodology. Marked probable pending a third independent source beyond the two Wikipedia pages consulted."
+  },
+  {
+    "id": "sudan-and-egypt-1928-1929",
+    "title": "Sudan and Egypt: 1928-29",
+    "year": 1928,
+    "director": "Alan Maffey (amateur)",
+    "country": [
+      "Sudan",
+      "Egypt",
+      "United Kingdom"
+    ],
+    "type": "documentary",
+    "genre": "amateur footage, documentary",
+    "era": "pre-history",
+    "description": "Amateur silent footage shot by a young Alan Maffey, later Lord Rugby, during his time in the Anglo-Egyptian Sudan, including scenes of the 1929 opening of the Dinder River Railway. The reel is preserved in the BFI's collection and catalogued through the colonialfilm.org.uk project as a record of British colonial administrative life in Sudan.",
+    "fun_fact": "Alan Maffey later became a senior British diplomat, serving as the last British Ambassador to a still-monarchical Egypt in the early 1950s under the title Lord Rugby.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "http://www.colonialfilm.org.uk/node/1005",
+      "http://www.bfi.org.uk/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed amateur colonial administrator footage; thin sourcing (single detailed source plus the BFI holding record), marked probable accordingly."
+  },
+  {
+    "id": "southern-rhodesia-is-this-your-country-1947",
+    "title": "Southern Rhodesia: Is This Your Country?",
+    "year": 1947,
+    "director": "Harold Weaver",
+    "country": [
+      "Southern Rhodesia",
+      "United Kingdom"
+    ],
+    "type": "documentary",
+    "genre": "documentary, travelogue, colonial propaganda",
+    "era": "pre-history",
+    "description": "A Gaumont-British (Africa) immigration and travelogue film produced for the Southern Rhodesia government to attract British settlers after World War II, contrasting European settler life with African agricultural labor. Sight and Sound magazine profiled the film in a Spring 1948 article examining the wave of government-sponsored films then being produced in Rhodesia.",
+    "fun_fact": "Sight and Sound reported that roughly 20,000 immigrants, about half from Britain, entered Rhodesia in the two years around the film's release, a wave the film was explicitly designed to encourage.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "http://www.colonialfilm.org.uk/node/1278",
+      "http://www.bfi.org.uk/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed white-settler recruitment propaganda; included per methodology as clearly labeled colonial-era work. Print held by BFI (ID 10465); colonialfilm.org.uk analysis draws on period Sight and Sound, African Affairs, and South African Journal of Science sources."
+  },
+  {
+    "id": "aventure-malgache-1944",
+    "title": "Aventure Malgache",
+    "year": 1944,
+    "director": "Alfred Hitchcock",
+    "country": [
+      "Madagascar",
+      "United Kingdom"
+    ],
+    "type": "short",
+    "genre": "propaganda, drama, short",
+    "era": "pre-history",
+    "description": "A French-language propaganda short made by Alfred Hitchcock for the British Ministry of Information, dramatizing French Resistance activity on Madagascar during the Vichy administration of the island, based on the wartime experiences of actor Claude Dauphin or lawyer Jules Francois Clermont (sources differ on the true inspiration). It was one of two French-language shorts Hitchcock made for the Ministry of Information in 1944, alongside Bon Voyage.",
+    "fun_fact": "Sight and Sound later wrote that despite its brief running time and slender budget, the film 'abounds in Hitchcockian touches' and is 'unmistakably the authentic article'.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Aventure_Malgache",
+      "https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150022623",
+      "http://www.sensesofcinema.com/2006/41/hitchcock-aventure-malgache/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed wartime propaganda short set in colonial Madagascar; included per methodology as clearly labeled colonial-era work. Sources disagree on whether Claude Dauphin or Jules Francois Clermont was the true real-life inspiration; disagreement noted explicitly per methodology."
+  },
+  {
+    "id": "zohra-1922",
+    "title": "Zohra",
+    "year": 1922,
+    "director": "Albert Samama Chikly",
+    "country": [
+      "Tunisia"
+    ],
+    "type": "short",
+    "genre": "silent, drama",
+    "era": "pre-history",
+    "description": "A silent short film shot in Tunisia by Albert Samama Chikly, generally credited as the first indigenous North African film production, made by a Tunisian filmmaker rather than a foreign studio. The screenplay was written by Chikly's daughter Haydee Chikly, who also edited the film and starred as its lead.",
+    "fun_fact": "Haydee Chikly, who co-created Zohra as a teenager, went on to have an acting career in Tunisian cinema that stretched into the 1990s.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Zohra_(film)",
+      "https://en.wikipedia.org/wiki/Albert_Samama_Chikly",
+      "https://www.worldjewishcongress.org/en/legacy-of-jews-in-MENA/Tunisias-King-of-Cinema"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Rare African/Maghrebi-directed production within the colonial period, made independently of French colonial or studio sponsorship."
+  },
+  {
+    "id": "ain-al-ghazal-1924",
+    "title": "Ain al-Ghazal (The Girl from Carthage)",
+    "year": 1924,
+    "director": "Albert Samama Chikly",
+    "country": [
+      "Tunisia"
+    ],
+    "type": "feature",
+    "genre": "silent, drama",
+    "era": "pre-history",
+    "description": "Albert Samama Chikly's only feature-length film, telling the story of a young Tunisian woman trying to escape a forced marriage, with his daughter Haydee Chikly again starring in the lead role. Film historians describe the film as foreshadowing the female-centered themes that would recur in Tunisian cinema after independence.",
+    "fun_fact": "The film is considered the first Tunisian and one of the first Maghrebi feature films directed independently of French colonial studio backing.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Girl_from_Carthage",
+      "https://en.wikipedia.org/wiki/Albert_Samama_Chikly",
+      "https://festival.ilcinemaritrovato.it/en/proiezione/i-film-non-fiction-di-albert-samama-chikly/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Rare African/Maghrebi-directed feature within the colonial period."
+  },
+  {
+    "id": "congo-peacock-expedition-1937",
+    "title": "Congo Peacock Expedition",
+    "year": 1937,
+    "director": "James Paul Chapin",
+    "country": [
+      "Belgian Congo"
+    ],
+    "type": "documentary",
+    "genre": "documentary, ethnographic, expedition film",
+    "era": "pre-history",
+    "description": "An expedition documentary following ornithologist James Paul Chapin's search for the Congo peafowl, a bird species then rumored but not yet scientifically confirmed to exist in the Belgian Congo. The footage documents both the natural history expedition and the Congolese landscapes and communities the team passed through.",
+    "fun_fact": "Chapin's search paid off: he formally described the Congo peafowl as a new species in 1936, one of the last major bird discoveries of the twentieth century, and this expedition footage documents the followup fieldwork.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.filmpreservation.org/films?search%5Bbrowse_by%5D=archive&search%5Bby_archive_name%5D=American+Museum+of+Natural+History",
+      "https://en.wikipedia.org/wiki/Congo_peafowl"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed ethnographic/natural-history expedition film; included per methodology. Marked probable pending a dedicated film-specific secondary source beyond the archive listing and the species' Wikipedia page."
+  },
+  {
+    "id": "accao-colonizadora-dos-portugueses-1932",
+    "title": "Accao Colonizadora dos Portugueses",
+    "year": 1932,
+    "director": "Antunes da Mata",
+    "country": [
+      "Angola",
+      "Portugal"
+    ],
+    "type": "documentary",
+    "genre": "documentary, colonial propaganda",
+    "era": "pre-history",
+    "description": "A Portuguese colonial documentary filmed in Angola, opening with an intertitle stating that villagers from Portugal had been settling in Angola with state assistance, part of Portugal's program of colonial propaganda filmmaking made for domestic and international exhibition in the early 1930s.",
+    "fun_fact": "The film was one of several Portuguese colonial documentaries produced to be shown at international colonial exhibitions in Europe in the early 1930s, part of a coordinated propaganda effort to justify continued Portuguese rule in Africa.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.researchgate.net/publication/304713435_Images_of_Africa_Portuguese_films_and_documentaries_related_to_the_former_colonies_in_Africa_first_half_of_the_20th_century",
+      "https://en.wikipedia.org/wiki/1930s_in_Angola"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Non-African-directed Portuguese colonial propaganda; included per methodology. Marked probable pending a second dedicated source beyond the academic paper describing it (paper is the primary detailed source located)."
+  },
+  {
+    "id": "song-of-khartoum-1955",
+    "title": "Song of Khartoum",
+    "year": 1955,
+    "director": "Gadalla Gubara",
+    "country": [
+      "Sudan"
+    ],
+    "type": "documentary",
+    "genre": "documentary",
+    "era": "liberation",
+    "description": "Gadalla Gubara's tribute to Khartoum as a modern city is considered the first color film in the history of African cinema. Made the year before Sudan's independence, it captures the capital during a period the director and later historians called Sudan's cultural golden era. Gubara went on to found and lead the Sudan Film Unit after independence.",
+    "fun_fact": "Gadalla Gubara is widely called the father of Sudanese cinema and worked on over 100 films across a career spanning five decades.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://akoroko.com/gadalla-gubara-african-cinemas/",
+      "https://en.wikipedia.org/wiki/Gadalla_Gubara",
+      "https://en.wikipedia.org/wiki/Song_of_Khartoum"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "No director-origin restriction applies (pre-1960). Distinct from Khartoum 1960 (1960) already in the database; verify exact release year against Sudan Film Unit archives if a primary source becomes available."
+  },
+  {
+    "id": "the-beginning-and-the-end-1960",
+    "title": "The Beginning and the End",
+    "year": 1960,
+    "director": "Salah Abu Seif",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "drama, social realism",
+    "era": "liberation",
+    "description": "Salah Abu Seif's adaptation of Naguib Mahfouz's 1949 novel follows a widowed mother's desperate struggle to keep her family afloat in late-1930s Cairo, with her children pulled toward crime, prostitution, and moral compromise. It was the first film adaptation of a Naguib Mahfouz novel and a landmark of Egyptian social realism. The film starred Omar Sharif and was nominated for the Grand Prix at the 1961 Moscow International Film Festival.",
+    "fun_fact": "The film's Arabic title translates directly from Mahfouz's novel Bidaya wa Nihaya, and it launched a long collaboration between Abu Seif and Mahfouz.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Beginning_and_the_End_(1960_film)",
+      "https://aljadid.com/content/legacy-salah-abu-seif-master-realism-egyptian-cinema",
+      "https://arablit.org/2016/04/29/friday-film-based-on-naguib-mahfouzs-a-beginning-and-an-end/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Salah Abu Seif is Egyptian; qualifies under the 1960+ rule."
+  },
+  {
+    "id": "la-voix-du-peuple-1961",
+    "title": "La Voix du Peuple (The People's Voice)",
+    "year": 1961,
+    "director": "Djamel Chanderli, Mohammed Lakhdar-Hamina",
+    "country": [
+      "Algeria"
+    ],
+    "type": "short",
+    "genre": "documentary",
+    "era": "liberation",
+    "description": "A 20-minute documentary short assembled from archival combat footage, including images shot by Rene Vautier, that exposed French army abuses such as torture, arbitrary executions, napalm bombings, and village destructions during the Algerian War, countering official French \"pacification\" narratives. It was produced by the GPRA's clandestine Cinema Service as part of a wartime \"war of images.\"",
+    "fun_fact": "Co-director Djamel Chanderli treated his camera as a weapon of combat for Algerian independence, filming clandestinely for the GPRA's film service during the war.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://africultures.com/films/?no=6892",
+      "https://www.africine.org/film/la-voix-du-peuple/6892",
+      "http://www.maghrebdesfilms.fr/voix-du-peuple-la.html"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Directors are Algerian; qualifies under the 1960+ rule. Distinct from Djazairouna (1961) already in the database."
+  },
+  {
+    "id": "les-fusils-de-la-liberte-1961",
+    "title": "Les Fusils de la Liberte (Guns of Freedom)",
+    "year": 1961,
+    "director": "Djamel Chanderli, Mohamed Lakhdar-Hamina",
+    "country": [
+      "Algeria"
+    ],
+    "type": "short",
+    "genre": "documentary",
+    "era": "liberation",
+    "description": "A 27-minute GPRA-produced documentary depicting Algerian FLN fighters moving weapons and ammunition covertly among the civilian population in the south of the country during the war of independence. The script was written by Serge Michel, a French journalist who joined the FLN and the GPRA in Tunis. It was part of the same wartime production cell Chanderli, Lakhdar-Hamina, and Ahmed Rachedi formed in 1957 to document the liberation struggle.",
+    "fun_fact": "The film's screenwriter, Serge Michel, was a French journalist who defected to work for the Algerian provisional government's cinema service during the war.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.cineclubdecaen.com/realisateur/chanderli/chanderli.htm",
+      "https://en.wikipedia.org/wiki/Djamel_Chanderli",
+      "https://elwatan.dz/un-instrument-de-lutte-et-de-propagande/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Directors are Algerian; qualifies under the 1960+ rule."
+  },
+  {
+    "id": "vukani-awake-1962",
+    "title": "Vukani/Awake",
+    "year": 1962,
+    "director": "Lionel Ngakane",
+    "country": [
+      "South Africa"
+    ],
+    "type": "documentary",
+    "genre": "documentary",
+    "era": "liberation",
+    "description": "Shot by Ngakane on a 16mm camera he bought himself, this documentary examines poverty in South Africa's newly built Black townships and the apartheid laws that produced it, framed around ANC goals of equality before the law and human rights for all. It is described as the first film made in South Africa by a Black African filmmaker. Ngakane made it while in exile in London, where he later co-founded FEPACI and FESPACO.",
+    "fun_fact": "Ngakane shot the film on a camera he purchased himself and is credited as the first Black African to write and direct a film inside South Africa.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://sahistory.org.za/article/biography-lionel-ngakane-rod-reyna",
+      "https://en.wikipedia.org/wiki/Lionel_Ngakane",
+      "http://electricjive.blogspot.com/2011/11/vukani-awake-1962-visual-context.html"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Lionel Ngakane is Black South African; qualifies under the 1960+ rule. One archival source (ACMI) dates the film 1965 rather than 1962; the 1962 date is used here per South African History Online and Wikipedia, with the discrepancy noted."
+  },
+  {
+    "id": "mama-learns-a-lesson-1963",
+    "title": "Mama Learns a Lesson",
+    "year": 1963,
+    "director": "Adamu Halilu",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "liberation",
+    "description": "Adamu Halilu's directorial debut, a 48-minute drama made three years after Nigerian independence, was among the earliest feature films directed by a Nigerian filmmaker trained abroad. Halilu had studied screenwriting and editing in London before returning home, and he went on to a long career culminating in the landmark Hausa-language film Shaihu Umar (1976).",
+    "fun_fact": "Adamu Halilu trained at the Shell Film Unit and the Overseas Film and Television Centre in London before returning to Nigeria to direct his first feature.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.imdb.com/name/nm0355205/bio/",
+      "https://www.3continents.com/en/individu/adamu-halilu/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Adamu Halilu is Nigerian; qualifies under the 1960+ rule. Only two independent sources located (IMDb bio and Festival des 3 Continents); marked probable pending a third corroborating source. Distinct from One Nigeria (1969) already in the database."
+  },
+  {
+    "id": "saladin-the-victorious-1963",
+    "title": "Saladin the Victorious (El-Naser Salah ad-Din)",
+    "year": 1963,
+    "director": "Youssef Chahine",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "historical epic",
+    "era": "liberation",
+    "description": "Youssef Chahine's three-hour epic dramatizes the twelfth-century Sultan Saladin uniting Arab forces against the Third Crusade led by Richard the Lionheart, made at the height of the pan-Arab movement and reportedly a favorite film of Gamal Abdel Nasser. It was Chahine's largest-scale production to date, with a $360,000 budget, elaborate battle sequences, and a score by the Cairo Symphony Orchestra.",
+    "fun_fact": "The film was widely read as an Arab cinematic answer to Hollywood's crusader epics, offering an Arab point of view on the Crusades.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Saladin_the_Victorious",
+      "https://worldscinema.org/2020/01/youssef-chahine-el-naser-salah-el-dine-aka-saladin-and-the-great-crusades-1963/",
+      "https://www.arsenal-berlin.de/en/news/youssef-chahine-again-and-forever-al-nasser-salah-al-din-2/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Youssef Chahine is Egyptian; qualifies under the 1960+ rule."
+  },
+  {
+    "id": "khan-el-khalili-1966",
+    "title": "Khan El-Khalili",
+    "year": 1966,
+    "director": "Atef Salem",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "drama, romance",
+    "era": "liberation",
+    "description": "Based on Naguib Mahfouz's 1945 novel, the film follows Ahmed, a young man who sacrifices his education to support his family after they relocate to Cairo's historic Khan al-Khalili quarter, where he becomes entangled with a schoolteacher living a freewheeling life. It was entered into the 5th Moscow International Film Festival and is one of several Atef Salem films scripted from Mahfouz's fiction.",
+    "fun_fact": "Some sources date the film's release to 1966 and others to 1967, a minor discrepancy across catalogs that is common for Egyptian films released around year-end.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Khan_El_Khalili",
+      "https://www.themoviedb.org/movie/507775?language=en-US",
+      "https://elcinema.com/en/work/1011098/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Atef Salem is Egyptian; qualifies under the 1960+ rule. Release-year discrepancy (1966 vs. 1967) noted; entered here at 1966 per elcinema.com and TMDB."
+  },
+  {
+    "id": "sunlight-1957",
+    "title": "Sunlight",
+    "year": 1957,
+    "director": "Melvin Van Peebles",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "drama",
+    "era": "liberation",
+    "description": "One of Melvin Van Peebles's earliest short films, a fable about a man who turns to robbery to be able to marry the woman he loves. Made while Van Peebles was shut out of a segregated Hollywood, it displayed the stylistic ambition that would later define his feature work, though it drew little industry attention at the time.",
+    "fun_fact": "Van Peebles made this and a companion short, Three Pickup Men for Herrick, in 1957, a full decade before his breakout feature The Story of a Three-Day Pass.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://blackfilmarchive.com/Sunlight",
+      "https://letterboxd.com/film/sunlight/",
+      "https://www.imdb.com/title/tt0215221/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "No director-origin restriction applies (pre-1960). Director Melvin Van Peebles is Black American."
+  },
+  {
+    "id": "three-pickup-men-for-herrick-1957",
+    "title": "Three Pickup Men for Herrick",
+    "year": 1957,
+    "director": "Melvin Van Peebles",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "drama",
+    "era": "liberation",
+    "description": "A companion short to Sunlight, made the same year by Melvin Van Peebles during his early independent filmmaking period in the United States, before he relocated to France to pursue a filmmaking career unavailable to him in segregated Hollywood.",
+    "fun_fact": "Unable to get traction in Hollywood with these early shorts, Van Peebles moved to France, taught himself French, and rebuilt his career there before returning to the US film industry a decade later.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0209412/",
+      "https://www.cineclubdecaen.com/realisateur/vanpeebles/vanpeebles.htm"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "No director-origin restriction applies (pre-1960). Marked probable pending a third independent source beyond IMDb and the cine-club filmography; plot/synopsis detail is thin in available sources."
+  },
+  {
+    "id": "les-cinq-cent-balles-1961",
+    "title": "Les Cinq Cent Balles",
+    "year": 1961,
+    "director": "Melvin Van Peebles",
+    "country": [
+      "France",
+      "United States"
+    ],
+    "type": "short",
+    "genre": "drama",
+    "era": "liberation",
+    "description": "A short film Melvin Van Peebles directed in France after relocating there in the early 1960s, part of the period in which he taught himself French and began writing and directing in a country that offered opportunities Hollywood denied him as a Black American filmmaker.",
+    "fun_fact": "Van Peebles wrote several novels in French during this period, one of which, La Permission, he later adapted into his 1967 feature The Story of a Three-Day Pass.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.cineclubdecaen.com/realisateur/vanpeebles/vanpeebles.htm"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director is Black American, working in France; qualifies under the 1960+ rule. Only one detailed independent source located in this session; marked probable and flagged for a corroborating source before publishing as verified."
+  },
+  {
+    "id": "symbiopsychotaxiplasm-take-one-1968",
+    "title": "Symbiopsychotaxiplasm: Take One",
+    "year": 1968,
+    "director": "William Greaves",
+    "country": [
+      "United States"
+    ],
+    "type": "documentary",
+    "genre": "experimental documentary",
+    "era": "liberation",
+    "description": "Shot in Central Park during the summer of 1968, William Greaves's directorial debut is a film-within-a-film in which a documentary crew records the collapse of a fictional shoot, with Greaves playing the tyrannical director under revolt from his own crew. At a time when there were at best a handful of Black directors working in American television and none directing features, Greaves both starred in and controlled the production.",
+    "fun_fact": "The film went unreleased theatrically and was largely forgotten until a Brooklyn Museum retrospective of Greaves's work rediscovered it in the early 1990s.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.criterion.com/current/posts/460-symbiopsychotaxiplasm-still-no-answers",
+      "https://www.sensesofcinema.com/2001/overlooked-underrated/symbio/",
+      "http://www.williamgreaves.com/symbio-take-one/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director William Greaves is Black American; qualifies under the 1960+ rule."
+  },
+  {
+    "id": "no-tears-for-ananse-1968",
+    "title": "No Tears for Ananse",
+    "year": 1968,
+    "director": "Sam Aryeetey",
+    "country": [
+      "Ghana"
+    ],
+    "type": "feature",
+    "genre": "folklore, comedy-drama",
+    "era": "liberation",
+    "description": "Written and directed by Sam Aryeetey as the first production of the Ghana Film Industry Corporation, this folklore film reimagines the trickster figure Ananse trying to outwit his own family under the pressure of providing for them daily. It is considered the first truly Ghanaian film, made entirely by a Ghanaian cast and crew and marking a deliberate break from the British colonial filmmaking style that preceded it.",
+    "fun_fact": "Sam Aryeetey became managing director of the Ghana Film Industry Corporation the year after the film's release.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/No_Tears_For_Ananse",
+      "https://ghmoviefreak.com/guestblog-ghanaian-cinema-after-independence-1957-1970/",
+      "https://akoroko.com/feature-films-ghana/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Sam Aryeetey is Ghanaian; qualifies under the 1960+ rule."
+  },
+  {
+    "id": "mouna-ou-le-reve-dun-artiste-1969",
+    "title": "Mouna ou le Reve d'un Artiste",
+    "year": 1969,
+    "director": "Henri Duparc",
+    "country": [
+      "Ivory Coast",
+      "Guinea"
+    ],
+    "type": "feature",
+    "genre": "drama, fantasy",
+    "era": "liberation",
+    "description": "Henri Duparc's first fiction film, a 55-minute black-and-white feature shot on 16mm for the Societe Ivoirienne de Cinema, follows a sculptor whose works are animated by their own soul as they fulfill their destiny. Duparc, born in Guinea and trained in Belgrade and Paris before settling in Ivory Coast, made the film after directing seven documentaries for SIC.",
+    "fun_fact": "The film opened the second edition of the African Film Week of Ouagadougou, the event that grew into FESPACO, the continent's leading film festival.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://africanfilmny.org/directors/henri-duparc/",
+      "https://www.imdb.com/title/tt0064701/",
+      "https://africultures.com/films/?no=3493"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Henri Duparc is Guinean-born, Ivory Coast-based; qualifies under the 1960+ rule. Distinct from Bassori's Sur la Dune de la Solitude (1964) and La Femme au couteau (1969), already in the database."
+  },
+  {
+    "id": "the-land-1969",
+    "title": "The Land (Al-Ard)",
+    "year": 1969,
+    "director": "Youssef Chahine",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "drama, social realism",
+    "era": "liberation",
+    "description": "Based on Abd al-Rahman Sharqawi's novel, the film dramatizes 1930s Egyptian peasants' escalating conflict with their landlord over irrigation rights and land seizure, culminating in collective resistance. It is regarded as one of Chahine's most powerful and coherent works and a cornerstone of the Egyptian realist school.",
+    "fun_fact": "The film's depiction of peasant solidarity against a landowner has made it a recurring reference point in later Egyptian and Arab cinema about land and labor.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Land_(1969_film)",
+      "https://www.bfi.org.uk/features/5-ways-tell-youssef-chahine-film",
+      "https://www.bibalex.org/alexcinema/cinematographers/Youssef_Chahine.html"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Youssef Chahine is Egyptian; qualifies under the 1960+ rule."
+  },
+  {
+    "id": "reou-takh-1972",
+    "title": "Reou-Takh",
+    "year": 1972,
+    "director": "Mahama Johnson Traor\u00e9",
+    "country": [
+      "Senegal"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "An African American man travels to Dakar in search of an idealized, imagined Africa, only to find a Westernized, depersonalized city that disappoints his expectations. The title, meaning roughly the name rural Senegalese gave to Dakar, signals the film's critique of postcolonial urban alienation.",
+    "fun_fact": "It became the first Senegalese film to be completely banned in its own country upon release in 1972.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Reou-Takh",
+      "https://www.imdb.com/title/tt0069175/",
+      "https://letterboxd.com/film/reou-takh/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Traore co-founded FESPACO; not to be confused with his other 1970s films Njangaan and Garga M'Bosse, both also added in this batch."
+  },
+  {
+    "id": "garga-mbosse-1974",
+    "title": "Garga M'Bosse",
+    "year": 1974,
+    "director": "Mahama Johnson Traor\u00e9",
+    "country": [
+      "Senegal"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A Senegalese-Swedish co-production about a peasant couple, Birama and Penda, who are forced to leave their drought-stricken village with their son and migrate to the city. The film continues Traore's recurring focus on rural hardship and the social costs of urban migration.",
+    "fun_fact": "It was shot in Wolof as part of Traore's broader effort to make Senegalese cinema in local languages rather than French.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.africine.org/film/garga-mbosse/6973",
+      "https://www.imdb.com/name/nm0871054/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Some sources cite the production year as 1972 rather than 1974; Africine and IMDb credits list Traore as director. Treated as probable on exact year, verified on director and existence."
+  },
+  {
+    "id": "njangaan-1974",
+    "title": "Njangaan",
+    "year": 1974,
+    "director": "Mahama Johnson Traor\u00e9",
+    "country": [
+      "Senegal"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A fanatic father sends his young son to a Koranic school (dara) run by marabouts, who exploit the children as beggars and laborers instead of educating them. Traore's expos\u00e9 directly confronts the Senegalese religious establishment's abuse of impoverished families.",
+    "fun_fact": "The screenplay was co-written with Cherif Adrame Seck, and the film runs 86 minutes in French and Wolof.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.moma.org/calendar/events/11111",
+      "https://africanfilmny.org/films/njangaan/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sources disagree on release year, listing either 1974 or 1975; recorded here as 1974 per African Film Festival Inc. and several catalogs."
+  },
+  {
+    "id": "saitane-1972",
+    "title": "Saitane",
+    "year": 1972,
+    "director": "Oumarou Ganda",
+    "country": [
+      "Niger"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A sorcerer, played by director Oumarou Ganda himself, manipulates every faction of a village by promising love, health, and wealth in exchange for extravagant offerings, until he is exposed as a fraud. The film critiques the exploitation of traditional belief for personal power.",
+    "fun_fact": "Ganda, who also starred in Jean Rouch's Moi, un noir, ended his own character's arc with the sorcerer's suicide by cliff-jumping.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://trigon-film.org/en/films/saitane/",
+      "https://fr.wikipedia.org/wiki/Saitane",
+      "https://www.africine.org/personne/oumarou-ganda/3867"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Some catalogs list 1973 as the release year rather than 1972; runtime cited as 55-58 minutes across sources."
+  },
+  {
+    "id": "a-nous-deux-france-1970",
+    "title": "A nous deux, France! (An Adventure for Two)",
+    "year": 1970,
+    "director": "D\u00e9sir\u00e9 Ecar\u00e9",
+    "country": [
+      "Ivory Coast"
+    ],
+    "type": "feature",
+    "genre": "comedy-drama",
+    "era": "manifesto",
+    "description": "A young Black husband travels to Paris to find his white wife and their daughter, and the film uses their reunion to examine the difficulties and social satire surrounding interracial marriage. It marked Desire Ecare's feature-length directorial debut.",
+    "fun_fact": "Also released under the title Femme nue, femme noire, it screened at the Directors' Fortnight parallel to the 1970 Cannes Film Festival.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0066615/",
+      "https://fr.wikipedia.org/wiki/%C3%80_nous_deux_France",
+      "https://www.quinzaine-cineastes.fr/en/film/a-nous-deux-france"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "A Franco-Ivorian co-production; a small number of databases list the year as 1969."
+  },
+  {
+    "id": "amanie-1972",
+    "title": "Amanie (Quelles sont les nouvelles?)",
+    "year": 1972,
+    "director": "Roger Gnoan M'Bala",
+    "country": [
+      "Ivory Coast"
+    ],
+    "type": "short",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A 32-minute black-and-white short following Kouassi Kan, a man who leaves his village to settle in Abidjan, exploring the theme of rural exodus toward Ivory Coast's economic capital. The Akan title translates as What news?",
+    "fun_fact": "It won the Silver Tanit at the 1972 Carthage Film Festival, an early honor for future FESPACO stalwart Roger Gnoan M'Bala.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://africanfilmny.org/directors/roger-gnoan-mbala/",
+      "https://fr.wikipedia.org/wiki/Amanie",
+      "https://www.imdb.com/title/tt0068198/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Produced by Radio-Television ivoirienne; M'Bala later directed Adanggaman (2000)."
+  },
+  {
+    "id": "le-sang-des-parias-1972",
+    "title": "Le Sang des parias",
+    "year": 1972,
+    "director": "Mamadou Djim Kola",
+    "country": [
+      "Upper Volta"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A self-styled modernist refuses to let his sister marry a man from the blacksmith caste, considered pariahs, and the ensuing conflict reveals that his own wife shares that same lineage. Widely cited as the first fiction feature produced in Upper Volta (now Burkina Faso).",
+    "fun_fact": "It was funded by the state after Upper Volta nationalized its cinemas in 1969, and premiered at FESPACO 1973 where it won an encouragement prize.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://fr.wikipedia.org/wiki/Le_Sang_des_parias",
+      "https://www.cinemaescapist.com/2018/05/closer-look-burkinabe-cinema/",
+      "https://en.wikipedia.org/wiki/Mamadou_Djim_Kola"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Shot in 1972 but IMDb lists release as 1973."
+  },
+  {
+    "id": "pousse-pousse-1975",
+    "title": "Pousse-Pousse",
+    "year": 1975,
+    "director": "Daniel Kamwa",
+    "country": [
+      "Cameroon"
+    ],
+    "type": "feature",
+    "genre": "comedy",
+    "era": "manifesto",
+    "description": "A tricycle-taxi driver nicknamed Pousse-Pousse wants to marry Rose, but her father demands an excessive dowry, exploiting the tradition to his advantage. The comedy skewers dowry customs while tracking the gradual emancipation of women in 1970s Cameroon.",
+    "fun_fact": "It was the first Cameroonian film to surpass 20,000 admissions, drawing 24,000 viewers in its initial Yaounde and Douala screenings alone.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://africanfilmny.org/directors/daniel-kamwa/",
+      "https://fr.wikipedia.org/wiki/Pousse-pousse_(film)",
+      "https://www.imdb.com/title/tt0075093/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Shot in 1975 but commonly dated to its 1976 release; recorded here as 1975 per shooting/production year, following WorldCat's 'Cameroun, 1975' cataloging."
+  },
+  {
+    "id": "omar-gatlato-1976",
+    "title": "Omar Gatlato",
+    "year": 1976,
+    "director": "Merzak Allouache",
+    "country": [
+      "Algeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "Omar, a young clerk in Algiers' Department of Frauds, lives in a crowded apartment, loves chaabi and Indian music, and dreams about women fourteen years after Algerian independence. Allouache's debut feature captured everyday life in Bab el-Oued with unusual candor for its time.",
+    "fun_fact": "The film won the Silver Prize at the 10th Moscow International Film Festival and changed the trajectory of Algerian cinema toward stories of ordinary contemporary life.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Omar_Gatlato",
+      "https://harvardfilmarchive.org/calendar/omar-gatlato-2006-02/1",
+      "https://en.wikipedia.org/wiki/Merzak_Allouache"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Merzak Allouache's first feature."
+  },
+  {
+    "id": "la-nouba-des-femmes-du-mont-chenoua-1978",
+    "title": "La Nouba des femmes du Mont Chenoua",
+    "year": 1978,
+    "director": "Assia Djebar",
+    "country": [
+      "Algeria"
+    ],
+    "type": "documentary",
+    "genre": "docufiction",
+    "era": "manifesto",
+    "description": "Lila, a thirty-year-old architect, returns with her disabled husband and daughter to her native Chenoua mountains, weaving fiction, documentary footage, and literary fragments into a meditation on memory and women's roles in Algeria's independence struggle. Novelist Assia Djebar's structure borrows from the nuba, a five-part Andalusian musical form.",
+    "fun_fact": "Shot in 1976 during Djebar's decade-long hiatus from writing, it won the International Critics' Prize at the Venice Biennale.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/La_Nouba_des_femmes_du_Mont_Chenoua",
+      "https://www.britannica.com/topic/Nouba-des-femmes-du-mont-Chenoua",
+      "https://www.wmm.com/film/la-nouba-des-femmes-du-mont-chenoua/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Shot 1976, screened at Carthage 1978, official release commonly dated 1979 across databases; recorded here as 1978 per its Carthage/Venice screening year."
+  },
+  {
+    "id": "the-dupes-1972",
+    "title": "The Dupes (Al-Makhdu'un)",
+    "year": 1972,
+    "director": "Tewfik Saleh",
+    "country": [
+      "Syria",
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "Three generations of Palestinian exiles hide in the tank of a truck attempting to cross the desert into Kuwait in search of work and prosperity, in a race against time that ends in tragedy. Egyptian director Tewfik Saleh, censored at home, made the film for the Syrian National Film Organisation, adapting Ghassan Kanafani's 1963 novella Men in the Sun.",
+    "fun_fact": "It won the Tanit d'Or at the 1972 Carthage Film Festival and was later restored by the Film Foundation's World Cinema Project with the Cineteca di Bologna.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Dupes",
+      "https://en.wikipedia.org/wiki/Tewfik_Saleh",
+      "https://walkerart.org/magazine/twefik-saleh-dupes-mohannad-ghawanmeh/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Egyptian director working in Syrian exile; catalogued under both countries."
+  },
+  {
+    "id": "alpha-1972",
+    "title": "Alpha",
+    "year": 1972,
+    "director": "Ola Balogun",
+    "country": [
+      "Nigeria",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "In a Parisian garret, a group of young Black intellectuals and artists debate politics, art, and philosophy while negotiating questions of Black identity and cultural heritage, ending amid the fireworks of a Bastille Day celebration. Ola Balogun's low-budget, semi-autobiographical feature debut marked his transition from documentary shorts to fiction.",
+    "fun_fact": "The following year, 1973, Balogun founded the Afrocult Foundation to create space for independent filmmaking in Nigeria.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://letterboxd.com/film/alpha-1972/",
+      "https://www.arsenal-berlin.de/en/news/ola-balogun-pioneer-of-nigerian-cinema/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Made in France while Balogun was affiliated with Ife; distinct from his later Nigeria-shot Amadi (1975) and Ajani Ogun (1976), both already in the database."
+  },
+  {
+    "id": "dinner-with-the-devil-1975",
+    "title": "Dinner with the Devil",
+    "year": 1975,
+    "director": "Sanya Dosunmu",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "One of the first Nigerian films made with an entirely Nigerian crew, co-directed by Sanya Dosunmu and Wole Amele, part of the Golden Age of Nigerian Cinema wave that established a local commercial film industry ahead of the 1990s video boom.",
+    "fun_fact": "It is frequently cited in retrospectives on Nigeria's 1970s Golden Age alongside Bisi, Daughter of the River and Ija Ominira.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0072881/",
+      "https://en.wikipedia.org/wiki/List_of_Nigerian_films_of_the_1970s",
+      "https://en.wikipedia.org/wiki/Golden_Age_of_Nigerian_Cinema"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Plot details beyond crew composition are thin in available English-language sources."
+  },
+  {
+    "id": "bisi-daughter-of-the-river-1977",
+    "title": "Bisi, Daughter of the River",
+    "year": 1977,
+    "director": "Jab Adu, Ladi Ladebo, Adeyemi Afolayan",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A young woman from Badagry, whose father insists she must serve as a priestess to the river goddess Yemoja, flees to Lagos where she becomes a businessman's secretary and falls for his partner. Adapted from a stage play by its own directors, it is considered one of the most celebrated classics of Nigeria's 1970s Golden Age.",
+    "fun_fact": "Its box-office success is widely credited with inspiring a wave of Nigerian filmmakers years before Nollywood's video-film boom of the 1990s.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0075758/",
+      "https://www.premiumtimesng.com/entertainment/nollywood/841892-producer-moves-to-remake-1977-classic-bisi-daughter-of-the-river-seeks-copyright-clearance.html"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Directorial credit is split across sources between Jab Adu, Ladi Ladebo, and Joseph Abiodun Babajide (also credited as Adeyemi Afolayan/Ade Love in some listings); recorded here with the three most commonly cited names."
+  },
+  {
+    "id": "ija-ominira-1979",
+    "title": "Ija Ominira (Fight for Freedom)",
+    "year": 1979,
+    "director": "Ola Balogun",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "historical drama",
+    "era": "manifesto",
+    "description": "A Yoruba-language historical drama, adapted from Adebayo Faleti's novel of the same name, in which a village led by a young man rises up against its tyrant king. Produced by Ade Love's company with music and dance rooted in Yoruba performance traditions.",
+    "fun_fact": "It runs in Yoruba with color cinematography and mono sound, and was one of Ola Balogun's most commercially popular Yoruba-language features.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0079325/",
+      "https://en.wikipedia.org/wiki/Ola_Balogun",
+      "https://archivi.ng/the-archivist/stories/issue-4/nigerian-creators-history/ola-balogun"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Distinct from Balogun's Amadi (1975) and Ajani Ogun (1976), already in the database."
+  },
+  {
+    "id": "nationalite-immigre-1975",
+    "title": "Nationalite: Immigre",
+    "year": 1975,
+    "director": "Sidney Sokhona",
+    "country": [
+      "Mauritania",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "docufiction",
+    "era": "manifesto",
+    "description": "Shot between 1972 and 1975, this hybrid documentary-fiction follows a rent strike among African immigrant workers on Paris's Rue Riquet, with Mauritanian filmmaker Sidney Sokhona playing the lead role himself after running out of money to hire an actor. It functions as a manifesto on the exploitation of immigrant labor in France.",
+    "fun_fact": "It won the Prix Georges-Sadoul in Paris in 1975 and the Special Jury Prize at FESPACO the following year.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.unifrance.org/movie/39396/nationalite-immigre",
+      "https://en.wikipedia.org/wiki/Sidney_Sokhona",
+      "https://www.theparisreview.org/blog/2017/02/22/the-right-to-speak/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "French theatrical release was 1976; production dated 1975 per Unifrance and Comite du Film Ethnographique."
+  },
+  {
+    "id": "les-bicots-negres-vos-voisins-1974",
+    "title": "Les Bicots-negres, vos voisins (Arabs and Niggers, Your Neighbours)",
+    "year": 1974,
+    "director": "Med Hondo",
+    "country": [
+      "Mauritania",
+      "France"
+    ],
+    "type": "documentary",
+    "genre": "essay film",
+    "era": "manifesto",
+    "description": "Opening with a 21-minute direct-address monologue on the history of cinematic representation of Africa, this three-hour essay film documents the lives and reflections of migrant laborers in France across the 1970s. It is among Med Hondo's most explicitly political and formally experimental works.",
+    "fun_fact": "It won the Golden Tanit at the 1974 Carthage Film Festival, and was Hondo's first color feature.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Les_Bicots-n%C3%A8gres,_vos_voisins",
+      "https://harvardfilmarchive.org/calendar/les-bicots-negres-vos-voisins-2023-04",
+      "https://en.unifrance.org/movie/4771/les-bicots-negres-vos-voisins"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Directed by the same Med Hondo already represented in the database by Soleil O (1970); distinct, later work."
+  },
+  {
+    "id": "west-indies-1979",
+    "title": "West Indies: The Fugitive Slaves of Liberty",
+    "year": 1979,
+    "director": "Med Hondo",
+    "country": [
+      "Mauritania",
+      "Algeria",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "musical drama",
+    "era": "manifesto",
+    "description": "An enormous mock slave ship, built inside a disused Citroen factory in Paris, serves as the single set for this musical dramatizing more than three centuries of imperialist oppression, adapted from Daniel Boukman's play Les negriers. Med Hondo choreographed elaborate reenactments and dance numbers across the multipurpose set.",
+    "fun_fact": "At roughly 1.35 million dollars, it was the most expensive African film production of its era and is considered the first African film musical.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/West_Indies_(film)",
+      "https://filmforum.org/film/west-indies",
+      "https://en.unifrance.org/movie/44989/west-indies"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Med Hondo's third film in this batch alongside Les Bicots-negres, vos voisins; original Soleil O (1970) already in database."
+  },
+  {
+    "id": "pressure-1976",
+    "title": "Pressure",
+    "year": 1976,
+    "director": "Horace Ov\u00e9",
+    "country": [
+      "United Kingdom"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "Teenage Tony, torn between his Trinidadian parents' aspirations for middle-class respectability and his older brother's pull toward the Black Power movement, comes of age across three generations of a family in West London's Ladbroke Grove. Written by Ove with novelist Sam Selvon, it is widely regarded as the UK's first feature written and directed by a Black filmmaker.",
+    "fun_fact": "It is considered Britain's first dramatic feature centered on Black characters and was directed by Trinidadian-British filmmaker Horace Ove.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Pressure_(1976_film)",
+      "https://www.bfi.org.uk/bfi-film-releases/pressure",
+      "https://www.criterionchannel.com/pressure-1"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Distinct from Ove's earlier documentaries Baldwin's Nigger (1968/69, outside the 1970-79 window) and Reggae (1970/71), the latter also added in this batch."
+  },
+  {
+    "id": "reggae-1971",
+    "title": "Reggae",
+    "year": 1971,
+    "director": "Horace Ov\u00e9",
+    "country": [
+      "United Kingdom"
+    ],
+    "type": "documentary",
+    "genre": "music documentary",
+    "era": "manifesto",
+    "description": "Filmed at the 1970 Caribbean Music Festival at Wembley Stadium, this documentary captures the first large reggae concert held in Britain, mixing performances by Desmond Dekker, the Maytals, and Millie Small with interviews of Black British youth attending the show. It is credited as the first film made about reggae music.",
+    "fun_fact": "The 14,000-strong Wembley crowd it documents was, at the time, the largest reggae audience ever assembled in the UK.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0180956/",
+      "https://www.zeroto180.org/horace-ove-uk-reggae-1970/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sources split between a 1970 shooting/completion date and a 1971 release date; recorded here as 1971 per IMDb and Letterboxd release listings."
+  },
+  {
+    "id": "a-luta-continua-1972",
+    "title": "A Luta Continua (The Struggle Continues)",
+    "year": 1972,
+    "director": "Robert Van Lierop",
+    "country": [
+      "Mozambique",
+      "United States"
+    ],
+    "type": "documentary",
+    "genre": "documentary",
+    "era": "manifesto",
+    "description": "Filmed by an African American crew in 1971 within FRELIMO's liberated zones, this documentary depicts the movement's armed struggle for Mozambican independence from Portugal and explicitly links it to the American civil rights and Black Power movements. It contains the only surviving battle footage shot from FRELIMO's own side of the independence war.",
+    "fun_fact": "It was broadcast on Boston public television station WGBH in October 1973 and has been credited with shaping 1970s African American grassroots organizing and 1980s US anti-apartheid activism.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/A_Luta_Continua_(film)",
+      "https://openvault.wgbh.org/catalog/V_7E8FD3E200F84CC3ABEE5D8CCC94FD12"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Robert Van Lierop was an African American attorney and activist, later a Vanuatu diplomat; film shot in Mozambique, produced by the African Information Service in the US."
+  },
+  {
+    "id": "the-bus-is-coming-1971",
+    "title": "The Bus Is Coming",
+    "year": 1971,
+    "director": "Wendell James Franklin",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A Black soldier returns to Los Angeles from Vietnam to learn that racist police officers killed his brother, and joins a Black nationalist group seeking justice. It was the debut feature of the independent production company K-Calb, formed by Black filmmakers in 1970.",
+    "fun_fact": "Director Wendell Franklin, a longtime second-unit director, was the Directors Guild of America's first Black member; this was his only feature.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Bus_Is_Coming",
+      "https://www.tcm.com/tcmdb/title/69940/the-bus-is-coming",
+      "https://www.allmovie.com/movie/the-bus-is-coming-am82294"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "K-Calb spells 'black' backward."
+  },
+  {
+    "id": "sweet-sweetbacks-baadasssss-song-1971",
+    "title": "Sweet Sweetback's Baadasssss Song",
+    "year": 1971,
+    "director": "Melvin Van Peebles",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A Black man on the run from racist police after being framed for a crime he did not commit moves through an underground of bikers, revolutionaries, sex workers, and hippies in a quest for liberation. Written, produced, scored, edited, directed by, and starring Melvin Van Peebles, and privately funded by him, it is credited with launching the blaxploitation era.",
+    "fun_fact": "Its soundtrack, credited to a then-unknown Earth, Wind & Fire, was released ahead of the film to build word-of-mouth because Van Peebles could not afford conventional advertising.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Sweet_Sweetback's_Baadasssss_Song",
+      "https://www.criterion.com/films/32000-sweet-sweetback-s-baadasssss-song",
+      "https://www.afi.com/news/sweet-sweetbacks-baadasssss-song-afi-movie-club/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Independent production, released April 1971, predating and directly influencing the studio blaxploitation cycle."
+  },
+  {
+    "id": "ganja-and-hess-1973",
+    "title": "Ganja & Hess",
+    "year": 1973,
+    "director": "Bill Gunn",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "horror",
+    "era": "manifesto",
+    "description": "An anthropologist becomes addicted to blood after being stabbed with a cursed ancient dagger, and falls for the widow of his unstable assistant, who eventually joins him in his condition. Bill Gunn used vampirism as a metaphor for addiction and cultural assimilation rather than delivering the straightforward Blacula-style genre film producers had commissioned.",
+    "fun_fact": "It premiered at the 1973 Cannes Film Festival and was remade by Spike Lee in 2014 as Da Sweet Blood of Jesus.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Ganja_%26_Hess",
+      "https://www.bfi.org.uk/film/e9db46b2-e3be-582b-8ff2-6dbba20f09e5/ganja-hess",
+      "https://offscreen.com/view/the-uniqueness-of-bill-gunns-ganja-and-hess"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "One of only two lead film roles for star Duane Jones, best known for Night of the Living Dead."
+  },
+  {
+    "id": "the-spook-who-sat-by-the-door-1973",
+    "title": "The Spook Who Sat by the Door",
+    "year": 1973,
+    "director": "Ivan Dixon",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "The first Black CIA agent, trained in specialized paramilitary tactics, uses his skills to organize an armed Black revolution in Chicago, based on Sam Greenlee's 1969 novel. The film had an explosive commercial opening before its prints were reportedly withdrawn from theaters following pressure connected to the FBI.",
+    "fun_fact": "Director Ivan Dixon secretly archived the film's negative under a different title, preserving it after distribution was suppressed; he never directed another feature.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Spook_Who_Sat_by_the_Door_(film)",
+      "https://www.austinfilm.org/films/the-spook-who-sat-by-the-door/",
+      "https://archive.org/details/the-spook-who-sat-by-the-door-1973"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Score by Herbie Hancock; screenplay by Melvin Clay and Sam Greenlee."
+  },
+  {
+    "id": "book-of-numbers-1973",
+    "title": "Book of Numbers",
+    "year": 1973,
+    "director": "Raymond St. Jacques",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "crime drama",
+    "era": "manifesto",
+    "description": "Two Black waiters in 1930s El Dorado, Arkansas team up to run a numbers racket among the poor Black community, evading the Ku Klux Klan, corrupt white police, and a rival mafia takeover attempt. Based on Robert Deane Pharr's 1969 novel, it was actor Raymond St. Jacques's only film as director.",
+    "fun_fact": "St. Jacques both starred in and directed the film, produced by AVCO Embassy Pictures and shot in Texas.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Book_of_Numbers_(film)",
+      "https://www.rogerebert.com/reviews/book-of-numbers-1973",
+      "https://www.allmovie.com/movie/book-of-numbers-vm1056700"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Co-starred Philip Michael Thomas and Freda Payne."
+  },
+  {
+    "id": "child-of-resistance-1972",
+    "title": "Child of Resistance",
+    "year": 1972,
+    "director": "Haile Gerima",
+    "country": [
+      "United States",
+      "Ethiopia"
+    ],
+    "type": "short",
+    "genre": "experimental drama",
+    "era": "manifesto",
+    "description": "A woman imprisoned for her fight for social justice moves through a series of abstractly rendered dreams and fears for her people, in a 36-minute film inspired by a dream Haile Gerima had after seeing Angela Davis handcuffed on television. Linear narrative is rejected in favor of poetic, fragmented imagery.",
+    "fun_fact": "It stars Barbara O. Jones, who also appears in Julie Dash's Diary of an African Nun, another L.A. Rebellion short added in this batch.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Haile_Gerima",
+      "https://letterboxd.com/film/child-of-resistance/",
+      "https://www.cinema.ucla.edu/la-rebellion/films/child-resistance"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sources split between 1972 and 1973 as the completion year; recorded here as 1972 per UCLA Film & Television Archive and Rotten Tomatoes."
+  },
+  {
+    "id": "diary-of-an-african-nun-1977",
+    "title": "Diary of an African Nun",
+    "year": 1977,
+    "director": "Julie Dash",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A nun in Uganda, consumed by fear and doubt over her vows of poverty, chastity, and obedience, lies awake at night listening to the drums of her village calling her back. Adapted from a short story by Alice Walker, it was Julie Dash's deliberate first move toward narrative filmmaking while at UCLA.",
+    "fun_fact": "It precedes and anticipates the poetic, political style Dash would later bring to her acclaimed feature Daughters of the Dust.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0180644/",
+      "https://www.wmm.com/catalog/film/diary-of-an-african-nun/",
+      "https://www.cinema.ucla.edu/la-rebellion/films/diary-african-nun"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Stars Barbara O. Jones; 15-minute runtime."
+  },
+  {
+    "id": "four-women-1975",
+    "title": "Four Women",
+    "year": 1975,
+    "director": "Julie Dash",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "experimental dance film",
+    "era": "manifesto",
+    "description": "Dancer Linda Martina Young embodies the four archetypes of Nina Simone's ballad Four Women, Aunt Sarah, Saffronia, Sweet Thing, and Peaches, shifting costume and movement style to portray each stereotype of Black womanhood in America. Julie Dash's UCLA student film is celebrated as one of the first experimental works by a Black woman filmmaker.",
+    "fun_fact": "The eight-minute piece is structured as a choreopoem, with Young's costuming and choreography changing in step with each verse of Simone's song.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Four_Women_(1975_film)",
+      "https://www.wmm.com/catalog/film/four-women/",
+      "https://www.cinema.ucla.edu/la-rebellion/films/four-women"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Choreography by Linda Martina Young."
+  },
+  {
+    "id": "as-above-so-below-1973",
+    "title": "As Above, So Below",
+    "year": 1973,
+    "director": "Larry Clark",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A Black Vietnam veteran, Jita-hadi, arrives in South-Central Los Angeles after service in Cuba, the Dominican Republic, and Vietnam, bearing witness to oppression within and outside the Black community while an underground army watches and waits. Larry Clark intercuts the veteran's political awakening with documentary footage of US foreign interventionism and domestic police brutality.",
+    "fun_fact": "The score, by jazz pianist Horace Tapscott, plays against recorded HUAC testimony on the threat of Black nationalism.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/As_Above,_So_Below_(film)",
+      "https://harvardfilmarchive.org/calendar/as-above-so-below-2013-04",
+      "https://movingimage.org/archived-events/as-above-so-below-and-short-films/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "L.A. Rebellion feature; 52-minute runtime, preserved by UCLA Film & Television Archive."
+  },
+  {
+    "id": "your-children-come-back-to-you-1979",
+    "title": "Your Children Come Back to You",
+    "year": 1979,
+    "director": "Alile Sharon Larkin",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "A single mother on welfare must decide whether to raise her daughter herself or let her wealthier, more assimilationist sister-in-law provide for the child, dramatizing a clash between Pan-Africanist and Western middle-class values as seen through the daughter's eyes. Alile Sharon Larkin's half-hour black-and-white 16mm film was experimental for its era.",
+    "fun_fact": "Cinematography was by Charles Burnett, himself a foundational L.A. Rebellion director best known for Killer of Sheep.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Alile_Sharon_Larkin",
+      "https://www.imdb.com/title/tt0185031/",
+      "https://cinema.ucla.edu/la-rebellion/films/your-children-come-back-you"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Precedes Larkin's better-known A Different Image (1982), already in the database."
+  },
+  {
+    "id": "water-ritual-1-1979",
+    "title": "Water Ritual #1: An Urban Rite of Purification",
+    "year": 1979,
+    "director": "Barbara McCullough",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "experimental",
+    "era": "manifesto",
+    "description": "Performer Yolanda Vidato enacts a spiritual purification ritual in a blighted stretch of Watts cleared for a freeway that was never built, blending collage, avant-garde jazz, folklore, and Black feminist themes. It was Barbara McCullough's first film and a landmark work of experimental cinema within the L.A. Rebellion.",
+    "fun_fact": "The score features avant-garde jazz musician Don Cherry, and the film was shot by fellow L.A. Rebellion filmmakers Ben Caldwell and Peter Bratt.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Water_Ritual_1:_An_Urban_Rite_of_Purification",
+      "https://en.wikipedia.org/wiki/Barbara_McCullough",
+      "https://film.twn.org/products/water-ritual-1-an-urban-rite-of-purification"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Shot 16mm black-and-white in an area of Watts cleared for the I-105 freeway."
+  },
+  {
+    "id": "shopping-bag-spirits-and-freeway-fetishes-1981",
+    "title": "Shopping Bag Spirits and Freeway Fetishes: Reflections on Ritual Space",
+    "year": 1981,
+    "director": "Barbara McCullough",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "experimental documentary",
+    "era": "flourishing",
+    "description": "Barbara McCullough's L.A. Rebellion short documents Los Angeles Black artists creating improvisational ritual performance pieces in urban space, opening with footage from her earlier Water Ritual No. 1. It is considered a landmark of Black feminist experimental filmmaking exploring spiritual and psychological reclamation of the city.",
+    "fun_fact": "The film reuses footage from McCullough's own 1979 short Water Ritual #1, shot in a Watts lot cleared for a freeway that was ultimately never built.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.cinema.ucla.edu/la-rebellion/films/shopping-bag-spirits-and-freeway-fetishes-reflections-ritual-space",
+      "https://en.wikipedia.org/wiki/Barbara_McCullough",
+      "https://caamuseum.org/programs/concerts-performances-and-screenings/barbara-mcculloughshopping-bag-spirits-and-freeway-fetishes-reflections-on-ritual-space"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "L.A. Rebellion filmmaker, UCLA archive holding."
+  },
+  {
+    "id": "signs-of-empire-1983",
+    "title": "Expeditions 1: Signs of Empire",
+    "year": 1983,
+    "director": "John Akomfrah, Black Audio Film Collective",
+    "country": [
+      "United Kingdom"
+    ],
+    "type": "short",
+    "genre": "essay film, experimental",
+    "era": "flourishing",
+    "description": "The debut work of the Black Audio Film Collective, made while its members were students at Portsmouth Polytechnic, is a 35mm slide-tape essay montaging photographs, staged dramatizations, and archival footage with recorded speeches to interrogate race, colonialism, and diaspora. It introduced the film-essay style that would define the collective's later work.",
+    "fun_fact": "The piece toured England from late 1984 into 1985 using a Kodak dissolve unit to sequence still images into a continuous narrative.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.tate.org.uk/art/artworks/black-audio-film-collective-expeditions-one-signs-of-empire-t12863",
+      "https://en.wikipedia.org/wiki/Black_Audio_Film_Collective",
+      "https://www.screenslate.com/articles/john-akomfrah-signs-empire"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Black Audio Film Collective founding work, predates Handsworth Songs already in database."
+  },
+  {
+    "id": "territories-1984",
+    "title": "Territories",
+    "year": 1984,
+    "director": "Isaac Julien, Sankofa Film and Video Collective",
+    "country": [
+      "United Kingdom"
+    ],
+    "type": "short",
+    "genre": "experimental documentary",
+    "era": "flourishing",
+    "description": "Isaac Julien's debut work with the Sankofa Film and Video Collective is a 25-minute essay film examining London's Notting Hill Carnival as a site where Black British identity is contested and stereotyped by mainstream media. It was one of the collective's first productions to mix documentary footage with staged dramatization.",
+    "fun_fact": "The film was co-programmed for decades with Black Audio Film Collective's Handsworth Songs as a double bill exploring 1980s Black British experimental cinema.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.tate.org.uk/whats-on/tate-britain/rewind-sankofa/isaac-julien-territories-and-who-killed-colin-roach",
+      "https://en.wikipedia.org/wiki/Sankofa_Film_and_Video_Collective",
+      "https://harvardfilmarchive.org/calendar/territories-2002-11"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sankofa collective already represented in database by The Passion of Remembrance (1986); this is an earlier, distinct work."
+  },
+  {
+    "id": "the-peoples-account-1985",
+    "title": "The People's Account",
+    "year": 1985,
+    "director": "Milton Bryan, Ceddo Film and Video Workshop",
+    "country": [
+      "United Kingdom"
+    ],
+    "type": "documentary",
+    "genre": "documentary",
+    "era": "flourishing",
+    "description": "Made by the Black-led Ceddo Film and Video Workshop and commissioned by Channel 4, this documentary analyzes the 1985 uprisings in Brixton, Handsworth, and Tottenham's Broadwater Farm estate to identify shared causes in police racism and social neglect. Channel 4 refused to broadcast the finished film after the Independent Broadcasting Authority objected to its framing of the unrest as community self-defense against police racism.",
+    "fun_fact": "Despite being commissioned by Channel 4, the film was never shown on British television because Ceddo refused the broadcaster's demanded edits.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.independentcinemaoffice.org.uk/films/the-peoples-account-2/",
+      "https://www.frieze.com/article/peoples-account-state-violence-britain",
+      "https://the-lcva.co.uk/collections/ceddo"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Ceddo Film and Video Workshop, a Black British film collective distinct from Sankofa and Black Audio, already represented via other groups' works."
+  },
+  {
+    "id": "testament-1988",
+    "title": "Testament",
+    "year": 1988,
+    "director": "John Akomfrah",
+    "country": [
+      "United Kingdom",
+      "Ghana"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "flourishing",
+    "description": "John Akomfrah's feature directorial debut, produced by the Black Audio Film Collective, follows an exiled Ghanaian politician who returns home two decades after the 1966 coup against Kwame Nkrumah to confront memory, exile, and political disillusionment. The film premiered in the Critics' Week section at the 1989 Cannes Film Festival.",
+    "fun_fact": "In the story, the returning protagonist travels to Ghana ostensibly to interview director Werner Herzog, who was on location filming Cobra Verde there.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.tcm.com/tcmdb/title/92620/testament",
+      "https://en.wikipedia.org/wiki/Black_Audio_Film_Collective",
+      "https://www.timeout.com/movies/testament-1"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Akomfrah's first feature; complements the short-form Handsworth Songs already in the database."
+  },
+  {
+    "id": "after-winter-sterling-brown-1985",
+    "title": "After Winter: Sterling Brown",
+    "year": 1985,
+    "director": "Haile Gerima",
+    "country": [
+      "United States"
+    ],
+    "type": "documentary",
+    "genre": "documentary",
+    "era": "flourishing",
+    "description": "Haile Gerima directed this documentary with his Howard University film students, built from unembellished conversations with 85-year-old poet Sterling Brown at his home. Brown reflects on the Black literary tradition, citing Jean Toomer, Langston Hughes, and Duke Ellington, and reads from his own poetry.",
+    "fun_fact": "The film was made collaboratively with Gerima's students in Howard University's cinema department, where Gerima has taught since the 1970s.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/After_Winter:_Sterling_Brown",
+      "https://www.sankofafilminstitute.org/hailegerima",
+      "https://www.academymuseum.org/en/programs/detail/after-winter-sterling-brown"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Documentary side of Gerima's 1980s output, distinct from his fiction feature Ashes and Embers already in the database."
+  },
+  {
+    "id": "penitentiary-iii-1987",
+    "title": "Penitentiary III",
+    "year": 1987,
+    "director": "Jamaa Fanaka",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "action, drama",
+    "era": "flourishing",
+    "description": "L.A. Rebellion filmmaker Jamaa Fanaka's third and final entry in his Penitentiary trilogy follows boxer Too Sweet as he is framed for murder and sent back to prison, where he must survive brutal fights orchestrated by a corrupt system. It was distributed by Cannon Film Distributors and closed out the series Fanaka wrote and directed in its entirety.",
+    "fun_fact": "Fanaka directed and wrote all three Penitentiary films as well as the earlier Welcome Home Brother Charles and Street Wars.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Penitentiary_III",
+      "https://www.imdb.com/title/tt0093714/",
+      "https://medialifecrisis.com/acting-out/jamaa-fanaka-s-penitentiary-trilogy-1979-1987.html"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Companion to Penitentiary II (1982), already in the database; Fanaka is a core L.A. Rebellion director."
+  },
+  {
+    "id": "adieu-bonaparte-1985",
+    "title": "Adieu Bonaparte",
+    "year": 1985,
+    "director": "Youssef Chahine",
+    "country": [
+      "Egypt",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "historical drama, war",
+    "era": "flourishing",
+    "description": "Youssef Chahine's Egyptian-French co-production dramatizes Napoleon's 1798 occupation of Alexandria through the relationship between two Egyptian brothers and a gay French general, examining colonialism's emotional and sexual dimensions. The film premiered in competition at the 1985 Cannes Film Festival.",
+    "fun_fact": "The film received poor reviews in both France and Egypt on release but has since been reassessed as a Chahine classic.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Adieu_Bonaparte",
+      "https://www.moma.org/calendar/events/2502",
+      "https://en.unifrance.org/movie/3042/farewell-bonaparte"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Chahine is Egyptian; qualifies as African-directed per era rule."
+  },
+  {
+    "id": "an-egyptian-story-1982",
+    "title": "An Egyptian Story",
+    "year": 1982,
+    "director": "Youssef Chahine",
+    "country": [
+      "Egypt"
+    ],
+    "type": "feature",
+    "genre": "drama, autobiography",
+    "era": "flourishing",
+    "description": "The second film in Youssef Chahine's autobiographical trilogy follows an ailing filmmaker who relives his career and Egypt's political history in surreal flashbacks while undergoing open-heart surgery. It competed in the main competition at the 1982 Venice Film Festival.",
+    "fun_fact": "The film's hallucinatory structure was directly inspired by Chahine's own 1973 open-heart surgery.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/An_Egyptian_Story",
+      "https://en.unifrance.org/movie/5818/an-egyptian-story",
+      "https://www.criterionchannel.com/an-egyptian-story"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Part of Chahine's Alexandria autobiographical cycle."
+  },
+  {
+    "id": "the-sixth-day-1986",
+    "title": "The Sixth Day",
+    "year": 1986,
+    "director": "Youssef Chahine",
+    "country": [
+      "Egypt",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama, comedy",
+    "era": "flourishing",
+    "description": "Set during a 1947 cholera outbreak in a working-class Cairo neighborhood, this Youssef Chahine film follows a washerwoman trying to save her stricken grandson while fending off the romantic advances of a young organ grinder. It is based on a French-language novel by Lebanese author Andree Chedid and stars French pop icon Dalida in her final screen role.",
+    "fun_fact": "The Sixth Day marked the last screen performance of French-Egyptian singer Dalida before her death in 1987.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Sixth_Day_(film)",
+      "https://en.unifrance.org/movie/7700/the-sixth-day",
+      "https://www.madamasr.com/en/2014/09/20/feature/culture/egypts-cinematic-gems-the-sixth-day/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "None."
+  },
+  {
+    "id": "wanderers-of-the-desert-1984",
+    "title": "Wanderers of the Desert",
+    "year": 1984,
+    "director": "Nacer Khemir",
+    "country": [
+      "Tunisia"
+    ],
+    "type": "feature",
+    "genre": "drama, fantasy",
+    "era": "flourishing",
+    "description": "Nacer Khemir's debut feature, the first part of his Desert Trilogy, follows a young teacher who arrives in an isolated North African village haunted by an ancient curse that drives its sons to wander the desert. The film won the Grand Prix at the Festival des Trois Continents and the First Film Award at the Carthage Film Festival.",
+    "fun_fact": "The film is the opening chapter of Khemir's Desert Trilogy, completed decades later with The Dove's Lost Necklace (1990) and Bab'Aziz (2006).",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/El_Haimoune",
+      "https://letterboxd.com/film/wanderers-of-the-desert/",
+      "https://www.arabfilm.com/item_print.html?itemID=127"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Also known as El Haimoune / Les Baliseurs du desert."
+  },
+  {
+    "id": "shadow-of-the-earth-1982",
+    "title": "Shadow of the Earth",
+    "year": 1982,
+    "director": "Taieb Louhichi",
+    "country": [
+      "Tunisia"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "flourishing",
+    "description": "Taieb Louhichi's debut feature chronicles a nomadic Berber tribe in the southern Tunisian desert as a son prepares to inherit leadership, only to have government officials arrive to conscript him. The film screened in Cannes' International Critics' Week and won several awards, including Best Screenplay, at FESPACO 1983.",
+    "fun_fact": "The film became Louhichi's best-known work and remains a touchstone of Tunisian rural realist cinema.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Shadow_of_the_Earth",
+      "https://www.themoviedb.org/movie/329454",
+      "https://africanfilmny.org/directors/taieb-louhichi/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "None."
+  },
+  {
+    "id": "44-or-tales-of-the-night-1981",
+    "title": "44, or Tales of the Night",
+    "year": 1981,
+    "director": "Moumen Smihi",
+    "country": [
+      "Morocco",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama, historical epic",
+    "era": "flourishing",
+    "description": "Moumen Smihi's second feature traces two Moroccan families, one from Fez and one from Chaouen, across 44 years of the French protectorate from 1912 to 1956. Shot in widescreen by cinematographer Pierre Lhomme, it draws on both the Arabian Nights storytelling tradition and European historical epic filmmaking.",
+    "fun_fact": "The film won the Venezia Genti Prize at the Venice Film Festival when it screened there in 1985, several years after it was made.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/44_or_Tales_of_the_Night",
+      "https://en.unifrance.org/movie/632/forty-four-or-bedtime-stories",
+      "https://www.tate.org.uk/whats-on/tate-modern/moumen-smihi-poet-tangier-0/moumen-smihi-2-44-or-tales-night"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sources conflict on year: made in 1981 per most film-history sources, but did not screen at Venice until 1985; listed here under its production year."
+  },
+  {
+    "id": "sandstorm-1982",
+    "title": "Sandstorm",
+    "year": 1982,
+    "director": "Mohammed Lakhdar-Hamina",
+    "country": [
+      "Algeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "flourishing",
+    "description": "In a Saharan oasis buffeted by daily sandstorms, a man repudiates his wife in anger after she bears their eighth daughter without a male heir. Mohammed Lakhdar-Hamina's film was Algeria's submission for the Best Foreign Language Film Oscar and screened at the 1982 Cannes Film Festival.",
+    "fun_fact": "Lakhdar-Hamina had already won the Palme d'Or in 1975 for Chronicle of the Years of Fire before making this film.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Sandstorm_(1982_film)",
+      "https://fr.wikipedia.org/wiki/Vent_de_sable",
+      "https://africine.org/film/vent-de-sable/3681"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Also known by its French title Vent de sable."
+  },
+  {
+    "id": "the-man-who-watched-windows-1986",
+    "title": "The Man Who Watched Windows",
+    "year": 1986,
+    "director": "Merzak Allouache",
+    "country": [
+      "Algeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "flourishing",
+    "description": "Merzak Allouache's feature follows an isolated man in Algiers whose habit of watching his neighbors through their windows draws him into their lives. The film is one of several Allouache made in the 1980s examining alienation and everyday life under Algeria's single-party state.",
+    "fun_fact": "Sources disagree on the exact completion year, with some festival archives dating it to 1982 and the wider consensus placing its release in 1986.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0299996/",
+      "https://www.wikidata.org/wiki/Q3203748",
+      "https://harvardfilmarchive.org/programs/merzak-allouache-cinema-from-the-other-world"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "French title L'homme qui regardait les fenetres; year discrepancy between sources (1982 vs 1986) noted."
+  },
+  {
+    "id": "anita-1981",
+    "title": "Anita",
+    "year": 1981,
+    "director": "Rassoul Labuchin",
+    "country": [
+      "Haiti"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "flourishing",
+    "description": "Considered the first Haitian Creole-language dramatic feature, Anita follows a young peasant girl sent to work as an unpaid domestic servant, a restavek, for a wealthy Port-au-Prince family. The film was censored and pulled from distribution by the Duvalier regime but was toured informally through provincial cities and became internationally celebrated.",
+    "fun_fact": "Despite government censorship, Labuchin and his team toured the film independently through Haiti's countryside, where it became hugely popular with local audiences.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://africultures.com/films/?no=923",
+      "https://www.africine.org/film/anita-dir-rassoul-labuchin/923",
+      "https://www.imdb.com/title/tt0243765/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sources give the year as 1980, 1981, or 1982 depending on production vs. release; 1981 used as the commonly cited completion year."
+  },
+  {
+    "id": "bouka-1988",
+    "title": "Bouka",
+    "year": 1988,
+    "director": "Roger Gnoan M'Bala",
+    "country": [
+      "Ivory Coast"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "flourishing",
+    "description": "Roger Gnoan M'Bala's drama follows Bouka, a gifted teenager raised close to nature in his village, whose happiness is shattered by the brutal death of his father. The film is a key work of 1980s Ivorian cinema alongside M'Bala's earlier Ablakon.",
+    "fun_fact": "Gnoan M'Bala went on to win the Etalon de Yennenga, FESPACO's top prize, more than a decade later for Adanggaman.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Bouka_(film)",
+      "https://trigon-film.org/en/films/bouka/",
+      "https://www.imdb.com/title/tt0094788"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "None."
+  },
+  {
+    "id": "ablakon-1984",
+    "title": "Ablakon",
+    "year": 1984,
+    "director": "Roger Gnoan M'Bala",
+    "country": [
+      "Ivory Coast"
+    ],
+    "type": "feature",
+    "genre": "drama, satire",
+    "era": "flourishing",
+    "description": "Roger Gnoan M'Bala's debut feature is a cynical portrait of a con man who poses as a wealthy businessman to swindle an entire community, framed against a gang of street children pursued by police. The film won the Best Actor prize at FESPACO 1985.",
+    "fun_fact": "The film's title character's name, Ablakon, has entered Ivorian popular speech as a byword for a swindler or fraudster.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Ablakon",
+      "https://letterboxd.com/film/ablakon/",
+      "https://trigon-film.org/en/directors/roger-gnoan-mbala/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Some sources list 1985; 1984 is given as the year the film was directed."
+  },
+  {
+    "id": "le-passager-du-tassili-1987",
+    "title": "Le Passager du Tassili",
+    "year": 1987,
+    "director": "Sarah Maldoror",
+    "country": [
+      "France",
+      "Algeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "flourishing",
+    "description": "Sarah Maldoror's television film follows Omar, a young Franco-Algerian man returning from vacation in Algeria who boards the ferry Le Tassili, adapted from a novel of the same name. It is one of several 1980s works by Maldoror, the pioneering Guadeloupean-French director best known for Sambizanga, exploring migration and dual identity.",
+    "fun_fact": "The film was adapted from a novel by Akli Tadjer about a young man torn between his French upbringing and Algerian heritage.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://letterboxd.com/film/le-passager-du-tassili/",
+      "https://www.imdb.com/title/tt1267835/",
+      "https://madelen.ina.fr/content/le-passager-du-tassili-75646?locale=en"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Made for French television; some sources list production year as 1986."
+  },
+  {
+    "id": "amok-1983",
+    "title": "Amok",
+    "year": 1983,
+    "director": "Souheil Ben-Barka",
+    "country": [
+      "Morocco",
+      "Guinea",
+      "Senegal"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "flourishing",
+    "description": "Loosely adapted from Alan Paton's anti-apartheid novel Cry, the Beloved Country, Souheil Ben-Barka's film follows a rural teacher drawn into Johannesburg amid the Soweto uprising. The Moroccan-Guinean-Senegalese co-production features a score by Miriam Makeba and won the Golden Prize at the 1983 Moscow International Film Festival.",
+    "fun_fact": "Anti-apartheid singer Miriam Makeba composed the film's music.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Amok_(1983_film)",
+      "https://en.wikipedia.org/wiki/Souheil_Ben-Barka",
+      "https://farafinaculture.com/2019/11/08/amok-de-souheil-ben-barka-des-fous-furieux-a-la-rage-incontrolable/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Some sources give 1982 as the production year; 1983 used per the film's Wikipedia title and most databases."
+  },
+  {
+    "id": "mortu-nega-1988",
+    "title": "Mortu Nega",
+    "year": 1988,
+    "director": "Flora Gomes",
+    "country": [
+      "Guinea-Bissau"
+    ],
+    "type": "feature",
+    "genre": "drama, historical",
+    "era": "flourishing",
+    "description": "Flora Gomes's debut feature and the first film produced in independent Guinea-Bissau follows a woman who searches the country for her resistance-fighter husband during the war for independence from Portugal. It blends contemporary history with mythology and won the Oumarou Ganda Prize at FESPACO 1989.",
+    "fun_fact": "The film's world premiere was at the Venice Film Festival on August 29, 1988.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Mortu_Nega",
+      "https://www.institutfrancais.com/en/magazine/work/mortu-nega-by-flora-gomes",
+      "https://harvardfilmarchive.org/calendar/mortu-nega"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "First Guinea-Bissau feature film and first Lusophone African film in this database's flourishing era."
+  },
+  {
+    "id": "yam-daabo-1986",
+    "title": "Yam Daabo",
+    "year": 1986,
+    "director": "Idrissa Ouedraogo",
+    "country": [
+      "Burkina Faso"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "flourishing",
+    "description": "Idrissa Ouedraogo's debut feature follows an impoverished farming family that abandons a life dependent on Western aid in the city to resettle in the more fertile countryside. The film won the Georges Sadoul Prize and features music by Francis Bebey.",
+    "fun_fact": "The film is also known as Le Choix (The Choice) and won the Silver Charybdis at the 1987 Taormina International Film Festival.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Yam_Daabo",
+      "https://www.criterion.com/films/35104-yam-daabo",
+      "https://en.unifrance.org/movie/45475/the-choice"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sources split between 1986 (Georges Sadoul Prize year, Wikipedia) and 1987 (Criterion, Taormina screening); 1986 used as the more commonly cited completion year."
+  },
+  {
+    "id": "circle-of-doom-1993",
+    "title": "Circle of Doom",
+    "year": 1993,
+    "director": "Chris Obi Rapu",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "drama, occult thriller",
+    "era": "video-wave",
+    "description": "Circle of Doom was one of the straight-to-video Nigerian features that followed in the wake of Living in Bondage, directed by Chris Obi Rapu and produced and written by Kenneth Nnebue and Okechukwu Ogunjiofor. It stars Kenneth Okonkwo, Kanayo O. Kanayo, Bob-Manuel Udokwu and Ngozi Nwosu, part of the same core repertory cast that anchored the earliest Igbo-language home video hits.",
+    "fun_fact": "The film reunited most of the lead cast and behind-the-camera team of Living in Bondage within a year of that film's release.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0777202/",
+      "https://en.wikipedia.org/wiki/List_of_Nigerian_films_of_1993"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Release year given as 1993 by IMDb; some secondary sources list 1994. Credited cast and crew match the Living in Bondage production circle."
+  },
+  {
+    "id": "diamond-ring-1998",
+    "title": "Diamond Ring",
+    "year": 1998,
+    "director": "Tade Ogidan",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "thriller, fantasy",
+    "era": "video-wave",
+    "description": "Diamond Ring is a Nigerian supernatural thriller written, directed and produced by Tade Ogidan, starring Richard Mofe-Damijo, Bimbo Akintola, Liz Benson, Sola Sobowale and Bukky Ajayi. A university freshman steals a diamond ring from a dead woman's corpse to prove himself to a secret campus cult, and is then haunted by her vengeful spirit.",
+    "fun_fact": "The film was released in two parts and is regularly cited as one of the defining Nollywood cult-and-cautionary-tale thrillers of the late 1990s.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Diamond_Ring_(1998_film)",
+      "https://www.imdb.com/title/tt0842528/",
+      "https://en.wikipedia.org/wiki/List_of_Nigerian_films_of_1998"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "violated-1996",
+    "title": "Violated",
+    "year": 1996,
+    "director": "Amaka Igwe",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "Violated is a Nigerian romantic drama directed by Amaka Igwe starring Richard Mofe-Damijo and Ego Boyo. A wealthy young man's marriage is tested when his ex-wife reappears and hidden secrets about his own past unravel his new relationship.",
+    "fun_fact": "It was one of the highest-selling Nigerian home video productions of 1996.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Violated_(1996_film)",
+      "https://thenativemag.com/women-filmmakers-nollywood/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Some secondhand sources incorrectly attribute the film to Zeb Ejiro; Wikipedia credits director Amaka Igwe."
+  },
+  {
+    "id": "glamour-girls-2-1996",
+    "title": "Glamour Girls 2: The Italian Connection",
+    "year": 1996,
+    "director": "Christian Onu",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "Glamour Girls 2 is the sequel to Kenneth Nnebue's 1994 Nollywood hit Glamour Girls, directed by Christian Onu and produced by Nnebue. It continues the story of Nigerian women drawn into transactional relationships and international trafficking networks, this time with an Italian connection.",
+    "fun_fact": "The original Glamour Girls (1994) is widely credited with putting the theme of 'runs girls' and international trafficking into mainstream Nollywood storytelling, a theme this sequel expanded on.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0765065/",
+      "https://en.wikipedia.org/wiki/List_of_Nigerian_films_of_1996",
+      "https://culturecustodian.com/watch-the-original-glamour-girls/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "end-of-the-wicked-1999",
+    "title": "End of the Wicked",
+    "year": 1999,
+    "director": "Teco Benson",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "horror",
+    "era": "video-wave",
+    "description": "End of the Wicked is a Nigerian horror film directed by Teco Benson and written by Nigerian evangelist Helen Ukpabio, who also appears in the film as the demon-hunting 'Pastor Priscilla.' The film dramatizes child witchcraft accusations and deliverance rituals central to a strand of Pentecostal-inflected Nollywood horror.",
+    "fun_fact": "Child-rights researchers and journalists have directly linked the film's popularity to a documented rise in witchcraft accusations against children in southeastern Nigeria in the years after its release.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/End_of_the_Wicked",
+      "https://www.allmovie.com/movie/end-of-the-wicked-am118010",
+      "https://letterboxd.com/film/end-of-the-wicked/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Content is genuinely controversial for its real-world social impact; flagged here only for factual notes, not for exclusion."
+  },
+  {
+    "id": "silent-night-1996",
+    "title": "Silent Night",
+    "year": 1996,
+    "director": "Chico Ejiro",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "crime, action",
+    "era": "video-wave",
+    "description": "Silent Night is a Nigerian crime action film directed by Chico Ejiro and written by Zeb Ejiro, starring Ramsey Nouah, Segun Arinze and Kate Henshaw. It follows a wealthy young man who joins an armed robbery gang and is forced into a violent reckoning with his own family.",
+    "fun_fact": "The film's success spawned two direct sequels, Silent Night 2 and Silent Night 3, released the same year.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Silent_Night_(1996_film)",
+      "https://www.imdb.com/title/tt1813605/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "blood-money-1997",
+    "title": "Blood Money",
+    "year": 1997,
+    "director": "Chico Ejiro",
+    "country": [
+      "Nigeria"
+    ],
+    "type": "feature",
+    "genre": "occult thriller",
+    "era": "video-wave",
+    "description": "Blood Money is a Nigerian occult thriller directed by Chico Ejiro and produced by Ojiofor Ezeanyaeche, starring Kanayo O. Kanayo, Zack Orji and Francis Duru. A scammed bank manager is drawn into a secret cult of ritual money magic run by a corrupt police chief, in one of the defining Nollywood 'get-rich-quick cult' morality tales.",
+    "fun_fact": "Scholar John C. McCall described the film in Africa Today as a useful distillation of Nigerian cult-phenomenon folklore, comparable to how The Godfather introduces American organized crime.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Blood_Money_(1997_film)",
+      "https://www.pulse.ng/articles/entertainment/movies/throwback-remembering-chico-ejiros-blood-money-1997-2024072517153809487"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "la-vie-sur-terre-1998",
+    "title": "La Vie sur terre (Life on Earth)",
+    "year": 1998,
+    "director": "Abderrahmane Sissako",
+    "country": [
+      "Mali"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "Life on Earth is a Malian film written, directed by and starring Abderrahmane Sissako, set in the village of Sokolo on the eve of the year 2000. A filmmaker returns home from France and observes the village's quiet indifference to the coming millennium.",
+    "fun_fact": "It was commissioned as part of the French '2000, Seen By...' project, in which ten directors from ten countries each made a film about the coming millennium.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/La_Vie_Sur_Terre",
+      "https://www.moma.org/calendar/events/5914",
+      "https://en.unifrance.org/movie/15478/life-on-earth"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "aristotles-plot-1996",
+    "title": "Aristotle's Plot",
+    "year": 1996,
+    "director": "Jean-Pierre Bekolo",
+    "country": [
+      "Cameroon",
+      "France",
+      "United Kingdom",
+      "Zimbabwe"
+    ],
+    "type": "feature",
+    "genre": "satire, comedy",
+    "era": "video-wave",
+    "description": "Aristotle's Plot is a satirical Cameroonian film by Jean-Pierre Bekolo commissioned by the BFI for its Century of Cinema series marking 100 years of film. Two allegorical characters, Cinema and Cineaste, fight over whether African audiences should watch Hollywood action films or serious African cinema.",
+    "fun_fact": "It was the first African film to screen at the Sundance Film Festival.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.tcm.com/tcmdb/title/526557/aristotles-plot/",
+      "https://www.imdb.com/title/tt39053778/",
+      "https://harvardfilmarchive.org/calendar/aristotles-plot-2024-03"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "No standalone English Wikipedia page located; verified across TCM, IMDb, Harvard Film Archive and Letterboxd instead."
+  },
+  {
+    "id": "bye-bye-africa-1999",
+    "title": "Bye Bye Africa",
+    "year": 1999,
+    "director": "Mahamat-Saleh Haroun",
+    "country": [
+      "Chad",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "docu-drama",
+    "era": "video-wave",
+    "description": "Bye Bye Africa is the debut feature of Chadian director Mahamat-Saleh Haroun, who also stars as a fictionalized version of himself returning home from France after his mother's death. Blending documentary and fiction techniques, it is considered the first feature film from Chad.",
+    "fun_fact": "Haroun won the Best First Film award at the 1999 Venice Film Festival for it.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Bye_Bye_Africa",
+      "https://en.wikipedia.org/wiki/Mahamat-Saleh_Haroun",
+      "https://www.idfa.nl/en/film/e9cfcc1a-2a29-4a3e-8c56-d35efcf87e1d/bye-bye-africa/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "clando-1996",
+    "title": "Clando",
+    "year": 1996,
+    "director": "Jean-Marie Teno",
+    "country": [
+      "Cameroon",
+      "Germany"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "Clando is a Cameroonian drama by Jean-Marie Teno following Anatole Sobgui, a computer programmer who loses his job and turns to working as an unlicensed 'clando' taxi driver, before being arrested and tortured for printing anti-government leaflets under a corrupt regime.",
+    "fun_fact": "The film won the Audience Award at the African Film Festival in Milan.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Clando",
+      "https://en.wikipedia.org/wiki/Jean-Marie_Teno",
+      "https://en.unifrance.org/movie/15022/clando"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "taafe-fanga-1997",
+    "title": "Taafe Fanga (Skirt Power)",
+    "year": 1997,
+    "director": "Adama Drabo",
+    "country": [
+      "Mali"
+    ],
+    "type": "feature",
+    "genre": "comedy, drama",
+    "era": "video-wave",
+    "description": "Taafe Fanga is a Malian comedy-drama by Adama Drabo based on a Dogon oral legend, in which a clever young woman steals a sacred mask's power and uses it to upend the village's gender order, causing the women to trade places with the men.",
+    "fun_fact": "It screened at Cannes, Tokyo and Ouagadougou's FESPACO among other major festivals.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Adama_Drabo",
+      "https://variety.com/1997/film/reviews/taafe-fanga-1200450393/",
+      "https://www.cambridge.org/core/journals/african-studies-review/article/abs/adama-drabo-taafe-fanga-mali-1997-san-francisco-california-newsreel-95-minutes/5DB840D7BAEE21A8EA30E8EEE5D9CC9A"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "chikin-biznis-1998",
+    "title": "Chikin Biznis: The Whole Story",
+    "year": 1998,
+    "director": "Ntshaveni Wa Luruli",
+    "country": [
+      "South Africa"
+    ],
+    "type": "feature",
+    "genre": "comedy",
+    "era": "video-wave",
+    "description": "Chikin Biznis is a South African comedy directed by Ntshaveni Wa Luruli about Sipho, a middle-aged Johannesburg man who quits his stock-exchange messenger job to sell chickens at an open market, while juggling an affair with the wife of a jailed criminal.",
+    "fun_fact": "Wa Luruli made this feature after studying screenwriting and directing at Columbia University under Milos Forman; he later won a Crystal Bear at the Berlinale for The Wooden Camera.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://africanfilmny.org/films/chikin-biznis/",
+      "https://www.imdb.com/title/tt0216617/",
+      "https://iffr.com/en/iffr/2000/films/chikin-biznis-the-whole-story"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sources disagree on release year: made for M-Net in 1998 but IMDb and some festival listings give 1999."
+  },
+  {
+    "id": "udju-azul-di-yonta-1992",
+    "title": "Udju Azul di Yonta (The Blue Eyes of Yonta)",
+    "year": 1992,
+    "director": "Flora Gomes",
+    "country": [
+      "Guinea-Bissau",
+      "Portugal",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "The Blue Eyes of Yonta is the second feature by Guinea-Bissauan director Flora Gomes, set in Bissau nearly two decades after independence. A young woman secretly in love with a war-of-independence veteran receives anonymous love letters from another admirer, as the film reflects on the unfulfilled promises of liberation.",
+    "fun_fact": "It played in the Un Certain Regard section at the 1992 Cannes Film Festival and won the Bronze Tanit at the Carthage Film Festival the same year.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Blue_Eyes_of_Yonta",
+      "https://www.festival-cannes.com/en/f/udju-azul-di-yonta/",
+      "https://trigon-film.org/en/films/udju-azul-di-yonta/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Some sources list 1991 as the production/completion year against 1992 for its Cannes premiere."
+  },
+  {
+    "id": "halfaouine-1990",
+    "title": "Halfaouine: Boy of the Terraces",
+    "year": 1990,
+    "director": "Ferid Boughedir",
+    "country": [
+      "Tunisia",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "coming-of-age, comedy",
+    "era": "video-wave",
+    "description": "Halfaouine: Boy of the Terraces is a Tunisian coming-of-age film by Ferid Boughedir following Noura, a 12-year-old boy caught between the women's world of the hammam and the harsher world of men in Tunis's Halfaouine district.",
+    "fun_fact": "Noura is played by Selim Boughedir, the director's own son.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0090665/",
+      "https://en.unifrance.org/movie/9303/halfaouine-boy-of-the-terraces",
+      "https://letterboxd.com/film/halfaouine-boy-of-the-terraces/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "No dedicated English Wikipedia article located during this pass; verified via IMDb, Unifrance, and additional festival/critical sources."
+  },
+  {
+    "id": "silences-of-the-palace-1994",
+    "title": "The Silences of the Palace",
+    "year": 1994,
+    "director": "Moufida Tlatli",
+    "country": [
+      "Tunisia",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "The Silences of the Palace is a Tunisian drama by Moufida Tlatli set in a prince's palace across two generations, following Alia as she confronts the legacy of her mother's life as a servant and mistress in 1950s Tunisia.",
+    "fun_fact": "It was the first international hit by a female director from the Arab world and appeared on Time magazine's list of the ten best films of 1994.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Silences_of_the_Palace",
+      "https://www.imdb.com/title/tt0111055/",
+      "https://archive.org/details/samt-el-qusur"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "bab-el-oued-city-1994",
+    "title": "Bab El-Oued City",
+    "year": 1994,
+    "director": "Merzak Allouache",
+    "country": [
+      "Algeria",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "Bab El-Oued City is an Algerian drama by Merzak Allouache set in a working-class Algiers neighborhood in the aftermath of the October 1988 riots and the rise of Islamic fundamentalism. A bakery worker disconnects a mosque loudspeaker that wakes him daily, triggering escalating unrest.",
+    "fun_fact": "It won the FIPRESCI prize in the Un Certain Regard section at the 1994 Cannes Film Festival.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Bab_El-Oued_City",
+      "https://www.imdb.com/title/tt0109185/",
+      "https://variety.com/1994/film/reviews/bab-el-oued-city-1200437005/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "the-emigrant-1994",
+    "title": "Al Mohager (The Emigrant)",
+    "year": 1994,
+    "director": "Youssef Chahine",
+    "country": [
+      "Egypt",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama, epic",
+    "era": "video-wave",
+    "description": "The Emigrant is an Egyptian epic by Youssef Chahine loosely reimagining the biblical story of Joseph, following Ram as he leaves his homeland for Egypt in search of knowledge. Its visual depiction of a prophet figure sparked a six-month legal battle and a domestic theatrical ban under Islamic religious rulings.",
+    "fun_fact": "Despite the ban, it had already become one of Chahine's highest-grossing films before being pulled from Egyptian theaters.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/The_Emigrant_(1994_film)",
+      "https://www.imdb.com/title/tt0110545/",
+      "https://misrinternationalfilms.com/media_content/al-mohager-the-emigrant"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "just-another-girl-on-the-irt-1992",
+    "title": "Just Another Girl on the I.R.T.",
+    "year": 1992,
+    "director": "Leslie Harris",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "Just Another Girl on the I.R.T. is written, produced and directed by Leslie Harris and follows Chantel Mitchell, a smart Brooklyn teenager determined to leave her neighborhood for college and medical school, whose plans are upended by an unplanned pregnancy.",
+    "fun_fact": "It won the Special Jury Prize at the 1993 Sundance Film Festival, and remains Leslie Harris's only feature film to date.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Just_Another_Girl_on_the_I.R.T.",
+      "https://www.imdb.com/title/tt0104575/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "straight-out-of-brooklyn-1991",
+    "title": "Straight Out of Brooklyn",
+    "year": 1991,
+    "director": "Matty Rich",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "Straight Out of Brooklyn is the directorial debut of Matty Rich, who wrote the screenplay at age 17. It follows Dennis, a Black teenager in a Red Hook housing project living with his sister, mother and abusive, alcoholic father, as he plots a way out of poverty.",
+    "fun_fact": "Financed largely on credit cards and donations for about $450,000, the film grossed $2.7 million and won Rich an Independent Spirit Award.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Straight_Out_of_Brooklyn",
+      "https://www.imdb.com/title/tt0102989/",
+      "https://www.rogerebert.com/reviews/straight-out-of-brooklyn-1991"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "deep-cover-1992",
+    "title": "Deep Cover",
+    "year": 1992,
+    "director": "Bill Duke",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "crime, film noir",
+    "era": "video-wave",
+    "description": "Deep Cover is a crime drama directed by Bill Duke starring Laurence Fishburne as an undercover cop drawn into a Los Angeles drug cartel, with Jeff Goldblum as the corrupt lawyer he partners with. It is often cited as a key neo-noir of early-1990s Black American cinema.",
+    "fun_fact": "The Dr. Dre and Snoop Doggy Dogg title-track single, Snoop's studio debut, became more culturally famous than the film itself.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Deep_Cover_(1992_film)",
+      "https://www.criterion.com/films/31499-deep-cover",
+      "https://brooklynrail.org/2021/07/film/Bill-Dukes-Deep-Cover/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "a-rage-in-harlem-1991",
+    "title": "A Rage in Harlem",
+    "year": 1991,
+    "director": "Bill Duke",
+    "country": [
+      "United States",
+      "United Kingdom"
+    ],
+    "type": "feature",
+    "genre": "crime, comedy",
+    "era": "video-wave",
+    "description": "A Rage in Harlem is a crime comedy directed by Bill Duke, loosely adapted from Chester Himes's novel of the same name, starring Forest Whitaker, Robin Givens, Gregory Hines and Danny Glover. A gangster's girlfriend flees to Harlem with a trunk of stolen gold, with pursuers close behind.",
+    "fun_fact": "It premiered in competition at the 1991 Cannes Film Festival.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/A_Rage_in_Harlem",
+      "https://www.imdb.com/title/tt0102749/",
+      "https://jonathanrosenbaum.net/1991/04/a-rage-in-harlem/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "panther-1995",
+    "title": "Panther",
+    "year": 1995,
+    "director": "Mario Van Peebles",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "historical drama",
+    "era": "video-wave",
+    "description": "Panther is Mario Van Peebles's adaptation of his father Melvin Van Peebles's novel, dramatizing the founding, rise and decline of the Black Panther Party for Self-Defense. It was the first narrative feature film to depict the Black Panther Party.",
+    "fun_fact": "Mario Van Peebles both directed and starred in the film, continuing a father-son filmmaking collaboration begun with Melvin's Sweet Sweetback's Baadasssss Song.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Panther_(film)",
+      "https://www.imdb.com/title/tt0114084/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "down-in-the-delta-1998",
+    "title": "Down in the Delta",
+    "year": 1998,
+    "director": "Maya Angelou",
+    "country": [
+      "United States",
+      "Canada"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "Down in the Delta is Maya Angelou's only feature film as director, starring Alfre Woodard as a mother struggling with addiction who is sent with her children from Chicago to her ancestral family home in the Mississippi Delta for the summer.",
+    "fun_fact": "It won the Audience Choice Award for Best Feature at the 1998 Chicago International Film Festival and was Esther Rolle's final film released in her lifetime.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Down_in_the_Delta",
+      "https://www.rogerebert.com/reviews/down-in-the-delta-1998",
+      "https://www.afi.com/news/down-in-the-delta-afi-movie-club/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "love-jones-1997",
+    "title": "Love Jones",
+    "year": 1997,
+    "director": "Theodore Witcher",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "romance, drama",
+    "era": "video-wave",
+    "description": "Love Jones is Theodore Witcher's directorial debut, a romantic drama set among Chicago's Black artistic and literary scene, starring Larenz Tate and Nia Long as a poet and photographer navigating a modern relationship.",
+    "fun_fact": "It tied for the Audience Award at the 1997 Sundance Film Festival and remains Witcher's only feature to date.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Love_Jones_(film)",
+      "https://www.rogerebert.com/interviews/Theodore-witcher-love-jones-interview",
+      "https://www.criterion.com/films/31501-love-jones"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "soul-food-1997",
+    "title": "Soul Food",
+    "year": 1997,
+    "director": "George Tillman Jr.",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama, comedy",
+    "era": "video-wave",
+    "description": "Soul Food is George Tillman Jr.'s studio directing debut, following the Chicago-based Joseph family across a year of Sunday dinners as told through the eyes of 11-year-old Ahmad, starring Vanessa L. Williams, Vivica A. Fox and Nia Long.",
+    "fun_fact": "Tillman based the family on his own, and the film's success led to a Showtime television series adaptation in 2000.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Soul_Food_(film)",
+      "https://en.wikipedia.org/wiki/George_Tillman_Jr."
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "belly-1998",
+    "title": "Belly",
+    "year": 1998,
+    "director": "Hype Williams",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "crime drama",
+    "era": "video-wave",
+    "description": "Belly is the sole feature film directed by music-video auteur Hype Williams, starring rappers Nas and DMX as childhood friends pulled into rival paths within New York's drug trade, rendered in Williams's saturated, high-fashion visual style.",
+    "fun_fact": "The Magic Johnson Theater chain initially refused to screen it over its depiction of young Black men, despite Williams's stature as one of the era's most sought-after music video directors.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Belly_(film)",
+      "https://collider.com/hype-williams-movie-belly/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "higher-learning-1995",
+    "title": "Higher Learning",
+    "year": 1995,
+    "director": "John Singleton",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "video-wave",
+    "description": "Higher Learning is John Singleton's ensemble drama about first-year students at a fictional university confronting racial division, sexual violence and rising extremism, starring Omar Epps, Ice Cube, Kristy Swanson and Michael Rapaport.",
+    "fun_fact": "It was Singleton's third feature, following Boyz n the Hood and Poetic Justice, and continued his focus on race and institutional pressure in American life.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Higher_Learning",
+      "https://en.wikipedia.org/wiki/John_Singleton"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": ""
+  },
+  {
+    "id": "battu-2000",
+    "title": "B\u00e0ttu",
+    "year": 2000,
+    "director": "Cheick Oumar Sissoko",
+    "country": [
+      "Mali",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama, satire",
+    "era": "festival-era",
+    "description": "Based on a novel by Aminata Sow Fall, Battu follows an overly ambitious Senegalese politician who orders beggars swept off the streets of his city ahead of an international conference. The beggars, led by a blind man and a group of women, organize to resist and expose the hypocrisy of the ruling elite.",
+    "fun_fact": "The film won Cheick Oumar Sissoko the RFI Prize for Cinema at FESPACO in 2001, following his earlier Etalon de Yennenga win for La Genese in 1999.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.unifrance.org/movie/16019/battu",
+      "https://letterboxd.com/film/battu/",
+      "https://africanfilmny.org/directors/cheick-oumar-sissoko/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sometimes listed as a Senegal/Mali/France co-production; core creative credit is Malian director Sissoko."
+  },
+  {
+    "id": "ouaga-saga-2004",
+    "title": "Ouaga Saga",
+    "year": 2004,
+    "director": "Dani Kouyate",
+    "country": [
+      "Burkina Faso"
+    ],
+    "type": "feature",
+    "genre": "comedy",
+    "era": "festival-era",
+    "description": "Ouaga Saga follows a group of ten young friends in one of Ouagadougou's poorest districts as they scheme and dream their way toward a better life. The film blends comedy with an affectionate, unsentimental portrait of urban Burkinabe youth culture.",
+    "fun_fact": "The film won the Prix Graine de Baobab at FESPACO 2005 and an acting prize for its young cast at the Durban International Film Festival the same year.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.unifrance.org/movie/25528/ouaga-saga",
+      "https://en.wikipedia.org/wiki/Ouaga-Saga",
+      "https://www.africine.org/film/ouaga-saga/728"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Director Dani Kouyate is also known for Keita! Voice of the Griot (1995)."
+  },
+  {
+    "id": "colonial-misunderstanding-2004",
+    "title": "Le Malentendu Colonial (The Colonial Misunderstanding)",
+    "year": 2004,
+    "director": "Jean-Marie Teno",
+    "country": [
+      "Cameroon",
+      "Germany",
+      "France"
+    ],
+    "type": "documentary",
+    "genre": "documentary, essay film",
+    "era": "festival-era",
+    "description": "Jean-Marie Teno's documentary examines Christian evangelism as a forerunner of European colonialism in Africa, centered on the role of German missionaries in Namibia around the centenary of the 1904 genocide of the Herero and Nama peoples. The film traces how colonial-era religious institutions helped dismantle African belief systems and social structures.",
+    "fun_fact": "Teno made the film to coincide with the 100th anniversary of Germany's 1904 campaign against the Herero, widely described by historians as the first genocide of the twentieth century.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://resolve.cambridge.org/core/journals/african-studies-review/article/le-malentendu-colonial-colonial-misunderstanding-produced-and-directed-by-jeanmarie-teno-73-minutes-cameroon-2004-vhs-and-dvd-in-french-german-and-english-with-english-subtitles-distributed-by-california-newsreel-19500/86913818318273A4B022BBC01E5055E3",
+      "https://en.wikipedia.org/wiki/Jean-Marie_Teno",
+      "https://africanfilmny.org/directors/jean-marie-teno/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Distinct from Teno's Sacred Places (2009), which is already in the database."
+  },
+  {
+    "id": "une-affaire-de-negres-2006",
+    "title": "Une Affaire de Negres",
+    "year": 2006,
+    "director": "Osvalde Lewat",
+    "country": [
+      "Cameroon",
+      "France"
+    ],
+    "type": "documentary",
+    "genre": "documentary",
+    "era": "festival-era",
+    "description": "Osvalde Lewat's first feature-length documentary investigates the Cameroonian government's Operational Command Unit, set up in 2000 to fight banditry in Douala, which was linked to roughly 1,600 disappearances and killings in a single year. The film gathers testimony from victims' families searching for accountability.",
+    "fun_fact": "Lewat is a Cameroonian filmmaker and photographer whose work focuses on sociopolitical accountability in Central Africa.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Une_Affaire_de_n%C3%A8gres",
+      "https://www.africine.org/critique/une-affaire-de-negres/8918",
+      "https://en.wikipedia.org/wiki/Osvalde_Lewat"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Sources give slightly different release years (2006 vs 2007/2008 for wider distribution); AlloCine lists 2006 as the film's release year, used here."
+  },
+  {
+    "id": "from-a-whisper-2008",
+    "title": "From a Whisper",
+    "year": 2008,
+    "director": "Wanuri Kahiu",
+    "country": [
+      "Kenya"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "festival-era",
+    "description": "From a Whisper commemorates the tenth anniversary of the 1998 US Embassy bombing in Nairobi, which killed over 250 people. The film follows an artist and an intelligence officer whose lives were both shattered by the attack as they search for ways to move forward.",
+    "fun_fact": "The film won five awards at the 2009 Africa Movie Academy Awards, including Best Picture and Best Director for Wanuri Kahiu.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/From_a_Whisper",
+      "https://africanfilmny.org/films/from-a-whisper/",
+      "https://www.nypl.org/events/programs/2011/08/21/whisper-dvd-color-90-minutes-2008-kenya-directed-wanuri-kahiu"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Wanuri Kahiu later became known internationally for Pumzi (2009), already in the database, and Rafiki (2018)."
+  },
+  {
+    "id": "a-drink-in-the-passage-2002",
+    "title": "A Drink in the Passage",
+    "year": 2002,
+    "director": "Zola Maseko",
+    "country": [
+      "South Africa"
+    ],
+    "type": "short",
+    "genre": "drama",
+    "era": "festival-era",
+    "description": "Set on the day in 1961 that a young Black writer wins South Africa's first major literary prize, A Drink in the Passage dramatizes the absurdity of apartheid when he cannot be served a celebratory drink inside the whites-only venue hosting his own award ceremony. The short is based on a story by Alan Paton.",
+    "fun_fact": "Director Zola Maseko went on to direct the feature Drum (2004), already cataloged, becoming the first South African to win FESPACO's top prize.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://africanfilmny.org/directors/zola-maseko/",
+      "https://sahistory.org.za/dated-event/director-zola-maseko-becomes-first-south-african-win-top-prize-africas-premier-film"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Only two secondary sources located directly confirming plot/year details for this short; recommend a third check against a festival catalog before publishing."
+  },
+  {
+    "id": "bintou-2001",
+    "title": "Bintou",
+    "year": 2001,
+    "director": "Fanta Regina Nacro",
+    "country": [
+      "Burkina Faso"
+    ],
+    "type": "short",
+    "genre": "drama, comedy",
+    "era": "festival-era",
+    "description": "Also known as A Close-Up on Bintou, this short follows a market trader in Ouagadougou who defies her husband to pay for their daughter's schooling, using household savings meant for his second wedding. The film is a wry, feminist look at gender and money within a polygamous household.",
+    "fun_fact": "Fanta Regina Nacro was the first woman from Burkina Faso to direct a dramatic film, beginning with the 1991 short Un Certain Matin.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Bintou",
+      "https://en.wikipedia.org/wiki/Fanta_R%C3%A9gina_Nacro",
+      "https://peoplepill.com/people/fanta-regina-nacro/"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Nacro later directed La Nuit de la Verite (2004), already cataloged."
+  },
+  {
+    "id": "alexandria-new-york-2004",
+    "title": "Alexandria... New York",
+    "year": 2004,
+    "director": "Youssef Chahine",
+    "country": [
+      "Egypt",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "festival-era",
+    "description": "The fourth and final installment of Youssef Chahine's autobiographical Alexandria quartet follows an aging Egyptian film director who travels to New York after decades away, confronting a past love and an estranged son born in the United States. The film reflects on Egyptian-American relations through a deeply personal lens.",
+    "fun_fact": "The film completes a quartet Chahine began with An Egyptian Story (1982) and continued with Alexandria Again and Forever (1990).",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Alexandria..._New_York",
+      "https://www.festival-cannes.com/en/p/youssef-chahine/",
+      "https://en.wikipedia.org/wiki/Youssef_Chahine"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Screened in Un Certain Regard at Cannes 2004."
+  },
+  {
+    "id": "rachida-2002",
+    "title": "Rachida",
+    "year": 2002,
+    "director": "Yamina Bachir-Chouikh",
+    "country": [
+      "Algeria"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "festival-era",
+    "description": "Rachida follows a young schoolteacher who is shot by Islamist insurgents after refusing to help plant a bomb in her school during Algeria's civil war. After surviving, she relocates with her mother to a village that is itself not safe from the violence engulfing the country. The film is told from an explicitly feminist point of view on the Algerian civil war of the 1990s.",
+    "fun_fact": "Yamina Bachir-Chouikh was the first Algerian woman to write and direct a 35mm feature for theatrical release.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Rachida",
+      "https://en.unifrance.org/movie/23502/rachida",
+      "https://en.wikipedia.org/wiki/Yamina_Bachir"
+    ],
+    "date_verified": "2026-07-29",
+    "notes": "Screened in Un Certain Regard at Cannes 2002."
   }
 ]
