@@ -7,6 +7,7 @@ layout: base.njk
 </section>
 
 <article class="film-card" style="max-width:700px;margin:0 auto;">
+  {% if film.poster_image %}<img src="{{ film.poster_image }}" alt="{{ film.title }} poster" loading="lazy" style="width:100%;max-width:300px;display:block;margin:0 auto 1rem;border-radius:4px;">{% endif %}
   <p class="meta">{{ film.type }} · {{ film.genre }} · {{ film.era }}</p>
   <p>{{ film.description }}</p>
   <p><strong>Fun fact:</strong> {{ film.fun_fact }}</p>

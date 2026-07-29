@@ -4,7 +4,9 @@
     "title": "Les Statues meurent aussi (Statues Also Die)",
     "year": 1953,
     "director": "Alain Resnais, Chris Marker",
-    "country": ["France"],
+    "country": [
+      "France"
+    ],
     "type": "short",
     "genre": "essay film, documentary",
     "era": "pre-history",
@@ -19,14 +21,19 @@
       "https://en.unifrance.org/movie/34082/statues-also-die"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Colonial-era, French-directed critique of colonialism, not African-directed; included in pre-history era per AFA methodology as a clearly labeled non-African-directed work. Censored in France, with the second half effectively banned by the CNC from 1953 until the 1960s for its anti-colonial content. Director credit corrected 2026-07-29: La Cinematheque francaise credits Resnais and Marker as directors with Cloquet as cinematographer; some other databases list Cloquet as a co-director, so this remains a minor credit discrepancy worth noting."
+    "notes": "Colonial-era, French-directed critique of colonialism, not African-directed; included in pre-history era per AFA methodology as a clearly labeled non-African-directed work. Censored in France, with the second half effectively banned by the CNC from 1953 until the 1960s for its anti-colonial content. Director credit corrected 2026-07-29: La Cinematheque francaise credits Resnais and Marker as directors with Cloquet as cinematographer; some other databases list Cloquet as a co-director, so this remains a minor credit discrepancy worth noting.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/in/y7/l4/ie/rmZafOuy2mPlzNF13y4wm7VHRys-1200-1200-675-675-crop-000000.jpg?v=0704e4bda5",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "monangambee-1969",
     "title": "Monangambee",
     "year": 1969,
     "director": "Sarah Maldoror",
-    "country": ["Algeria", "Angola"],
+    "country": [
+      "Algeria",
+      "Angola"
+    ],
     "type": "short",
     "genre": "drama",
     "era": "liberation",
@@ -41,14 +48,18 @@
       "https://www.moma.org/calendar/events/10508"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Shot in Algiers and concerns Angolan resistance to Portuguese colonialism; the film represented Angola at the 1971 Cannes Directors' Fortnight. Calling it Algerian solely on the basis of the shooting location would be misleading, so country is recorded as both Algeria and Angola."
+    "notes": "Shot in Algiers and concerns Angolan resistance to Portuguese colonialism; the film represented Angola at the 1971 Cannes Directors' Fortnight. Calling it Algerian solely on the basis of the shooting location would be misleading, so country is recorded as both Algeria and Angola.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/3/3/6/3/6/6/336366-monangambeee-0-230-0-345-crop.jpg?v=30b734f91d",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "kaddu-beykat-1975",
     "title": "Kaddu Beykat (Letter from My Village)",
     "year": 1975,
     "director": "Safi Faye",
-    "country": ["Senegal"],
+    "country": [
+      "Senegal"
+    ],
     "type": "feature",
     "genre": "docufiction",
     "era": "manifesto",
@@ -63,14 +74,18 @@
       "https://africanfilmny.org/directors/safi-faye/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Initially banned in Senegal for its criticism of national agricultural policy. Won the FIPRESCI Award in Berlin and the Georges Sadoul Prize. Not Faye's directorial debut: she had already made La Passante (1972) and Revanche (1973). Manifesto is an interpretive era label here rather than a claim about the film's own stated intent."
+    "notes": "Initially banned in Senegal for its criticism of national agricultural policy. Won the FIPRESCI Award in Berlin and the Georges Sadoul Prize. Not Faye's directorial debut: she had already made La Passante (1972) and Revanche (1973). Manifesto is an interpretive era label here rather than a claim about the film's own stated intent.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/4/6/2/4/8/146248-letter-from-my-village-0-230-0-345-crop.jpg?v=90c26050f7",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "a-different-image-1982",
     "title": "A Different Image",
     "year": 1982,
     "director": "Alile Sharon Larkin",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "short",
     "genre": "drama",
     "era": "flourishing",
@@ -85,14 +100,18 @@
       "https://www.shadowandact.com/atl-la-rebellion-retrospective-review-alile-sharon-larkins-1982-drama-a-different-image"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Part of the L.A. Rebellion movement of Black film students at UCLA. UCLA confirms Larkin as director, writer, and editor and Charles Burnett as cinematographer; runtime is 51 minutes."
+    "notes": "Part of the L.A. Rebellion movement of Black film students at UCLA. UCLA confirms Larkin as director, writer, and editor and Charles Burnett as cinematographer; runtime is 51 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/alternative-backdrop/1/7/5/9/4/2/tmdb/s6c9hDycKXGZ845TEGw3soIUVKf-1200-1200-675-675-crop-000000.jpg?v=9953d61a24",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "daughters-of-the-dust-1991",
     "title": "Daughters of the Dust",
     "year": 1991,
     "director": "Julie Dash",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "video-wave",
@@ -107,14 +126,19 @@
       "https://www.criterionchannel.com/daughters-of-the-dust"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Also a L.A. Rebellion-connected work; premiered at the 1991 Sundance Film Festival. Description tightened to avoid implying it was the first theatrical release of any kind by a Black woman; it is specifically the first to receive a general, wide US theatrical release."
+    "notes": "Also a L.A. Rebellion-connected work; premiered at the 1991 Sundance Film Festival. Description tightened to avoid implying it was the first theatrical release of any kind by a Black woman; it is specifically the first to receive a general, wide US theatrical release.",
+    "poster_image": "http://www.impawards.com/1991/posters/daughters_of_the_dust_xlg.jpg",
+    "poster_image_source": "IMP Awards"
   },
   {
     "id": "atlantiques-2009",
     "title": "Atlantiques",
     "year": 2009,
     "director": "Mati Diop",
-    "country": ["France", "Senegal"],
+    "country": [
+      "France",
+      "Senegal"
+    ],
     "type": "short",
     "genre": "documentary",
     "era": "festival-era",
@@ -129,14 +153,24 @@
       "https://www.criterion.com/current/posts/6838--you-don-t-have-a-home-until-you-leave-mati-diop-s-short-films"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Listed as a Franco-Senegalese production across sources. Award specified as the Tiger Award for Short Films, 2010 edition, rather than an unqualified Tiger Award."
+    "notes": "Listed as a Franco-Senegalese production across sources. Award specified as the Tiger Award for Short Films, 2010 edition, rather than an unqualified Tiger Award.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/0/7/9/4/7/107947-atlantics-0-230-0-345-crop.jpg?v=1d0a2fb62a",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "rafiki-2018",
     "title": "Rafiki",
     "year": 2018,
     "director": "Wanuri Kahiu",
-    "country": ["Kenya", "South Africa", "Germany", "Netherlands", "France", "Lebanon", "Norway"],
+    "country": [
+      "Kenya",
+      "South Africa",
+      "Germany",
+      "Netherlands",
+      "France",
+      "Lebanon",
+      "Norway"
+    ],
     "type": "feature",
     "genre": "drama, romance",
     "era": "new-voices",
@@ -151,14 +185,20 @@
       "https://www.cnn.com/style/article/wanuri-kahiu-kenya-lgbtq-rafiki-intl"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Multi-country co-production; core countries per IMDb and festival listings are Kenya, South Africa, Germany, Netherlands, France, Lebanon, and Norway. Correction: the January 2026 Court of Appeal ruling did not simply overturn or lift the ban. The court found the outright ban problematic and suggested adult classification could apply instead, but required Kahiu to exhaust the statutory appeal mechanism rather than granting immediate relief; it also declined her damages claim."
+    "notes": "Multi-country co-production; core countries per IMDb and festival listings are Kenya, South Africa, Germany, Netherlands, France, Lebanon, and Norway. Correction: the January 2026 Court of Appeal ruling did not simply overturn or lift the ban. The court found the outright ban problematic and suggested adult classification could apply instead, but required Kahiu to exhaust the statutory appeal mechanism rather than granting immediate relief; it also declined her damages claim.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/ap/ka/7r/uy/rafiki-1200-1200-675-675-crop-000000.jpg?v=29a60d657e",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "on-becoming-a-guinea-fowl-2024",
     "title": "On Becoming a Guinea Fowl",
     "year": 2024,
     "director": "Rungano Nyoni",
-    "country": ["Zambia", "United Kingdom", "Ireland"],
+    "country": [
+      "Zambia",
+      "United Kingdom",
+      "Ireland"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "present",
@@ -173,14 +213,18 @@
       "https://deadline.com/2024/05/on-becoming-a-guinea-fowl-review-rungano-nyoni-zambia-1235916958/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Zambia/UK/Ireland co-production; Nyoni is a Zambian filmmaker. Distributed by A24 in the US; dialogue in English and Bemba. Best Director, Un Certain Regard, was shared jointly with Roberto Minervini at Cannes 2024."
+    "notes": "Zambia/UK/Ireland co-production; Nyoni is a Zambian filmmaker. Distributed by A24 in the US; dialogue in English and Bemba. Best Director, Un Certain Regard, was shared jointly with Roberto Minervini at Cannes 2024.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/0t/v7/os/lm/5aC6tOA8wxCTGDmjbRJw3E29S01-1200-1200-675-675-crop-000000.jpg?v=9835adda74",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "sanders-of-the-river-1935",
     "title": "Sanders of the River",
     "year": 1935,
     "director": "Zoltan Korda",
-    "country": ["United Kingdom"],
+    "country": [
+      "United Kingdom"
+    ],
     "type": "feature",
     "genre": "adventure, drama",
     "era": "pre-history",
@@ -195,14 +239,18 @@
       "https://www.tcm.com/tcmdb/title/89006/sanders-of-the-river"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Non-African-directed colonial production, included per methodology as clearly labeled pre-history era work, not a claim of African authorship. The claim that 11+ hours of documentary footage were shot and recut is repeated across secondary sources but should be treated as reported rather than independently confirmed against a primary production record."
+    "notes": "Non-African-directed colonial production, included per methodology as clearly labeled pre-history era work, not a claim of African authorship. The claim that 11+ hours of documentary footage were shot and recut is repeated across secondary sources but should be treated as reported rather than independently confirmed against a primary production record.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/7/3/5/7/2/73572-sanders-of-the-river-0-230-0-345-crop.jpg?v=4acd10847c",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "trader-horn-1931",
     "title": "Trader Horn",
     "year": 1931,
     "director": "W.S. Van Dyke",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "feature",
     "genre": "adventure",
     "era": "pre-history",
@@ -217,14 +265,18 @@
       "https://theasc.com/article/wrap-shot-trader-horn-1931/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Non-African-directed colonial-era adventure production, included per methodology as clearly labeled pre-history era work."
+    "notes": "Non-African-directed colonial-era adventure production, included per methodology as clearly labeled pre-history era work.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/h3/8h/sg/1s/p92mFg6cQ4p7l6N7C74J5ajlwBN-1200-1200-675-675-crop-000000.jpg?v=0a0530e1ed",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "kings-solomons-mines-1937",
     "title": "King Solomon's Mines",
     "year": 1937,
     "director": "Robert Stevenson",
-    "country": ["United Kingdom"],
+    "country": [
+      "United Kingdom"
+    ],
     "type": "feature",
     "genre": "adventure",
     "era": "pre-history",
@@ -239,14 +291,18 @@
       "http://www.colonialfilm.org.uk/node/610"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Non-African-directed colonial-era adventure production, included per methodology as clearly labeled pre-history era work."
+    "notes": "Non-African-directed colonial-era adventure production, included per methodology as clearly labeled pre-history era work.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/uc/5i/vm/az/xZj34D46XONUS72MhNlTpxle0Nj-1200-1200-675-675-crop-000000.jpg?v=017b569836",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "song-of-freedom-1936",
     "title": "Song of Freedom",
     "year": 1936,
     "director": "J. Elder Wills",
-    "country": ["United Kingdom"],
+    "country": [
+      "United Kingdom"
+    ],
     "type": "feature",
     "genre": "drama, musical",
     "era": "pre-history",
@@ -261,14 +317,18 @@
       "https://blackfilmarchive.com/Song-of-Freedom"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Non-African-directed colonial-era production set partly on a fictional African island, included per methodology as clearly labeled pre-history era work."
+    "notes": "Non-African-directed colonial-era production set partly on a fictional African island, included per methodology as clearly labeled pre-history era work.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/1/9/0/2/3/119023-song-of-freedom-0-230-0-345-crop.jpg?v=79fdcb5572",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "borom-sarret-1963",
     "title": "Borom Sarret",
     "year": 1963,
     "director": "Ousmane Sembene",
-    "country": ["Senegal"],
+    "country": [
+      "Senegal"
+    ],
     "type": "short",
     "genre": "drama",
     "era": "liberation",
@@ -283,14 +343,19 @@
       "https://harvardfilmarchive.org/programs/ousmane-sembene-cinematic-revolutionary-2"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Frequently called the first Sub-Saharan African film, though this claim is disputed by some historians who point to earlier works such as Song of Khartoum, Sarzan, and Mouramani."
+    "notes": "Frequently called the first Sub-Saharan African film, though this claim is disputed by some historians who point to earlier works such as Song of Khartoum, Sarzan, and Mouramani.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/fi/to/rb/06/Ae52jz3mqb7UoySOVwVkfliKRc6-1200-1200-675-675-crop-000000.jpg?v=f1c25a5519",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "la-noire-de-1966",
     "title": "La Noire de... (Black Girl)",
     "year": 1966,
     "director": "Ousmane Sembene",
-    "country": ["Senegal", "France"],
+    "country": [
+      "Senegal",
+      "France"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "liberation",
@@ -305,14 +370,18 @@
       "https://harvardfilmarchive.org/calendar/black-girl-2023-02"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Senegal/France co-production per Harvard Film Archive and Wikipedia."
+    "notes": "Senegal/France co-production per Harvard Film Archive and Wikipedia.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/5r/1t/26/9g/blackgirl-1200-1200-675-675-crop-000000.jpg?v=252c6847a6",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "contras-city-1968",
     "title": "Contras' City",
     "year": 1968,
     "director": "Djibril Diop Mambety",
-    "country": ["Senegal"],
+    "country": [
+      "Senegal"
+    ],
     "type": "short",
     "genre": "documentary, comedy",
     "era": "liberation",
@@ -327,14 +396,18 @@
       "https://www.artforum.com/features/a-tale-of-two-cities-the-films-of-djibril-diop-mambety-189427/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Mambety's first short film, made prior to his features Touki Bouki (1973) and Hyenas (1992). Year corrected 2026-07-29 from 1969 to 1968 per Wikipedia and festival archives."
+    "notes": "Mambety's first short film, made prior to his features Touki Bouki (1973) and Hyenas (1992). Year corrected 2026-07-29 from 1969 to 1968 per Wikipedia and festival archives.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/vc/ub/o2/c6/CityOfContrasts1-1200-1200-675-675-crop-000000.jpg?v=5f23d5606f",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "la-femme-au-couteau-1969",
     "title": "La Femme au couteau (The Woman with the Knife)",
     "year": 1969,
     "director": "Timite Bassori",
-    "country": ["Ivory Coast"],
+    "country": [
+      "Ivory Coast"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "liberation",
@@ -349,14 +422,19 @@
       "https://en.wikipedia.org/wiki/List_of_Ivorian_films"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Restored by Cineteca di Bologna and The Film Foundation's World Cinema Project with funding from the George Lucas Family Foundation."
+    "notes": "Restored by Cineteca di Bologna and The Film Foundation's World Cinema Project with funding from the George Lucas Family Foundation.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/4v/tn/zs/yz/TheWomanWithTheKnife1-1200-1200-675-675-crop-000000.jpg?v=cc9f0da60d",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "sambizanga-1972",
     "title": "Sambizanga",
     "year": 1972,
     "director": "Sarah Maldoror",
-    "country": ["Republic of the Congo", "Angola"],
+    "country": [
+      "Republic of the Congo",
+      "Angola"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "manifesto",
@@ -371,14 +449,18 @@
       "https://www.bfi.org.uk/film/0542d05a-7eba-5f82-b444-52b21c2d3db0/sambizanga"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Filmed in the Republic of the Congo, depicting events in Angola; among the first full-length features directed by a woman on the African continent. Country field lists production and subject locations together (Republic of Congo/France as production base, Angola as the story's setting); Congo and France are the production countries proper, with Angola representing the film's subject and setting rather than a co-producing nation."
+    "notes": "Filmed in the Republic of the Congo, depicting events in Angola; among the first full-length features directed by a woman on the African continent. Country field lists production and subject locations together (Republic of Congo/France as production base, Angola as the story's setting); Congo and France are the production countries proper, with Angola representing the film's subject and setting rather than a co-producing nation.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/27/vj/ig/4u/waYBLKEM2yJRp63haCGwxw5JuYw-1200-1200-675-675-crop-000000.jpg?v=3f0fea59e8",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "xala-1975",
     "title": "Xala",
     "year": 1975,
     "director": "Ousmane Sembene",
-    "country": ["Senegal"],
+    "country": [
+      "Senegal"
+    ],
     "type": "feature",
     "genre": "comedy, drama, satire",
     "era": "manifesto",
@@ -393,14 +475,19 @@
       "https://harvardfilmarchive.org/calendar/xala-2023-01"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 121 minutes; dialogue in French and Wolof."
+    "notes": "Runtime 121 minutes; dialogue in French and Wolof.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/f0/a6/6p/i0/xala-1200-1200-675-675-crop-000000.jpg?v=6537facea1",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "soleil-o-1970",
     "title": "Soleil O",
     "year": 1970,
     "director": "Med Hondo",
-    "country": ["Mauritania", "France"],
+    "country": [
+      "Mauritania",
+      "France"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "manifesto",
@@ -415,14 +502,18 @@
       "https://harvardfilmarchive.org/calendar/soleil-o-2023-04"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Mauritanian director, French-Mauritanian co-production per Criterion and Wikipedia."
+    "notes": "Mauritanian director, French-Mauritanian co-production per Criterion and Wikipedia.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/lr/un/n4/mc/soleil-1200-1200-675-675-crop-000000.jpg?v=f68c1e8563",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "den-muso-1975",
     "title": "Den Muso (The Young Girl)",
     "year": 1975,
     "director": "Souleymane Cisse",
-    "country": ["Mali"],
+    "country": [
+      "Mali"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "manifesto",
@@ -437,14 +528,18 @@
       "https://artreview.com/malian-filmmaker-souleymane-cisse-1940-2025-taught-us-how-to-see-obituary-sarah-jilani-opinion-african-cinema/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Cisse's first Malian feature; he died in 2025."
+    "notes": "Cisse's first Malian feature; he died in 2025.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/9/3/3/2/0/193320-the-young-girl-0-230-0-345-crop.jpg?v=5b7b1c7a03",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "yeelen-1987",
     "title": "Yeelen (Brightness)",
     "year": 1987,
     "director": "Souleymane Cisse",
-    "country": ["Mali"],
+    "country": [
+      "Mali"
+    ],
     "type": "feature",
     "genre": "drama, fantasy",
     "era": "flourishing",
@@ -459,14 +554,20 @@
       "https://africanfilmny.org/films/yeelen-brightness/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Corrected 2026-07-29: Cannes's own materials describe Yeelen as the first Black African film to compete/win a prize there, a narrower and more accurate claim than \"first African film,\" since North African cinema had reached Cannes earlier."
+    "notes": "Corrected 2026-07-29: Cannes's own materials describe Yeelen as the first Black African film to compete/win a prize there, a narrower and more accurate claim than \"first African film,\" since North African cinema had reached Cannes earlier.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/jy/hy/r3/tq/yeelen-1200-1200-675-675-crop-000000.jpg?v=ce08183f43",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "yaaba-1989",
     "title": "Yaaba",
     "year": 1989,
     "director": "Idrissa Ouedraogo",
-    "country": ["Burkina Faso", "France", "Switzerland"],
+    "country": [
+      "Burkina Faso",
+      "France",
+      "Switzerland"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "flourishing",
@@ -481,14 +582,18 @@
       "https://africanfilmny.org/films/yaaba/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "France/Burkina Faso (Upper Volta)/Switzerland co-production."
+    "notes": "France/Burkina Faso (Upper Volta)/Switzerland co-production.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/6/6/4/664-yaaba-0-230-0-345-crop.jpg?v=059559360a",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "illusions-1982",
     "title": "Illusions",
     "year": 1982,
     "director": "Julie Dash",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "short",
     "genre": "drama",
     "era": "flourishing",
@@ -503,14 +608,18 @@
       "https://www.sensesofcinema.com/2009/feature-articles/illusions-julie-dash/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime listed as 34 minutes by most sources; a small number list 1983 as the release year."
+    "notes": "Runtime listed as 34 minutes by most sources; a small number list 1983 as the release year.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/qd/rl/nn/5s/uXTJ6dhG9QhVCyvQNyuDdDhr1Pu-1200-1200-675-675-crop-000000.jpg?v=c0c7daeb3f",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "hair-piece-1984",
     "title": "Hair Piece: A Film for Nappy-Headed People",
     "year": 1984,
     "director": "Ayoka Chenzira",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "short",
     "genre": "animation, comedy",
     "era": "flourishing",
@@ -525,14 +634,18 @@
       "https://www.moma.org/calendar/events/6428"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Ten-minute animated short, originally developed from a stand-up comedy piece."
+    "notes": "Ten-minute animated short, originally developed from a stand-up comedy piece.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/2/7/7/3/4/4/277344-hair-piece-a-film-for-nappy-headed-people-0-230-0-345-crop.jpg?v=cf0de6b266",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "losing-ground-1982",
     "title": "Losing Ground",
     "year": 1982,
     "director": "Kathleen Collins",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "feature",
     "genre": "comedy, drama",
     "era": "flourishing",
@@ -547,14 +660,23 @@
       "http://kathleencollins.org/films"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Collins died at 46; this remains her only completed feature film."
+    "notes": "Collins died at 46; this remains her only completed feature film.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/37/da/jq/on/losingground-1200-1200-675-675-crop-000000.jpg?v=cae8c5b048",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "sankofa-1993",
     "title": "Sankofa",
     "year": 1993,
     "director": "Haile Gerima",
-    "country": ["Ethiopia", "Ghana", "Burkina Faso", "United States", "United Kingdom", "Germany"],
+    "country": [
+      "Ethiopia",
+      "Ghana",
+      "Burkina Faso",
+      "United States",
+      "United Kingdom",
+      "Germany"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "video-wave",
@@ -569,14 +691,20 @@
       "https://thediasporatimes.com/2021/09/16/array-releasing-and-iconic-filmmaker-haile-gerima-set-to-release-4k-restoration-of-sankofa/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Ethiopian director; co-production credits include Ghana National Commission on Culture, Burkina Faso's DiProCi, and German broadcasters NDR/WDR."
+    "notes": "Ethiopian director; co-production credits include Ghana National Commission on Culture, Burkina Faso's DiProCi, and German broadcasters NDR/WDR.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/rq/h5/7j/ad/sankofa-1200-1200-675-675-crop-000000.jpg?v=69d169490b",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "hyenas-1992",
     "title": "Hyenas",
     "year": 1992,
     "director": "Djibril Diop Mambety",
-    "country": ["Senegal", "Switzerland", "France"],
+    "country": [
+      "Senegal",
+      "Switzerland",
+      "France"
+    ],
     "type": "feature",
     "genre": "comedy, drama, satire",
     "era": "video-wave",
@@ -591,14 +719,18 @@
       "https://supamodu.com/2020/film/hyenas-djibril-diop-mambety/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Set in Colobane, Mambety's own hometown; Senegal/Switzerland/France co-production."
+    "notes": "Set in Colobane, Mambety's own hometown; Senegal/Switzerland/France co-production.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/ul/4s/uc/hw/hyenas-1200-1200-675-675-crop-000000.jpg?v=b724f973b3",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "mossane-1996",
     "title": "Mossane",
     "year": 1996,
     "director": "Safi Faye",
-    "country": ["Senegal"],
+    "country": [
+      "Senegal"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "video-wave",
@@ -613,14 +745,18 @@
       "https://www.filmlinc.org/films/mossane/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Cinematography by Jurgen Jurges."
+    "notes": "Cinematography by Jurgen Jurges.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/oh/qw/eg/7r/9VyCn7Lo8EQWA9SLuyonP8sPTB0-1200-1200-675-675-crop-000000.jpg?v=fc0265f071",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "compensation-1999",
     "title": "Compensation",
     "year": 1999,
     "director": "Zeinabu irene Davis",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "video-wave",
@@ -635,14 +771,19 @@
       "https://blackfilmarchive.com/Compensation"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Written by Marc Arthur Chery; stars Michelle A. Banks and John Earl Jelks."
+    "notes": "Written by Marc Arthur Chery; stars Michelle A. Banks and John Earl Jelks.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/9m/i2/o7/ku/header-1200-1200-675-675-crop-000000.jpg?v=5d944963dc",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "bamako-2006",
     "title": "Bamako",
     "year": 2006,
     "director": "Abderrahmane Sissako",
-    "country": ["Mali", "France"],
+    "country": [
+      "Mali",
+      "France"
+    ],
     "type": "feature",
     "genre": "docudrama",
     "era": "festival-era",
@@ -657,14 +798,21 @@
       "https://africanfilmny.org/films/bamako-2/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Won Best French-Language Film at the 2007 Lumiere Awards and the Audience Award at Paris Cinema 2006."
+    "notes": "Won Best French-Language Film at the 2007 Lumiere Awards and the Audience Award at Paris Cinema 2006.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/2t/xy/ti/d1/bamako-1200-1200-675-675-crop-000000.jpg?v=a372e68c82",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "ezra-2007",
     "title": "Ezra",
     "year": 2007,
     "director": "Newton Aduaka",
-    "country": ["Nigeria", "France", "Austria", "United Kingdom"],
+    "country": [
+      "Nigeria",
+      "France",
+      "Austria",
+      "United Kingdom"
+    ],
     "type": "feature",
     "genre": "drama, war",
     "era": "festival-era",
@@ -679,14 +827,20 @@
       "https://en.wikipedia.org/wiki/Newton_Aduaka"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Also selected for International Critics' Week at Cannes 2007."
+    "notes": "Also selected for International Critics' Week at Cannes 2007.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/3/7/9/3/6/37936-ezra-0-230-0-345-crop.jpg?v=885ba73df1",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "drum-2004",
     "title": "Drum",
     "year": 2004,
     "director": "Zola Maseko",
-    "country": ["South Africa", "Germany", "United Kingdom"],
+    "country": [
+      "South Africa",
+      "Germany",
+      "United Kingdom"
+    ],
     "type": "feature",
     "genre": "drama, biography",
     "era": "festival-era",
@@ -701,14 +855,18 @@
       "https://variety.com/2004/film/markets-festivals/drum-2-1200529984/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Lead roles played by American actors Taye Diggs and Gabriel Mann, with a mostly South African supporting cast."
+    "notes": "Lead roles played by American actors Taye Diggs and Gabriel Mann, with a mostly South African supporting cast.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/5/9/5/4/5954-drum-0-230-0-345-crop.jpg?v=8f1226a001",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "pumzi-2009",
     "title": "Pumzi",
     "year": 2009,
     "director": "Wanuri Kahiu",
-    "country": ["Kenya"],
+    "country": [
+      "Kenya"
+    ],
     "type": "short",
     "genre": "science fiction",
     "era": "festival-era",
@@ -723,14 +881,20 @@
       "https://en.wikipedia.org/wiki/Wanuri_Kahiu"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Partially funded by Focus Features, the Goethe-Institut, and Kenya's Changa Moto Fund. Pioneer priority: second Wanuri Kahiu entry alongside Rafiki (2018). Important: the Cannes Independent Film Festival is a separate, unaffiliated event from the Festival de Cannes; do not shorten this award to \"won at Cannes\" in any derived copy, as that would misleadingly imply the main festival."
+    "notes": "Partially funded by Focus Features, the Goethe-Institut, and Kenya's Changa Moto Fund. Pioneer priority: second Wanuri Kahiu entry alongside Rafiki (2018). Important: the Cannes Independent Film Festival is a separate, unaffiliated event from the Festival de Cannes; do not shorten this award to \"won at Cannes\" in any derived copy, as that would misleadingly imply the main festival.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/2/0/0/6/2/20062-pumzi-0-230-0-345-crop.jpg?v=4bcfe8226d",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "atlantics-2019",
     "title": "Atlantics",
     "year": 2019,
     "director": "Mati Diop",
-    "country": ["Senegal", "France", "Belgium"],
+    "country": [
+      "Senegal",
+      "France",
+      "Belgium"
+    ],
     "type": "feature",
     "genre": "drama, romance, fantasy",
     "era": "new-voices",
@@ -745,14 +909,21 @@
       "https://www.okayafrica.com/the-mati-diop-cannes-win-that-amplified-african-cinemas-rich-legacy/254946"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Later acquired and distributed by Netflix. Pioneer priority: second Mati Diop entry alongside Atlantiques (2009)."
+    "notes": "Later acquired and distributed by Netflix. Pioneer priority: second Mati Diop entry alongside Atlantiques (2009).",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/2l/dr/f4/sx/atlantics-1200-1200-675-675-crop-000000.jpg?v=41c4b49dca",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "i-am-not-a-witch-2017",
     "title": "I Am Not a Witch",
     "year": 2017,
     "director": "Rungano Nyoni",
-    "country": ["Zambia", "United Kingdom", "France", "Germany"],
+    "country": [
+      "Zambia",
+      "United Kingdom",
+      "France",
+      "Germany"
+    ],
     "type": "feature",
     "genre": "comedy, drama",
     "era": "new-voices",
@@ -767,14 +938,22 @@
       "https://www.moma.org/calendar/events/8036"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Zambian-born, Welsh-raised director. Pioneer priority: second Rungano Nyoni entry alongside On Becoming a Guinea Fowl (2024)."
+    "notes": "Zambian-born, Welsh-raised director. Pioneer priority: second Rungano Nyoni entry alongside On Becoming a Guinea Fowl (2024).",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/e5/g1/4m/ix/i-am-not-witch-1200-1200-675-675-crop-000000.jpg?v=0dcde5b58a",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "felicite-2017",
     "title": "Felicite",
     "year": 2017,
     "director": "Alain Gomis",
-    "country": ["Senegal", "France", "Belgium", "Germany", "Lebanon"],
+    "country": [
+      "Senegal",
+      "France",
+      "Belgium",
+      "Germany",
+      "Lebanon"
+    ],
     "type": "feature",
     "genre": "drama, music",
     "era": "new-voices",
@@ -789,14 +968,20 @@
       "https://cineuropa.org/en/newsdetail/323057/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Five-country co-production: Senegal, France, Belgium, Germany, Lebanon."
+    "notes": "Five-country co-production: Senegal, France, Belgium, Germany, Lebanon.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/12/qs/i8/7x/felicite-1200-1200-675-675-crop-000000.jpg?v=56bbde3054",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "timbuktu-2014",
     "title": "Timbuktu",
     "year": 2014,
     "director": "Abderrahmane Sissako",
-    "country": ["Mauritania", "Mali", "France"],
+    "country": [
+      "Mauritania",
+      "Mali",
+      "France"
+    ],
     "type": "feature",
     "genre": "drama, war",
     "era": "new-voices",
@@ -811,14 +996,20 @@
       "https://www.kdlg.org/2015-02-09/filmmaker-takes-a-stand-against-extremism-in-oscar-nominated-timbuktu"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Sissako is of mixed Mauritanian and Malian heritage."
+    "notes": "Sissako is of mixed Mauritanian and Malian heritage.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/d1/xu/06/kc/timbuktu-2014-1200-1200-675-675-crop-000000.jpg?v=abb105143d",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "dahomey-2024",
     "title": "Dahomey",
     "year": 2024,
     "director": "Mati Diop",
-    "country": ["Senegal", "France", "Benin"],
+    "country": [
+      "Senegal",
+      "France",
+      "Benin"
+    ],
     "type": "documentary",
     "genre": "documentary",
     "era": "present",
@@ -833,14 +1024,20 @@
       "https://www.berlinale.de/en/2024/programme/202414781.html"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Objects had been looted by French colonial forces in 1892 and were returned to Benin in 2021. Pioneer priority: third Mati Diop entry alongside Atlantiques (2009) and Atlantics (2019)."
+    "notes": "Objects had been looted by French colonial forces in 1892 and were returned to Benin in 2021. Pioneer priority: third Mati Diop entry alongside Atlantiques (2009) and Atlantics (2019).",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/06/hh/ia/2d/daomey-1200-1200-675-675-crop-000000.jpg?v=23bcf9306d",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "banel-and-adama-2023",
     "title": "Banel & Adama",
     "year": 2023,
     "director": "Ramata-Toulaye Sy",
-    "country": ["France", "Senegal", "Mali"],
+    "country": [
+      "France",
+      "Senegal",
+      "Mali"
+    ],
     "type": "feature",
     "genre": "drama, romance",
     "era": "present",
@@ -855,14 +1052,21 @@
       "https://variety.com/2023/film/global/cannes-ramata-toulaye-sy-banel-and-adama-1235611091/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Senegal's official submission for Best International Feature Film at the 96th Academy Awards."
+    "notes": "Senegal's official submission for Best International Feature Film at the 96th Academy Awards.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/44/ln/ge/st/banel-1200-1200-675-675-crop-000000.jpg?v=473b61b435",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "sira-2023",
     "title": "Sira",
     "year": 2023,
     "director": "Apolline Traore",
-    "country": ["Burkina Faso", "France", "Germany", "Senegal"],
+    "country": [
+      "Burkina Faso",
+      "France",
+      "Germany",
+      "Senegal"
+    ],
     "type": "feature",
     "genre": "adventure, drama, thriller",
     "era": "present",
@@ -877,14 +1081,21 @@
       "https://today.emerson.edu/2024/02/27/traores-sira-shows-brutality-beauty-of-life-in-burkina-faso/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Dialogue in French and Fula; four-country co-production."
+    "notes": "Dialogue in French and Fula; four-country co-production.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/ui/4h/qb/i5/cWe8ShNTh6oaDb8olS0uuiyXMmJ-1200-1200-675-675-crop-000000.jpg?v=698914a53b",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "lingui-2021",
     "title": "Lingui, The Sacred Bonds",
     "year": 2021,
     "director": "Mahamat-Saleh Haroun",
-    "country": ["Chad", "France", "Germany", "Belgium"],
+    "country": [
+      "Chad",
+      "France",
+      "Germany",
+      "Belgium"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "present",
@@ -899,14 +1110,18 @@
       "https://www.okayafrica.com/lingui-the-sacred-bonds-interview/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Haroun's third feature to premiere in Cannes main competition."
+    "notes": "Haroun's third feature to premiere in Cannes main competition.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/ng/u9/ge/t4/lingui-1200-1200-675-675-crop-000000.jpg?v=5a5fc2a517",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "touki-bouki-1973",
     "title": "Touki Bouki",
     "year": 1973,
     "director": "Djibril Diop Mambety",
-    "country": ["Senegal"],
+    "country": [
+      "Senegal"
+    ],
     "type": "feature",
     "genre": "drama, fantasy",
     "era": "manifesto",
@@ -921,14 +1136,18 @@
       "https://www.criterion.com/films/28412-touki-bouki"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 91 minutes; influenced by the French New Wave per BFI and Criterion."
+    "notes": "Runtime 91 minutes; influenced by the French New Wave per BFI and Criterion.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/wj/pw/p3/d7/touki-1200-1200-675-675-crop-000000.jpg?v=62be48939c",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "living-in-bondage-1992",
     "title": "Living in Bondage",
     "year": 1992,
     "director": "Chris Obi Rapu",
-    "country": ["Nigeria"],
+    "country": [
+      "Nigeria"
+    ],
     "type": "feature",
     "genre": "drama, thriller",
     "era": "video-wave",
@@ -943,14 +1162,18 @@
       "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315097534-19/nollywood-classic-living-bondage-kenneth-nnebue-1992-1993-onookome-okome"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Credited direction is disputed in places; Wikipedia and most academic sources credit Chris Obi Rapu as director with Nnebue and Okechukwu Ogunjiofor as writers/producers. Year is sometimes listed as 1992, sometimes 1992/1993 for the two-part release."
+    "notes": "Credited direction is disputed in places; Wikipedia and most academic sources credit Chris Obi Rapu as director with Nnebue and Okechukwu Ogunjiofor as writers/producers. Year is sometimes listed as 1992, sometimes 1992/1993 for the two-part release.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/3/0/1/1/0/1/301101-living-in-bondage-0-230-0-345-crop.jpg?v=ff7b55f5bb",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "saworoide-1999",
     "title": "Saworoide",
     "year": 1999,
     "director": "Tunde Kelani",
-    "country": ["Nigeria"],
+    "country": [
+      "Nigeria"
+    ],
     "type": "feature",
     "genre": "drama, political",
     "era": "video-wave",
@@ -965,14 +1188,19 @@
       "https://brooklynrail.org/2025/03/film/tunde-kelani-saworoide/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Written by Akinwunmi Isola; runtime 105 minutes."
+    "notes": "Written by Akinwunmi Isola; runtime 105 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/4/0/6/3/1/140631-saworoide-0-230-0-345-crop.jpg?v=3e84b7a70d",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "sacred-places-2009",
     "title": "Sacred Places (Lieux saints)",
     "year": 2009,
     "director": "Jean-Marie Teno",
-    "country": ["Cameroon", "France"],
+    "country": [
+      "Cameroon",
+      "France"
+    ],
     "type": "documentary",
     "genre": "documentary",
     "era": "festival-era",
@@ -994,7 +1222,9 @@
     "title": "Nanny",
     "year": 2022,
     "director": "Nikyatu Jusu",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "feature",
     "genre": "horror, drama",
     "era": "present",
@@ -1009,14 +1239,19 @@
       "https://www.hollywoodreporter.com/movies/movie-news/sundance-film-festival-winners-2022-nanny-exiles-1235083659/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Jusu is Sierra Leonean-American; the film's protagonist is Senegalese. Diaspora entry rather than continental African production."
+    "notes": "Jusu is Sierra Leonean-American; the film's protagonist is Senegalese. Diaspora entry rather than continental African production.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/00/mv/6j/y0/NNNY_2022_FG_01451519_Still912R-1200-1200-675-675-crop-000000.jpg?v=ffef6d25da",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "bataille-sur-le-grand-fleuve-1951",
     "title": "Bataille sur le grand fleuve",
     "year": 1952,
     "director": "Jean Rouch, Roger Rosfelder",
-    "country": ["France", "Niger"],
+    "country": [
+      "France",
+      "Niger"
+    ],
     "type": "short",
     "genre": "ethnographic documentary",
     "era": "pre-history",
@@ -1038,7 +1273,9 @@
     "title": "Zouzou",
     "year": 1934,
     "director": "Marc Allegret",
-    "country": ["France"],
+    "country": [
+      "France"
+    ],
     "type": "feature",
     "genre": "musical, romance",
     "era": "pre-history",
@@ -1053,14 +1290,18 @@
       "https://zelieasava.com/2020/10/15/josephine-bakers-french-films/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Non-African-directed French production, included per methodology as clearly labeled pre-history era work; scholars discuss it as an early instance of a major studio role for a Black woman, produced within a colonial-era French context."
+    "notes": "Non-African-directed French production, included per methodology as clearly labeled pre-history era work; scholars discuss it as an early instance of a major studio role for a Black woman, produced within a colonial-era French context.",
+    "poster_image": "https://a.ltrbxd.com/resized/alternative-backdrop/2/1/5/5/0/tmdb/16jYyKzW1WUmxZ6D1DFgbdRlOH3-1200-1200-675-675-crop-000000.jpg?v=de0eb20912",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "princess-tam-tam-1935",
     "title": "Princess Tam Tam",
     "year": 1935,
     "director": "Edmond T. Greville",
-    "country": ["France"],
+    "country": [
+      "France"
+    ],
     "type": "feature",
     "genre": "comedy, romance",
     "era": "pre-history",
@@ -1075,14 +1316,18 @@
       "https://www.allmovie.com/movie/princesse-tam-tam-am194969"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Non-African-directed French production shot partly in Tunisia, included per methodology as clearly labeled pre-history era work."
+    "notes": "Non-African-directed French production shot partly in Tunisia, included per methodology as clearly labeled pre-history era work.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/7/7/5/0/4/77504-princess-tam-tam-0-230-0-345-crop.jpg?v=e991b13e4a",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "stanley-and-livingstone-1939",
     "title": "Stanley and Livingstone",
     "year": 1939,
     "director": "Henry King, Otto Brower",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "feature",
     "genre": "adventure, drama, history",
     "era": "pre-history",
@@ -1097,14 +1342,18 @@
       "https://www.imdb.com/title/tt0031973/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Non-African-directed Hollywood production set in pre-colonial East and Central Africa, included per methodology as clearly labeled pre-history era work."
+    "notes": "Non-African-directed Hollywood production set in pre-colonial East and Central Africa, included per methodology as clearly labeled pre-history era work.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/on/yv/vu/6p/cSbxWKIWRssECX1XbUAzcvwnd0x-1200-1200-675-675-crop-000000.jpg?v=63c81dfe8c",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "the-four-feathers-1939",
     "title": "The Four Feathers",
     "year": 1939,
     "director": "Zoltan Korda",
-    "country": ["United Kingdom"],
+    "country": [
+      "United Kingdom"
+    ],
     "type": "feature",
     "genre": "adventure, war",
     "era": "pre-history",
@@ -1119,14 +1368,19 @@
       "https://www.tcm.com/articles/111456/the-four-feathers-1939"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Non-African-directed British colonial-era production set during the Mahdist War in Sudan, included per methodology as clearly labeled pre-history era work."
+    "notes": "Non-African-directed British colonial-era production set during the Mahdist War in Sudan, included per methodology as clearly labeled pre-history era work.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/3w/aa/3z/5v/four%20feathers-1200-1200-675-675-crop-000000.jpg?v=811052cafd",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "afrique-sur-seine-1955",
     "title": "Afrique sur Seine",
     "year": 1955,
     "director": "Mamadou Sarr, Paulin Soumanou Vieyra",
-    "country": ["Senegal", "France"],
+    "country": [
+      "Senegal",
+      "France"
+    ],
     "type": "short",
     "genre": "documentary",
     "era": "liberation",
@@ -1141,14 +1395,18 @@
       "https://en.wikipedia.org/wiki/Paulin_Soumanou_Vieyra"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Regarded as one of the first films directed by Black Africans, made in Paris rather than Senegal because of colonial-era filming restrictions; era placed at liberation per its 1955 date despite predating most African-shot liberation-era cinema."
+    "notes": "Regarded as one of the first films directed by Black Africans, made in Paris rather than Senegal because of colonial-era filming restrictions; era placed at liberation per its 1955 date despite predating most African-shot liberation-era cinema.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/9/5/9/9/9/195999-africa-on-the-seine-0-230-0-345-crop.jpg?v=393ea32e68",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "aoure-1962",
     "title": "Aoure",
     "year": 1962,
     "director": "Moustapha Alassane",
-    "country": ["Niger"],
+    "country": [
+      "Niger"
+    ],
     "type": "short",
     "genre": "docufiction",
     "era": "liberation",
@@ -1170,7 +1428,10 @@
     "title": "Moi, un Noir",
     "year": 1958,
     "director": "Jean Rouch",
-    "country": ["France", "Ivory Coast"],
+    "country": [
+      "France",
+      "Ivory Coast"
+    ],
     "type": "feature",
     "genre": "ethnofiction",
     "era": "liberation",
@@ -1185,14 +1446,18 @@
       "https://en.wikipedia.org/wiki/Oumarou_Ganda"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Directed by a French ethnographer rather than an African filmmaker, but included here for its foundational, contested authorship role in African cinema history and its direct link to Oumarou Ganda's own directing career; some scholars debate how much authorship should be credited to Ganda's improvised narration."
+    "notes": "Directed by a French ethnographer rather than an African filmmaker, but included here for its foundational, contested authorship role in African cinema history and its direct link to Oumarou Ganda's own directing career; some scholars debate how much authorship should be credited to Ganda's improvised narration.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/ru/fv/e5/b1/ryWxl0onuAgXQHNF7f3ha7NiDws-1200-1200-675-675-crop-000000.jpg?v=6bd4316613",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "cabascabo-1969",
     "title": "Cabascabo",
     "year": 1969,
     "director": "Oumarou Ganda",
-    "country": ["Niger"],
+    "country": [
+      "Niger"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "liberation",
@@ -1207,14 +1472,18 @@
       "https://en.wikipedia.org/wiki/Oumarou_Ganda"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Won a Diploma at the 6th Moscow International Film Festival; runtime 45 minutes."
+    "notes": "Won a Diploma at the 6th Moscow International Film Festival; runtime 45 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/2/4/2/7/7/3/242773-cabascabo-0-230-0-345-crop.jpg?v=07bff862b4",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "niaye-1964",
     "title": "Niaye",
     "year": 1964,
     "director": "Ousmane Sembene",
-    "country": ["Senegal"],
+    "country": [
+      "Senegal"
+    ],
     "type": "short",
     "genre": "drama",
     "era": "liberation",
@@ -1229,14 +1498,18 @@
       "https://harvardfilmarchive.org/programs/ousmane-sembene-cinematic-revolutionary-2"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime sources vary between approximately 29 and 35 minutes."
+    "notes": "Runtime sources vary between approximately 29 and 35 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/2/1/0/8/3/3/210833-niaye-0-230-0-345-crop.jpg?v=3dfe034088",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "baara-1978",
     "title": "Baara",
     "year": 1978,
     "director": "Souleymane Cisse",
-    "country": ["Mali"],
+    "country": [
+      "Mali"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "manifesto",
@@ -1251,14 +1524,18 @@
       "https://supamodu.com/2019/film/souleymane-cisse-baara-1978/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 93 minutes. Corrected 2026-07-29: Cannes's own materials credit Den Muso (1975), also by Cisse, as Mali's first feature-length fiction film, with Baara following it; removed the \"first feature film produced in Mali\" claim from the description."
+    "notes": "Runtime 93 minutes. Corrected 2026-07-29: Cannes's own materials credit Den Muso (1975), also by Cisse, as Mali's first feature-length fiction film, with Baara following it; removed the \"first feature film produced in Mali\" claim from the description.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/9/4/120694-work-0-230-0-345-crop.jpg?v=a64e0adf5d",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "fadjal-1979",
     "title": "Fad'jal",
     "year": 1979,
     "director": "Safi Faye",
-    "country": ["Senegal"],
+    "country": [
+      "Senegal"
+    ],
     "type": "documentary",
     "genre": "documentary",
     "era": "manifesto",
@@ -1273,14 +1550,18 @@
       "https://raifilm.org.uk/films/fadjal-safi-faye-special-focus/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 112 minutes. Corrected 2026-07-29: removed the claim that this was the first African feature selected for Cannes; it was selected for Un Certain Regard 1979, but African cinema (e.g. Soleil O, 1970) had already reached Cannes earlier."
+    "notes": "Runtime 112 minutes. Corrected 2026-07-29: removed the claim that this was the first African feature selected for Cannes; it was selected for Un Certain Regard 1979, but African cinema (e.g. Soleil O, 1970) had already reached Cannes earlier.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/9/5/0/0/0/195000-fad-jal-0-230-0-345-crop.jpg?v=f722fb38da",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "fvva-1972",
     "title": "FVVA: Femme, Villa, Voiture, Argent",
     "year": 1972,
     "director": "Moustapha Alassane",
-    "country": ["Niger"],
+    "country": [
+      "Niger"
+    ],
     "type": "feature",
     "genre": "drama, satire",
     "era": "manifesto",
@@ -1302,7 +1583,10 @@
     "title": "Des fusils pour Banta (Guns for Banta)",
     "year": 1970,
     "director": "Sarah Maldoror",
-    "country": ["Algeria", "Guinea-Bissau"],
+    "country": [
+      "Algeria",
+      "Guinea-Bissau"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "manifesto",
@@ -1317,14 +1601,18 @@
       "https://indielisboa.com/en/film/foreword-to-guns-for-banta/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "The film itself is lost and was never publicly released in its intended form; verification here rests on secondary accounts from film historians and estate-adjacent sources rather than the primary work, hence probable rather than verified status. Country listed as Algeria (funding, and where Maldoror was expelled from) and Guinea-Bissau (shooting location and subject)."
+    "notes": "The film itself is lost and was never publicly released in its intended form; verification here rests on secondary accounts from film historians and estate-adjacent sources rather than the primary work, hence probable rather than verified status. Country listed as Algeria (funding, and where Maldoror was expelled from) and Guinea-Bissau (shooting location and subject).",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/9/6/2/3/2/196232-guns-for-banta-0-230-0-345-crop.jpg?v=348e3007cf",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "finye-1982",
     "title": "Finye (The Wind)",
     "year": 1982,
     "director": "Souleymane Cisse",
-    "country": ["Mali"],
+    "country": [
+      "Mali"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "flourishing",
@@ -1339,14 +1627,18 @@
       "https://africanfilmny.org/films/the-wind-finye/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Screened in Un Certain Regard at Cannes 1982; runtime 100 minutes."
+    "notes": "Screened in Un Certain Regard at Cannes 1982; runtime 100 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/nb/33/9n/av/xO4HoWP6hDtkXc6XfG2Twp28xva-1200-1200-675-675-crop-000000.jpg?v=b01195ce7b",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "wend-kuuni-1982",
     "title": "Wend Kuuni",
     "year": 1982,
     "director": "Gaston Kabore",
-    "country": ["Burkina Faso"],
+    "country": [
+      "Burkina Faso"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "flourishing",
@@ -1361,14 +1653,18 @@
       "https://harvardfilmarchive.org/programs/directors-in-focus-gaston-kabore"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 75 minutes. Year is disputed across sources: 1982 is commonly used as the production year, while 1983 is the more common release/festival-circulation year; recorded here as 1982 with this note per the archive's dispute-preservation rule."
+    "notes": "Runtime 75 minutes. Year is disputed across sources: 1982 is commonly used as the production year, while 1983 is the more common release/festival-circulation year; recorded here as 1982 with this note per the archive's dispute-preservation rule.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/l2/jw/k6/gf/qZ6ZIjUWRvqik4QciXT0S9epEi8-1200-1200-675-675-crop-000000.jpg?v=8f1c42356c",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "love-brewed-in-the-african-pot-1980",
     "title": "Love Brewed in the African Pot",
     "year": 1980,
     "director": "Kwaw Ansah",
-    "country": ["Ghana"],
+    "country": [
+      "Ghana"
+    ],
     "type": "feature",
     "genre": "drama, romance",
     "era": "flourishing",
@@ -1383,14 +1679,18 @@
       "https://dandano.org/2018/09/25/a-life-dedicated-to-african-filmmaking-30-years-after-kwaw-ansahs-heritage-africa/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 125 minutes; also won a UNESCO Film Award and a Special Silver Peacock Award."
+    "notes": "Runtime 125 minutes; also won a UNESCO Film Award and a Special Silver Peacock Award.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/9/4/7/4/4/194744-love-brewed-in-the-african-pot-0-230-0-345-crop.jpg?v=9c0c283da2",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "ashes-and-embers-1982",
     "title": "Ashes and Embers",
     "year": 1982,
     "director": "Haile Gerima",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "flourishing",
@@ -1405,14 +1705,19 @@
       "https://blackfilmarchive.com/Ashes-and-Embers"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Ethiopian-American director, US production and setting; runtime approximately 120 minutes."
+    "notes": "Ethiopian-American director, US production and setting; runtime approximately 120 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/2/2/9/8/4/9/229849-ashes-and-embers-0-230-0-345-crop.jpg?v=60e40c0aaf",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "quartier-mozart-1992",
     "title": "Quartier Mozart",
     "year": 1992,
     "director": "Jean-Pierre Bekolo",
-    "country": ["Cameroon", "France"],
+    "country": [
+      "Cameroon",
+      "France"
+    ],
     "type": "feature",
     "genre": "comedy, drama, fantasy",
     "era": "video-wave",
@@ -1427,14 +1732,21 @@
       "https://grunes.wordpress.com/2007/11/23/quartier-mozart-jean-pierre-bekolo-1992/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 80 minutes; Cameroon/France co-production. Corrected 2026-07-29: original description vaguely claimed \"prizes at Cannes, Locarno, and Montreal\" without naming them; Torino Film Festival archive material confirms a Prix Afrique en Creation at Cannes, but the specific Locarno and Montreal award names have not been independently re-confirmed in this pass, hence probable status pending a named-award citation for those two."
+    "notes": "Runtime 80 minutes; Cameroon/France co-production. Corrected 2026-07-29: original description vaguely claimed \"prizes at Cannes, Locarno, and Montreal\" without naming them; Torino Film Festival archive material confirms a Prix Afrique en Creation at Cannes, but the specific Locarno and Montreal award names have not been independently re-confirmed in this pass, hence probable status pending a named-award citation for those two.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/4/1/4/4/4/141444-quartier-mozart-0-230-0-345-crop.jpg?v=abc0ca3ff8",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "po-di-sangui-1996",
     "title": "Po di Sangui (Tree of Blood)",
     "year": 1996,
     "director": "Flora Gomes",
-    "country": ["Guinea-Bissau", "France", "Tunisia", "Portugal"],
+    "country": [
+      "Guinea-Bissau",
+      "France",
+      "Tunisia",
+      "Portugal"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "video-wave",
@@ -1449,14 +1761,19 @@
       "https://africancinemaclassics.com/2024/09/08/po-di-sangui-tree-of-blood/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Four-country co-production; runtime 95 minutes."
+    "notes": "Four-country co-production; runtime 95 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/4/2/4/6/4/142464-tree-of-blood-0-230-0-345-crop.jpg?v=9c0539126b",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "keita-1995",
     "title": "Keita! L'Heritage du griot",
     "year": 1995,
     "director": "Dani Kouyate",
-    "country": ["Burkina Faso", "France"],
+    "country": [
+      "Burkina Faso",
+      "France"
+    ],
     "type": "feature",
     "genre": "drama, family, fantasy",
     "era": "video-wave",
@@ -1471,14 +1788,20 @@
       "https://mediacommons.org/imr/2008/04/10/generational-clashes-in-the-retold-epic-story-of-keita-the-heritage-of-the-griot-1995-by-dani-kouyate"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Shot in Ouagadougou, Sindou, and Ouahabou."
+    "notes": "Shot in Ouagadougou, Sindou, and Ouahabou.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/9/7/6/4/3/97643-keita-the-voice-of-the-griot-0-230-0-345-crop.jpg?v=d0cd667264",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "o-heroi-2004",
     "title": "O Heroi (The Hero)",
     "year": 2004,
     "director": "Zeze Gamboa",
-    "country": ["Angola", "Portugal", "France"],
+    "country": [
+      "Angola",
+      "Portugal",
+      "France"
+    ],
     "type": "feature",
     "genre": "drama, war",
     "era": "festival-era",
@@ -1493,14 +1816,19 @@
       "https://www.buala.org/en/afroscreen/rebuilding-the-angolan-body-politic-global-and-local-projections-of-identity-and-protest-"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Also won Best Feature Film at the 2005 Pan African Film Festival in Los Angeles."
+    "notes": "Also won Best Feature Film at the 2005 Pan African Film Festival in Los Angeles.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/5/4/5/4/0/154540-the-hero-0-230-0-345-crop.jpg?v=2e3502719b",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "waiting-for-happiness-2002",
     "title": "Waiting for Happiness (Heremakono)",
     "year": 2002,
     "director": "Abderrahmane Sissako",
-    "country": ["Mauritania", "France"],
+    "country": [
+      "Mauritania",
+      "France"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "festival-era",
@@ -1515,14 +1843,18 @@
       "https://variety.com/2002/film/markets-festivals/waiting-for-happiness-1200549528/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Also won the Grand Prize at FESPACO 2003."
+    "notes": "Also won the Grand Prize at FESPACO 2003.",
+    "poster_image": "https://a.ltrbxd.com/resized/alternative-backdrop/1/8/1/6/0/tmdb/fgkt6KVenMAiKtEMNV67KZPueyq-1200-1200-675-675-crop-000000.jpg?v=13ce4f5743",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "les-saignantes-2005",
     "title": "Les Saignantes (The Bloodettes)",
     "year": 2005,
     "director": "Jean-Pierre Bekolo",
-    "country": ["Cameroon"],
+    "country": [
+      "Cameroon"
+    ],
     "type": "feature",
     "genre": "science fiction, thriller",
     "era": "festival-era",
@@ -1537,14 +1869,19 @@
       "https://en.wikipedia.org/wiki/Jean-Pierre_Bekolo"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Also released internationally as The Bloodettes."
+    "notes": "Also released internationally as The Bloodettes.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/fe/at/a8/te/fKeeSrFswJHfmhTFDnWVHEmMAsa-1200-1200-675-675-crop-000000.jpg?v=dda4dff264",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "lafrance-2001",
     "title": "L'Afrance",
     "year": 2001,
     "director": "Alain Gomis",
-    "country": ["France", "Senegal"],
+    "country": [
+      "France",
+      "Senegal"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "festival-era",
@@ -1559,14 +1896,19 @@
       "https://en.wikipedia.org/wiki/Alain_Gomis"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Gomis was born in France to Senegalese-Guinea-Bissauan heritage; this was his first feature film. Corrected 2026-07-29: removed the specific \"Leopard for First Film\" award-category claim pending independent confirmation against Locarno's official award category names; kept the Grand Ecumenical Prize, which was more consistently corroborated."
+    "notes": "Gomis was born in France to Senegalese-Guinea-Bissauan heritage; this was his first feature film. Corrected 2026-07-29: removed the specific \"Leopard for First Film\" award-category claim pending independent confirmation against Locarno's official award category names; kept the Grand Ecumenical Prize, which was more consistently corroborated.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/5/7/0/1/15701-lafrance-0-230-0-345-crop.jpg?v=0b5aa50a9f",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "tey-2012",
     "title": "Tey (Today)",
     "year": 2012,
     "director": "Alain Gomis",
-    "country": ["Senegal", "France"],
+    "country": [
+      "Senegal",
+      "France"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "new-voices",
@@ -1581,14 +1923,18 @@
       "https://africanfilmny.org/films/tey/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Also released as Aujourd'hui; named one of Film Comment's Best Unreleased Films of 2012."
+    "notes": "Also released as Aujourd'hui; named one of Film Comment's Best Unreleased Films of 2012.",
+    "poster_image": "https://a.ltrbxd.com/resized/alternative-backdrop/8/8/5/1/1/tmdb/7tSgwvoxx6vQAww2zcturN7PcBv-1200-1200-675-675-crop-000000.jpg?v=511aab386a",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "vaya-2016",
     "title": "Vaya",
     "year": 2016,
     "director": "Akin Omotoso",
-    "country": ["South Africa"],
+    "country": [
+      "South Africa"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "new-voices",
@@ -1603,14 +1949,19 @@
       "https://www.voanews.com/a/african-film-vaya/4634853.html"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 110 minutes."
+    "notes": "Runtime 110 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/3/4/6/2/5/6/346256-vaya-0-230-0-345-crop.jpg?v=0c449db0bc",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "kwaku-ananse-2013",
     "title": "Kwaku Ananse",
     "year": 2013,
     "director": "Akosua Adoma Owusu",
-    "country": ["Ghana", "United States"],
+    "country": [
+      "Ghana",
+      "United States"
+    ],
     "type": "short",
     "genre": "drama, fantasy",
     "era": "new-voices",
@@ -1625,14 +1976,19 @@
       "https://en.wikipedia.org/wiki/Akosua_Adoma_Owusu"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 25 minutes; premiered at the Berlin International Film Festival."
+    "notes": "Runtime 25 minutes; premiered at the Berlin International Film Festival.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/5/6/2/7/3/156273-kwaku-ananse-0-230-0-345-crop.jpg?v=ef86576d62",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "black-to-techno-2019",
     "title": "Black to Techno",
     "year": 2019,
     "director": "Jenn Nkiru",
-    "country": ["United Kingdom", "United States"],
+    "country": [
+      "United Kingdom",
+      "United States"
+    ],
     "type": "short",
     "genre": "documentary",
     "era": "new-voices",
@@ -1647,14 +2003,22 @@
       "https://www.youngdirectoraward.com/winners-2019/black-to-techno-315/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Nkiru is British-Nigerian; the film's subject is the African American origins of Detroit techno rather than continental African cinema, included as a diaspora entry. Downgraded to probable 2026-07-29: the Canal+ Award at Clermont-Ferrand was not independently re-confirmed against an official Clermont-Ferrand results page in this pass."
+    "notes": "Nkiru is British-Nigerian; the film's subject is the African American origins of Detroit techno rather than continental African cinema, included as a diaspora entry. Downgraded to probable 2026-07-29: the Canal+ Award at Clermont-Ferrand was not independently re-confirmed against an official Clermont-Ferrand results page in this pass.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/5/4/6/1/5/4/546154-black-to-techno-0-230-0-345-crop.jpg?v=2e5bf3dd0c",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "this-is-not-a-burial-2019",
     "title": "This Is Not a Burial, It's a Resurrection",
     "year": 2019,
     "director": "Lemohang Jeremiah Mosese",
-    "country": ["Lesotho", "South Africa", "Italy", "Germany", "Qatar"],
+    "country": [
+      "Lesotho",
+      "South Africa",
+      "Italy",
+      "Germany",
+      "Qatar"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "new-voices",
@@ -1669,14 +2033,19 @@
       "https://www.criterionchannel.com/this-is-not-a-burial-it-s-a-resurrection"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Performed in Sotho; runtime 120 minutes."
+    "notes": "Performed in Sotho; runtime 120 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/br/td/ac/gh/3p1hzWl5utuOZdNghepHmyRXjJE-1200-1200-675-675-crop-000000.jpg?v=e4f54a5b82",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "saint-omer-2022",
     "title": "Saint Omer",
     "year": 2022,
     "director": "Alice Diop",
-    "country": ["France", "Senegal"],
+    "country": [
+      "France",
+      "Senegal"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "present",
@@ -1691,14 +2060,22 @@
       "https://deadline.com/2022/09/saint-omer-super-takes-us-rights-to-alice-diops-venice-prize-winner-1235120673/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Diop's first fiction feature after a career in documentary; co-written with Amrita David and Marie NDiaye."
+    "notes": "Diop's first fiction feature after a career in documentary; co-written with Amrita David and Marie NDiaye.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/2k/ge/26/8i/saint-1200-1200-675-675-crop-000000.jpg?v=c588181363",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "goodbye-julia-2023",
     "title": "Goodbye Julia",
     "year": 2023,
     "director": "Mohamed Kordofani",
-    "country": ["Sudan", "Egypt", "Saudi Arabia", "Germany", "France"],
+    "country": [
+      "Sudan",
+      "Egypt",
+      "Saudi Arabia",
+      "Germany",
+      "France"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "present",
@@ -1713,14 +2090,22 @@
       "https://variety.com/2023/film/global/mohamed-kordofani-goodbye-julia-sudan-cannes-1235606021/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "First Sudanese feature ever presented at Cannes."
+    "notes": "First Sudanese feature ever presented at Cannes.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/e7/l2/2x/ze/GoodbyeJulia-1200-1200-675-675-crop-000000.jpg?v=b8201cccb1",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "omen-2023",
     "title": "Omen (Augure)",
     "year": 2023,
     "director": "Baloji",
-    "country": ["Democratic Republic of the Congo", "Belgium", "Netherlands", "France", "South Africa"],
+    "country": [
+      "Democratic Republic of the Congo",
+      "Belgium",
+      "Netherlands",
+      "France",
+      "South Africa"
+    ],
     "type": "feature",
     "genre": "drama, fantasy",
     "era": "present",
@@ -1735,14 +2120,18 @@
       "https://nataal.com/augure"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Five-country co-production; runtime 90 minutes."
+    "notes": "Five-country co-production; runtime 90 minutes.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/ze/6f/9y/79/Agure2023-1200-1200-675-675-crop-000000.jpg?v=6c5087fa5e",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "le-spectre-de-boko-haram-2023",
     "title": "Le spectre de Boko Haram (The Spectre of Boko Haram)",
     "year": 2023,
     "director": "Cyrielle Raingou",
-    "country": ["Cameroon"],
+    "country": [
+      "Cameroon"
+    ],
     "type": "documentary",
     "genre": "documentary",
     "era": "present",
@@ -1757,14 +2146,18 @@
       "https://iffr.com/en/iffr/2023/films/le-spectre-de-boko-haram"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Raingou's feature directorial debut; world premiere at Rotterdam 2023."
+    "notes": "Raingou's feature directorial debut; world premiere at Rotterdam 2023.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/9/5/9/1/8/0/959180-the-spectre-of-boko-haram-0-230-0-345-crop.jpg?v=f801dc688c",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "trailing-african-wild-animals-1923",
     "title": "Trailing African Wild Animals",
     "year": 1923,
     "director": "Martin E. Johnson, Osa Johnson",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "documentary",
     "genre": "documentary, expedition film",
     "era": "pre-history",
@@ -1786,7 +2179,9 @@
     "title": "Simba: The King of the Beasts",
     "year": 1928,
     "director": "Martin E. Johnson, Osa Johnson",
-    "country": ["United States"],
+    "country": [
+      "United States"
+    ],
     "type": "documentary",
     "genre": "documentary, expedition film",
     "era": "pre-history",
@@ -1801,14 +2196,18 @@
       "https://milestonefilms.com/products/simba"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Non-African-directed American expedition documentary, included per methodology as clearly labeled pre-history era work. Simba is Swahili for lion, taken directly as the title."
+    "notes": "Non-African-directed American expedition documentary, included per methodology as clearly labeled pre-history era work. Simba is Swahili for lion, taken directly as the title.",
+    "poster_image": "https://a.ltrbxd.com/resized/sm/upload/1c/nt/42/2f/dxW1SXd9omuVe4PAsaNOTSrEeEV-1200-1200-675-675-crop-000000.jpg?v=7bdf64d93d",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "men-of-two-worlds-1946",
     "title": "Men of Two Worlds",
     "year": 1946,
     "director": "Thorold Dickinson",
-    "country": ["United Kingdom"],
+    "country": [
+      "United Kingdom"
+    ],
     "type": "feature",
     "genre": "drama",
     "era": "pre-history",
@@ -1823,14 +2222,19 @@
       "https://variety.com/1945/film/reviews/men-of-two-worlds-1200414737/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Non-African-directed British colonial-era production, included per methodology as clearly labeled pre-history era work. Starred Robert Adams, a Guyanese-British actor, in a lead role."
+    "notes": "Non-African-directed British colonial-era production, included per methodology as clearly labeled pre-history era work. Starred Robert Adams, a Guyanese-British actor, in a lead role.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/6/8/9/5/0/168950-men-of-two-worlds-0-230-0-345-crop.jpg?v=d9bf3db25c",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "daybreak-in-udi-1949",
     "title": "Daybreak in Udi",
     "year": 1949,
     "director": "Terry Bishop",
-    "country": ["United Kingdom", "Nigeria"],
+    "country": [
+      "United Kingdom",
+      "Nigeria"
+    ],
     "type": "documentary",
     "genre": "documentary",
     "era": "pre-history",
@@ -1845,14 +2249,18 @@
       "https://discovery.ucl.ac.uk/1443486/1/dech12119.pdf"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Non-African-directed colonial-era production, included per methodology as clearly labeled pre-history era work; directed by British filmmaker Terry Bishop from a screenplay by Montagu Slater, funded by the Central Office of Information at the Colonial Office with a budget of roughly GBP 30,000."
+    "notes": "Non-African-directed colonial-era production, included per methodology as clearly labeled pre-history era work; directed by British filmmaker Terry Bishop from a screenplay by Montagu Slater, funded by the Central Office of Information at the Colonial Office with a budget of roughly GBP 30,000.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/9/1/0/8/0/91080-daybreak-in-udi-0-230-0-345-crop.jpg?v=1b46189dc4",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "allan-quatermain-1919",
     "title": "Allan Quatermain",
     "year": 1919,
     "director": "H. Lisle Lucoque",
-    "country": ["South Africa"],
+    "country": [
+      "South Africa"
+    ],
     "type": "feature",
     "genre": "adventure, silent",
     "era": "pre-history",
@@ -1874,7 +2282,9 @@
     "title": "Nionga",
     "year": 1925,
     "director": "Unknown (Stoll Film Company)",
-    "country": ["United Kingdom"],
+    "country": [
+      "United Kingdom"
+    ],
     "type": "feature",
     "genre": "drama, silent",
     "era": "pre-history",
@@ -1896,7 +2306,9 @@
     "title": "Laila",
     "year": 1927,
     "director": "Disputed: credited variously as Stephan Rosti; Stephan Rosti and Wedad Orfi; or Stephan Rosti, Aziza Amir and Wedad Orfi depending on source",
-    "country": ["Egypt"],
+    "country": [
+      "Egypt"
+    ],
     "type": "feature",
     "genre": "drama, silent",
     "era": "pre-history",
@@ -1912,14 +2324,18 @@
       "https://www.imdb.com/title/tt0258759/fullcredits/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "First Africa-originated (Egyptian) fiction feature in the archive from this decade, distinct from the era's European/Hollywood safari and colonial productions. A rival claimant, Zaynab (1930), is sometimes cited as the first Egyptian feature by other historians; Laila is the more widely cited claimant and predates it. Corrected 2026-07-29 per independent fact-check: removed the 'entirely Egyptian cast' claim (inaccurate per surviving credits) and flagged the disputed directorial credit rather than presenting it as settled."
+    "notes": "First Africa-originated (Egyptian) fiction feature in the archive from this decade, distinct from the era's European/Hollywood safari and colonial productions. A rival claimant, Zaynab (1930), is sometimes cited as the first Egyptian feature by other historians; Laila is the more widely cited claimant and predates it. Corrected 2026-07-29 per independent fact-check: removed the 'entirely Egyptian cast' claim (inaccurate per surviving credits) and flagged the disputed directorial credit rather than presenting it as settled.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/2/5/9/5/4/4/259544-laila-0-230-0-345-crop.jpg?v=a189692403",
+    "poster_image_source": "Letterboxd"
   },
   {
     "id": "sallama-1945",
     "title": "Sallama",
     "year": 1945,
     "director": "Togo Mizrahi",
-    "country": ["Egypt"],
+    "country": [
+      "Egypt"
+    ],
     "type": "feature",
     "genre": "drama, musical, historical",
     "era": "pre-history",
@@ -1940,7 +2356,9 @@
     "title": "North and South of the Niger",
     "year": 1947,
     "director": "John Page",
-    "country": ["United Kingdom"],
+    "country": [
+      "United Kingdom"
+    ],
     "type": "documentary",
     "genre": "documentary",
     "era": "pre-history",
@@ -1962,7 +2380,9 @@
     "title": "Jim Comes to Jo'burg (African Jim)",
     "year": 1949,
     "director": "Donald Swanson",
-    "country": ["South Africa"],
+    "country": [
+      "South Africa"
+    ],
     "type": "short",
     "genre": "drama, musical",
     "era": "pre-history",
@@ -1979,6 +2399,8 @@
       "https://hollisarchives.lib.harvard.edu/catalog/hfa00057"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Produced by white filmmaker Donald Swanson under apartheid-era South Africa's racial studio system, but with a Black cast and aimed at Black audiences; included in pre-history era per chronology. Sometimes credited to Eric/Erica Rutherford as producer. Corrected 2026-07-29 per independent fact-check: reclassified from feature to short (runtime approximately 50-53 minutes per ESAT and BFI/Colonial Film, not feature-length despite frequent 'feature-length' descriptions elsewhere including FOCAL International). Its 'first' status is also contested: ESAT states the commonly repeated claim of being the first locally produced film with a virtually all-Black cast is erroneous, while other sources (Harvard HOLLIS, South African History Online) do call it the first; both framings are noted rather than presenting the claim as settled fact."
+    "notes": "Produced by white filmmaker Donald Swanson under apartheid-era South Africa's racial studio system, but with a Black cast and aimed at Black audiences; included in pre-history era per chronology. Sometimes credited to Eric/Erica Rutherford as producer. Corrected 2026-07-29 per independent fact-check: reclassified from feature to short (runtime approximately 50-53 minutes per ESAT and BFI/Colonial Film, not feature-length despite frequent 'feature-length' descriptions elsewhere including FOCAL International). Its 'first' status is also contested: ESAT states the commonly repeated claim of being the first locally produced film with a virtually all-Black cast is erroneous, while other sources (Harvard HOLLIS, South African History Online) do call it the first; both framings are noted rather than presenting the claim as settled fact.",
+    "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/6/8/0/1/4/168014-african-jim-0-230-0-345-crop.jpg?v=33540601d8",
+    "poster_image_source": "Letterboxd"
   }
 ]
