@@ -1,5 +1,1003 @@
 ---
-layout: home.njk
-title: Home
-permalink: /
+permalink: "/"
 ---
+{% raw %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reels &amp; Records, African Film Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@0;1&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Special+Elite&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #e8dcc0;
+    --paper-dark: #d4c3a0;
+    --ink: #2b1d0e;
+    --ink-soft: #4a3720;
+    --sepia: #8a5a2a;
+    --amber: #c8821f;
+    --rust: #a43920;
+    --vhs-cyan: #3a9a9a;
+    --vhs-magenta: #b84872;
+    --shadow: rgba(43, 29, 14, 0.25);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 18px;
+    line-height: 1.5;
+    overflow-x: hidden;
+    position: relative;
+    min-height: 100vh;
+  }
+
+  /* ========== FILM GRAIN OVERLAY ========== */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 0.12;
+    mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.17 0 0 0 0 0.11 0 0 0 0 0.05 0 0 0 1 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    animation: grain 0.6s steps(3) infinite;
+  }
+
+  @keyframes grain {
+    0%, 100% { transform: translate(0,0); }
+    25% { transform: translate(-2%, 1%); }
+    50% { transform: translate(1%, -2%); }
+    75% { transform: translate(-1%, 2%); }
+  }
+
+  /* ========== VHS SCAN LINES ========== */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9998;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent 0,
+      transparent 2px,
+      rgba(43, 29, 14, 0.03) 2px,
+      rgba(43, 29, 14, 0.03) 3px
+    );
+  }
+
+  /* ========== PAPER TEXTURE ========== */
+  .paper-bg {
+    background-image: 
+      radial-gradient(circle at 20% 30%, rgba(138, 90, 42, 0.08) 0%, transparent 50%),
+      radial-gradient(circle at 80% 70%, rgba(164, 57, 32, 0.06) 0%, transparent 50%),
+      radial-gradient(circle at 40% 90%, rgba(200, 130, 31, 0.05) 0%, transparent 40%);
+  }
+
+  /* ========== TOP BAR ========== */
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--paper);
+    border-bottom: 2px double var(--ink);
+    padding: 0.6rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Special Elite', monospace;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .topbar-left, .topbar-right {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+  }
+
+  .rec-dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: var(--rust);
+    border-radius: 50%;
+    animation: blink 1.2s ease-in-out infinite;
+    margin-right: 0.4rem;
+  }
+
+  @keyframes blink {
+    0%, 60% { opacity: 1; }
+    80%, 100% { opacity: 0.2; }
+  }
+
+  .tracking {
+    color: var(--sepia);
+  }
+
+  /* ========== MASTHEAD ========== */
+  .masthead {
+    padding: 4rem 2rem 2rem;
+    border-bottom: 1px solid var(--ink);
+    position: relative;
+  }
+
+  .masthead-meta {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Special Elite', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--sepia);
+    border-bottom: 1px solid var(--ink);
+    padding-bottom: 0.8rem;
+    margin-bottom: 2rem;
+  }
+
+  .title {
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: clamp(4rem, 14vw, 12rem);
+    font-weight: 400;
+    line-height: 0.85;
+    letter-spacing: -0.02em;
+    text-align: center;
+    margin: 0;
+    position: relative;
+    color: var(--ink);
+    text-shadow: 
+      2px 0 0 rgba(184, 72, 114, 0.15),
+      -2px 0 0 rgba(58, 154, 154, 0.15);
+  }
+
+  .title .ampersand {
+    font-style: italic;
+    color: var(--rust);
+    font-size: 0.7em;
+    vertical-align: 0.1em;
+  }
+
+  .tagline {
+    text-align: center;
+    font-family: 'IM Fell DW Pica', serif;
+    font-style: italic;
+    font-size: clamp(1rem, 2vw, 1.4rem);
+    color: var(--ink-soft);
+    margin-top: 1.5rem;
+    letter-spacing: 0.05em;
+  }
+
+  .tagline-rule {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: 2rem auto 0;
+    max-width: 500px;
+  }
+
+  .tagline-rule::before,
+  .tagline-rule::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--ink);
+  }
+
+  .tagline-rule span {
+    font-family: 'Special Elite', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--sepia);
+  }
+
+  /* ========== ERA TIMELINE ========== */
+  .era-section {
+    padding: 3rem 2rem;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .section-label {
+    font-family: 'Special Elite', monospace;
+    font-size: 0.75rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--sepia);
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .section-label::before {
+    content: '◉';
+    color: var(--rust);
+  }
+
+  .era-scroll {
+    display: flex;
+    gap: 0;
+    overflow-x: auto;
+    padding-bottom: 1rem;
+    scrollbar-width: thin;
+    scrollbar-color: var(--sepia) transparent;
+    position: relative;
+  }
+
+  .era-scroll::-webkit-scrollbar { height: 6px; }
+  .era-scroll::-webkit-scrollbar-track { background: transparent; border-top: 1px dashed var(--sepia); }
+  .era-scroll::-webkit-scrollbar-thumb { background: var(--sepia); }
+
+  .era-btn {
+    flex-shrink: 0;
+    min-width: 140px;
+    padding: 1.2rem 1rem;
+    background: transparent;
+    border: none;
+    border-right: 1px dashed var(--ink-soft);
+    font-family: 'IM Fell DW Pica', serif;
+    color: var(--ink);
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.3s ease;
+    position: relative;
+  }
+
+  .era-btn:last-child { border-right: none; }
+
+  .era-btn:hover { background: var(--paper-dark); }
+
+  .era-btn.active {
+    background: var(--ink);
+    color: var(--paper);
+  }
+
+  .era-btn.active::after {
+    content: '▼';
+    position: absolute;
+    bottom: -14px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: var(--ink);
+    font-size: 1rem;
+  }
+
+  .era-decade {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1;
+    display: block;
+  }
+
+  .era-label {
+    font-family: 'Special Elite', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-top: 0.4rem;
+    display: block;
+    opacity: 0.7;
+  }
+
+  .era-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    margin-top: 0.3rem;
+    display: block;
+    opacity: 0.5;
+  }
+
+  /* ========== SPOTLIGHT ========== */
+  .spotlight {
+    padding: 4rem 2rem;
+    border-bottom: 1px solid var(--ink);
+    position: relative;
+  }
+
+  .spotlight-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .spotlight-title {
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-style: italic;
+    color: var(--ink);
+    line-height: 1;
+  }
+
+  .spotlight-meta {
+    font-family: 'Special Elite', monospace;
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--sepia);
+  }
+
+  .film-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 2.5rem 1.5rem;
+  }
+
+  .film-card {
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.4s ease;
+  }
+
+  .film-card:hover {
+    transform: translateY(-4px) rotate(-0.5deg);
+  }
+
+  .film-reel {
+    aspect-ratio: 2 / 3;
+    background: var(--ink);
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--ink);
+    box-shadow: 
+      3px 3px 0 var(--sepia),
+      6px 6px 20px var(--shadow);
+  }
+
+  .film-reel::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: 
+      linear-gradient(135deg, transparent 40%, rgba(200, 130, 31, 0.15) 50%, transparent 60%),
+      repeating-linear-gradient(0deg, transparent, transparent 18px, rgba(232, 220, 192, 0.04) 18px, rgba(232, 220, 192, 0.04) 20px);
+    z-index: 2;
+    pointer-events: none;
+  }
+
+  .film-reel-inner {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1rem;
+    color: var(--paper);
+  }
+
+  .reel-top {
+    font-family: 'Special Elite', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .reel-center {
+    text-align: center;
+    font-family: 'IM Fell DW Pica', serif;
+    font-style: italic;
+    font-size: 1.3rem;
+    line-height: 1.2;
+  }
+
+  .reel-bottom {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    opacity: 0.7;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* Sprocket holes */
+  .sprockets {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 8px 0;
+    z-index: 3;
+  }
+
+  .sprockets.left { left: 0; }
+  .sprockets.right { right: 0; }
+
+  .sprockets span {
+    width: 8px;
+    height: 10px;
+    background: var(--paper);
+    margin: 0 auto;
+    border-radius: 1px;
+  }
+
+  .film-info {
+    padding-top: 0.8rem;
+  }
+
+  .film-title-line {
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 1.1rem;
+    line-height: 1.2;
+    color: var(--ink);
+  }
+
+  .film-director {
+    font-family: 'Special Elite', monospace;
+    font-size: 0.7rem;
+    color: var(--sepia);
+    letter-spacing: 0.1em;
+    margin-top: 0.2rem;
+  }
+
+  .film-year {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--ink-soft);
+    margin-top: 0.2rem;
+  }
+
+  /* ========== CONTENT COLUMNS ========== */
+  .three-col {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .col {
+    padding: 3rem 2rem;
+    border-right: 1px solid var(--ink);
+    position: relative;
+  }
+
+  .col:last-child { border-right: none; }
+
+  .col-header {
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 2rem;
+    font-style: italic;
+    margin-bottom: 0.3rem;
+    color: var(--ink);
+  }
+
+  .col-kicker {
+    font-family: 'Special Elite', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--rust);
+    margin-bottom: 1.5rem;
+    display: block;
+  }
+
+  /* ========== INTERVIEW / PODCAST CARDS ========== */
+  .podcast-item {
+    display: flex;
+    gap: 1rem;
+    padding: 1.2rem 0;
+    border-bottom: 1px dashed var(--ink-soft);
+    cursor: pointer;
+    transition: padding-left 0.3s;
+  }
+
+  .podcast-item:hover { padding-left: 0.6rem; }
+  .podcast-item:last-child { border-bottom: none; }
+
+  .cassette {
+    flex-shrink: 0;
+    width: 70px;
+    height: 44px;
+    background: var(--ink);
+    position: relative;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 8px;
+  }
+
+  .reel-wheel {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: var(--paper);
+    border: 2px solid var(--sepia);
+    position: relative;
+    animation: spin 4s linear infinite;
+    animation-play-state: paused;
+  }
+
+  .podcast-item:hover .reel-wheel { animation-play-state: running; }
+
+  .reel-wheel::before {
+    content: '';
+    position: absolute;
+    inset: 3px;
+    border-radius: 50%;
+    background: var(--sepia);
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  .cassette-label {
+    position: absolute;
+    bottom: -3px;
+    left: 8px;
+    right: 8px;
+    height: 4px;
+    background: var(--paper);
+  }
+
+  .podcast-info { flex: 1; }
+
+  .podcast-title {
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 1.15rem;
+    line-height: 1.25;
+    color: var(--ink);
+    margin-bottom: 0.2rem;
+  }
+
+  .podcast-guest {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    color: var(--sepia);
+    font-size: 0.95rem;
+  }
+
+  .podcast-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--ink-soft);
+    margin-top: 0.3rem;
+    letter-spacing: 0.05em;
+  }
+
+  /* ========== REVIEWS ========== */
+  .review-item {
+    padding: 1.5rem 0;
+    border-bottom: 1px dashed var(--ink-soft);
+    cursor: pointer;
+  }
+
+  .review-item:last-child { border-bottom: none; }
+
+  .review-stars {
+    font-family: 'JetBrains Mono', monospace;
+    color: var(--rust);
+    letter-spacing: 0.15em;
+    font-size: 0.9rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .review-title {
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    color: var(--ink);
+    margin-bottom: 0.3rem;
+  }
+
+  .review-title em {
+    color: var(--rust);
+  }
+
+  .review-excerpt {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+
+  .review-byline {
+    font-family: 'Special Elite', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--sepia);
+    margin-top: 0.5rem;
+  }
+
+  /* ========== CLIPS ========== */
+  .clip-item {
+    padding: 1.2rem 0;
+    border-bottom: 1px dashed var(--ink-soft);
+    cursor: pointer;
+    position: relative;
+  }
+
+  .clip-item:last-child { border-bottom: none; }
+
+  .clip-thumb {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    background: var(--ink);
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 0.8rem;
+    border: 1px solid var(--ink);
+  }
+
+  .clip-thumb::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: 
+      repeating-linear-gradient(0deg, transparent, transparent 4px, rgba(232, 220, 192, 0.08) 4px, rgba(232, 220, 192, 0.08) 5px);
+  }
+
+  .clip-thumb::after {
+    content: '▶';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--paper);
+    font-size: 2rem;
+    opacity: 0.8;
+    transition: transform 0.3s;
+  }
+
+  .clip-item:hover .clip-thumb::after {
+    transform: translate(-50%, -50%) scale(1.3);
+  }
+
+  .clip-duration {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    padding: 2px 6px;
+    z-index: 2;
+    letter-spacing: 0.1em;
+  }
+
+  .clip-caption {
+    font-family: 'Special Elite', monospace;
+    background: var(--ink);
+    color: var(--paper);
+    padding: 0.5rem 0.7rem;
+    font-size: 0.75rem;
+    line-height: 1.3;
+    letter-spacing: 0.05em;
+    position: relative;
+  }
+
+  .clip-caption::before {
+    content: '[CC]';
+    color: var(--amber);
+    margin-right: 0.5rem;
+    font-weight: bold;
+  }
+
+  .clip-source {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    color: var(--sepia);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+  }
+
+  /* ========== DISPATCHES (footer feed) ========== */
+  .dispatches {
+    padding: 3rem 2rem;
+    background: var(--ink);
+    color: var(--paper);
+  }
+
+  .dispatches .section-label {
+    color: var(--amber);
+  }
+
+  .dispatches .section-label::before {
+    color: var(--amber);
+  }
+
+  .dispatch-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+
+  .dispatch {
+    border-left: 2px solid var(--amber);
+    padding-left: 1rem;
+  }
+
+  .dispatch-date {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--amber);
+    letter-spacing: 0.1em;
+    margin-bottom: 0.4rem;
+  }
+
+  .dispatch-title {
+    font-family: 'IM Fell DW Pica', serif;
+    font-style: italic;
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
+
+  /* ========== COLOPHON ========== */
+  .colophon {
+    padding: 3rem 2rem 4rem;
+    text-align: center;
+    background: var(--paper);
+    border-top: 2px double var(--ink);
+  }
+
+  .colophon-mark {
+    font-family: 'IM Fell DW Pica', serif;
+    font-style: italic;
+    font-size: 2rem;
+    color: var(--ink);
+    margin-bottom: 0.5rem;
+  }
+
+  .colophon-text {
+    font-family: 'Special Elite', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--sepia);
+    max-width: 500px;
+    margin: 0 auto;
+    line-height: 1.8;
+  }
+
+  /* ========== RESPONSIVE ========== */
+  @media (max-width: 900px) {
+    .three-col { grid-template-columns: 1fr; }
+    .col { border-right: none; border-bottom: 1px solid var(--ink); }
+    .col:last-child { border-bottom: none; }
+    .topbar { padding: 0.6rem 1rem; font-size: 0.65rem; }
+    .topbar-left, .topbar-right { gap: 0.8rem; }
+    .masthead, .era-section, .spotlight, .col, .dispatches { padding-left: 1rem; padding-right: 1rem; }
+  }
+
+  @media (max-width: 600px) {
+    .topbar-right { display: none; } .topbar-center a { font-size:0.7rem; }
+  }
+
+  /* ========== ENTRY ANIMATIONS ========== */
+  .fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeUp 0.8s ease forwards;
+  }
+
+  .fade-in:nth-child(1) { animation-delay: 0.1s; }
+  .fade-in:nth-child(2) { animation-delay: 0.2s; }
+  .fade-in:nth-child(3) { animation-delay: 0.3s; }
+  .fade-in:nth-child(4) { animation-delay: 0.4s; }
+
+  @keyframes fadeUp {
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+/* --- responsive additions --- */
+@media (max-width: 720px){
+  .three-col{grid-template-columns:1fr !important;}
+  .film-grid{grid-template-columns:1fr 1fr !important;}
+  .title{font-size:2.3rem !important;}
+  .masthead-meta{flex-direction:row;flex-wrap:wrap;gap:.5rem;}
+  .era-scroll{-webkit-overflow-scrolling:touch;}
+}
+@media (max-width: 440px){
+  .film-grid{grid-template-columns:1fr !important;}
+  .title{font-size:1.8rem !important;}
+}
+</style>
+</head>
+<body class="paper-bg">
+
+  <!-- ======================= TOP BAR ======================= -->
+  <div class="topbar">
+    <div class="topbar-left">
+      <span><span class="rec-dot"></span>REC</span>
+      <span class="tracking">TRK ▓▓▓▓▓░</span>
+      <span>CH 03</span>
+    </div>
+    <nav class="topbar-center" style="position:relative;">
+      <button id="menuBtn" style="font-family:'Special Elite',monospace;font-size:0.75rem;letter-spacing:0.1em;text-transform:uppercase;background:transparent;border:1px solid var(--ink);color:var(--ink);padding:0.25rem 0.8rem;cursor:pointer;">Menu &#9662;</button>
+      <div id="menuList" style="display:none;position:absolute;top:130%;left:50%;transform:translateX(-50%);background:var(--paper);border:1px solid var(--ink);min-width:150px;z-index:300;box-shadow:3px 3px 0 var(--ink-soft);text-align:left;">
+        <a href="/" style="display:block;padding:0.55rem 1rem;color:inherit;text-decoration:none;border-bottom:1px solid var(--ink-soft);">Home</a>
+        <a href="/membership/" style="display:block;padding:0.55rem 1rem;color:inherit;text-decoration:none;">Support</a>
+      </div>
+    </nav>
+    <div class="topbar-right">
+      <span id="issueNo">ISSUE N&deg; 01</span>
+      <span id="liveDate">FRI &middot; 17 APR 2026</span>
+      <span>SP &middot; LP</span>
+    </div>
+  </div>
+
+  <!-- ======================= MASTHEAD ======================= -->
+  <header class="masthead">
+    <h1 class="title">Reels <span class="ampersand">&amp;</span> Records</h1>
+    <p class="tagline">cinema connected to Black People, Africans &amp; the African Diaspora</p>
+    <div class="tagline-rule"><span>Now Playing</span></div>
+  </header>
+
+  <!-- ======================= ERA TIMELINE ======================= -->
+  <section class="era-section">
+    <div class="section-label">Browse by
+      <select id="facetSelect" style="font-family:var(--font-label);font-size:.7rem;letter-spacing:.05em;background:transparent;border:1px solid var(--ink-soft);color:var(--ink);padding:.2rem .4rem;margin:0 .4rem;cursor:pointer;text-transform:uppercase;">
+        <option value="decade">Decade</option>
+        <option value="era">Era</option>
+        <option value="continent">Continent</option>
+        <option value="country">Country</option>
+        <option value="genre">Genre</option>
+        <option value="tp">Type</option>
+        <option value="director">Director</option>
+      </select>
+      <span style="flex:1;border-top:1px dashed var(--ink-soft);margin-left:1rem;"></span>
+    </div>
+    <div class="era-scroll" id="eraScroll"></div>
+  </section>
+
+  <!-- ======================= SPOTLIGHT ======================= -->
+  <section class="spotlight">
+    <div class="spotlight-header">
+      <h2 class="spotlight-title" id="eraTitle">The Manifesto Years</h2>
+      <div class="spotlight-meta" id="eraSub">Filed under: Auteurism · Paranoia · Studio Breakdown</div>
+    </div>
+    <div class="film-grid" id="filmGrid">
+      <!-- Populated by JS -->
+    </div>
+  </section>
+
+  <!-- ======================= THREE COLUMNS ======================= -->
+  <section class="three-col">
+<div class="col">
+<span class="col-kicker">On the Mic</span>
+<h3 class="col-header">Interviews &amp; Podcasts</h3>
+<div class="podcast-item"><div class="cassette"><div class="reel-wheel"></div><div class="reel-wheel"></div><div class="cassette-label"></div></div><div class="podcast-info"><div class="podcast-title">James Baldwin &amp; Maya Angelou</div><div class="podcast-guest">a rare 1975 televised conversation</div><div class="podcast-meta">ARCHIVE &middot; 39 MIN &middot; REPLAY</div></div></div>
+<div class="podcast-item"><div class="cassette"><div class="reel-wheel"></div><div class="reel-wheel"></div><div class="cassette-label"></div></div><div class="podcast-info"><div class="podcast-title">Denzel, A$AP Rocky &amp; Spike Lee</div><div class="podcast-guest">three generations of Black film and music</div><div class="podcast-meta">CLIP &middot; CROSS-GEN</div></div></div>
+</div>
+<div class="col">
+<span class="col-kicker">On our mind</span>
+<h3 class="col-header">Reviews &amp; Essays</h3>
+<div class="review-item"><div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><div class="review-title">A visual letter, a homage to Senegal and Africa</div><div class="review-excerpt">"Safi Faye's portrait of Serer village life reads as a letter home, patient and clear-eyed."</div><div class="review-byline">On Our Mind &middot; <em>Kaddu Beykat</em> (1975)</div></div>
+<div class="review-item"><div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><div class="review-title">You can't hide us</div><div class="review-excerpt">"Nii Kwate Owoo turns the camera on African artefacts locked in European museum basements, and asks who the archive is for."</div><div class="review-byline">On Our Mind &middot; <em>You Hide Me</em> (1970)</div></div>
+</div>
+<div class="col">
+<span class="col-kicker">From the archive</span>
+<h3 class="col-header">Short Clips</h3>
+<a class="clip-item" href="https://www.instagram.com/p/DWwBsGOgj_n/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;"><div class="clip-thumb"><span class="clip-duration">0:35</span></div><div class="clip-caption">An African story told on its own terms, animated in a visual language drawn from African art.</div><div class="clip-source"><em>Kirikou and the Sorceress</em> (1998)</div></a>
+<a class="clip-item" href="https://www.instagram.com/p/DXJqoFjAmbS/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;"><div class="clip-thumb"><span class="clip-duration">0:55</span></div><div class="clip-caption">A rare 1960 film of Lagos on the edge of independence.</div><div class="clip-source"><em>Bound for Lagos</em>, dir. Edric Connor (1960)</div></a>
+</div>
+</section>
+
+  <!-- ======================= DISPATCHES ======================= -->
+  <section class="dispatches">
+<div class="section-label">Latest Dispatches</div>
+<div class="dispatch-grid">
+<div class="dispatch"><div class="dispatch-date">01 JUL 2026 &middot; RESTORATION</div><div class="dispatch-title">Timbuktu gets a 4K restoration</div></div>
+<div class="dispatch"><div class="dispatch-date">15 JUL 2026 &middot; FIELD NOTES</div><div class="dispatch-title">Whisper captioning project reaches its first milestone</div></div>
+<div class="dispatch"><div class="dispatch-date">20 JUL 2026 &middot; FESTIVAL DISPATCH</div><div class="dispatch-title">FESPACO 2027 dates announced</div></div>
+<div class="dispatch"><div class="dispatch-date">25 JUL 2026 &middot; ACQUISITION</div><div class="dispatch-title">Arsenal Berlin digitizes another reel from its African cinema holdings</div></div>
+</div>
+</section>
+
+  <!-- ======================= COLOPHON ======================= -->
+  <footer class="colophon">
+    <div class="colophon-mark"><a href="/membership/" style="color:inherit;text-decoration:none;font-style:italic;">Support Us</a></div>
+    <div class="colophon-text">
+      An interactive archive<br>
+      updated weekly<br>
+      Remember to Dream
+    </div>
+  </footer>
+
+<script>
+const FILMS = [{"t": "Les Statues meurent aussi (Statues Also Die)", "d": "Alain Resnais, Chris Marker", "y": 1953, "c": ["France"], "g": "essay film, documentary", "tp": "short", "era": "pre-history", "url": "https://www.cinematheque.fr/film/50892.html", "img": "https://a.ltrbxd.com/resized/sm/upload/in/y7/l4/ie/rmZafOuy2mPlzNF13y4wm7VHRys-1200-1200-675-675-crop-000000.jpg?v=0704e4bda5"}, {"t": "Monangambee", "d": "Sarah Maldoror", "y": 1969, "c": ["Algeria", "Angola"], "g": "drama", "tp": "short", "era": "liberation", "url": "https://sarahmaldoror.org/film/monangambee/", "img": "https://a.ltrbxd.com/resized/film-poster/3/3/6/3/6/6/336366-monangambeee-0-230-0-345-crop.jpg?v=30b734f91d"}, {"t": "Kaddu Beykat (Letter from My Village)", "d": "Safi Faye", "y": 1975, "c": ["Senegal"], "g": "docufiction", "tp": "feature", "era": "manifesto", "url": "https://en.wikipedia.org/wiki/Kaddu_Beykat", "img": "https://a.ltrbxd.com/resized/film-poster/1/4/6/2/4/8/146248-letter-from-my-village-0-230-0-345-crop.jpg?v=90c26050f7"}, {"t": "A Different Image", "d": "Alile Sharon Larkin", "y": 1982, "c": ["United States"], "g": "drama", "tp": "short", "era": "flourishing", "url": "https://www.cinema.ucla.edu/la-rebellion/films/different-image", "img": "https://a.ltrbxd.com/resized/alternative-backdrop/1/7/5/9/4/2/tmdb/s6c9hDycKXGZ845TEGw3soIUVKf-1200-1200-675-675-crop-000000.jpg?v=9953d61a24"}, {"t": "Daughters of the Dust", "d": "Julie Dash", "y": 1991, "c": ["United States"], "g": "drama", "tp": "feature", "era": "video-wave", "url": "https://www.criterionchannel.com/daughters-of-the-dust", "img": "http://www.impawards.com/1991/posters/daughters_of_the_dust_xlg.jpg"}, {"t": "Atlantiques", "d": "Mati Diop", "y": 2009, "c": ["France", "Senegal"], "g": "documentary", "tp": "short", "era": "festival-era", "url": "https://www.criterion.com/current/posts/6838--you-don-t-have-a-home-until-you-leave-mati-diop-s-short-films", "img": "https://a.ltrbxd.com/resized/film-poster/1/0/7/9/4/7/107947-atlantics-0-230-0-345-crop.jpg?v=1d0a2fb62a"}, {"t": "Rafiki", "d": "Wanuri Kahiu", "y": 2018, "c": ["Kenya", "South Africa", "Germany", "Netherlands", "France", "Lebanon", "Norway"], "g": "drama, romance", "tp": "feature", "era": "new-voices", "url": "https://www.imdb.com/title/tt8286894", "img": "https://a.ltrbxd.com/resized/sm/upload/ap/ka/7r/uy/rafiki-1200-1200-675-675-crop-000000.jpg?v=29a60d657e"}, {"t": "On Becoming a Guinea Fowl", "d": "Rungano Nyoni", "y": 2024, "c": ["Zambia", "United Kingdom", "Ireland"], "g": "drama", "tp": "feature", "era": "present", "url": "https://www.festival-cannes.com/en/f/on-becoming-a-guinea-fowl/", "img": "https://a.ltrbxd.com/resized/sm/upload/0t/v7/os/lm/5aC6tOA8wxCTGDmjbRJw3E29S01-1200-1200-675-675-crop-000000.jpg?v=9835adda74"}, {"t": "Sanders of the River", "d": "Zoltan Korda", "y": 1935, "c": ["United Kingdom"], "g": "adventure, drama", "tp": "feature", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/Sanders_of_the_River", "img": "https://a.ltrbxd.com/resized/film-poster/7/3/5/7/2/73572-sanders-of-the-river-0-230-0-345-crop.jpg?v=4acd10847c"}, {"t": "Trader Horn", "d": "W.S. Van Dyke", "y": 1931, "c": ["United States"], "g": "adventure", "tp": "feature", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/Trader_Horn_(1931_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/h3/8h/sg/1s/p92mFg6cQ4p7l6N7C74J5ajlwBN-1200-1200-675-675-crop-000000.jpg?v=0a0530e1ed"}, {"t": "King Solomon's Mines", "d": "Robert Stevenson", "y": 1937, "c": ["United Kingdom"], "g": "adventure", "tp": "feature", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/King_Solomon%27s_Mines_(1937_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/uc/5i/vm/az/xZj34D46XONUS72MhNlTpxle0Nj-1200-1200-675-675-crop-000000.jpg?v=017b569836"}, {"t": "Song of Freedom", "d": "J. Elder Wills", "y": 1936, "c": ["United Kingdom"], "g": "drama, musical", "tp": "feature", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/Song_of_Freedom", "img": "https://a.ltrbxd.com/resized/film-poster/1/1/9/0/2/3/119023-song-of-freedom-0-230-0-345-crop.jpg?v=79fdcb5572"}, {"t": "Borom Sarret", "d": "Ousmane Sembene", "y": 1963, "c": ["Senegal"], "g": "drama", "tp": "short", "era": "liberation", "url": "https://en.wikipedia.org/wiki/Borom_Sarret", "img": "https://a.ltrbxd.com/resized/sm/upload/fi/to/rb/06/Ae52jz3mqb7UoySOVwVkfliKRc6-1200-1200-675-675-crop-000000.jpg?v=f1c25a5519"}, {"t": "La Noire de... (Black Girl)", "d": "Ousmane Sembene", "y": 1966, "c": ["Senegal", "France"], "g": "drama", "tp": "feature", "era": "liberation", "url": "https://en.wikipedia.org/wiki/Black_Girl_(1966_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/5r/1t/26/9g/blackgirl-1200-1200-675-675-crop-000000.jpg?v=252c6847a6"}, {"t": "Contras' City", "d": "Djibril Diop Mambety", "y": 1968, "c": ["Senegal"], "g": "documentary, comedy", "tp": "short", "era": "liberation", "url": "https://en.wikipedia.org/wiki/Contras'city", "img": "https://a.ltrbxd.com/resized/sm/upload/vc/ub/o2/c6/CityOfContrasts1-1200-1200-675-675-crop-000000.jpg?v=5f23d5606f"}, {"t": "La Femme au couteau (The Woman with the Knife)", "d": "Timite Bassori", "y": 1969, "c": ["Ivory Coast"], "g": "drama", "tp": "feature", "era": "liberation", "url": "https://en.wikipedia.org/wiki/The_Woman_with_the_Knife", "img": "https://a.ltrbxd.com/resized/sm/upload/4v/tn/zs/yz/TheWomanWithTheKnife1-1200-1200-675-675-crop-000000.jpg?v=cc9f0da60d"}, {"t": "Sambizanga", "d": "Sarah Maldoror", "y": 1972, "c": ["Republic of the Congo", "Angola"], "g": "drama", "tp": "feature", "era": "manifesto", "url": "https://www.criterion.com/films/33101-sambizanga", "img": "https://a.ltrbxd.com/resized/sm/upload/27/vj/ig/4u/waYBLKEM2yJRp63haCGwxw5JuYw-1200-1200-675-675-crop-000000.jpg?v=3f0fea59e8"}, {"t": "Xala", "d": "Ousmane Sembene", "y": 1975, "c": ["Senegal"], "g": "comedy, drama, satire", "tp": "feature", "era": "manifesto", "url": "https://en.wikipedia.org/wiki/Xala", "img": "https://a.ltrbxd.com/resized/sm/upload/f0/a6/6p/i0/xala-1200-1200-675-675-crop-000000.jpg?v=6537facea1"}, {"t": "Soleil O", "d": "Med Hondo", "y": 1970, "c": ["Mauritania", "France"], "g": "drama", "tp": "feature", "era": "manifesto", "url": "https://www.criterion.com/films/30299-soleil-o", "img": "https://a.ltrbxd.com/resized/sm/upload/lr/un/n4/mc/soleil-1200-1200-675-675-crop-000000.jpg?v=f68c1e8563"}, {"t": "Den Muso (The Young Girl)", "d": "Souleymane Cisse", "y": 1975, "c": ["Mali"], "g": "drama", "tp": "feature", "era": "manifesto", "url": "https://en.wikipedia.org/wiki/The_Young_Girl", "img": "https://a.ltrbxd.com/resized/film-poster/1/9/3/3/2/0/193320-the-young-girl-0-230-0-345-crop.jpg?v=5b7b1c7a03"}, {"t": "Yeelen (Brightness)", "d": "Souleymane Cisse", "y": 1987, "c": ["Mali"], "g": "drama, fantasy", "tp": "feature", "era": "flourishing", "url": "https://en.wikipedia.org/wiki/Yeelen", "img": "https://a.ltrbxd.com/resized/sm/upload/jy/hy/r3/tq/yeelen-1200-1200-675-675-crop-000000.jpg?v=ce08183f43"}, {"t": "Yaaba", "d": "Idrissa Ouedraogo", "y": 1989, "c": ["Burkina Faso", "France", "Switzerland"], "g": "drama", "tp": "feature", "era": "flourishing", "url": "https://en.wikipedia.org/wiki/Yaaba", "img": "https://a.ltrbxd.com/resized/film-poster/6/6/4/664-yaaba-0-230-0-345-crop.jpg?v=059559360a"}, {"t": "Illusions", "d": "Julie Dash", "y": 1982, "c": ["United States"], "g": "drama", "tp": "short", "era": "flourishing", "url": "https://en.wikipedia.org/wiki/Illusions_(1982_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/qd/rl/nn/5s/uXTJ6dhG9QhVCyvQNyuDdDhr1Pu-1200-1200-675-675-crop-000000.jpg?v=c0c7daeb3f"}, {"t": "Hair Piece: A Film for Nappy-Headed People", "d": "Ayoka Chenzira", "y": 1984, "c": ["United States"], "g": "animation, comedy", "tp": "short", "era": "flourishing", "url": "https://en.wikipedia.org/wiki/Ayoka_Chenzira", "img": "https://a.ltrbxd.com/resized/film-poster/2/7/7/3/4/4/277344-hair-piece-a-film-for-nappy-headed-people-0-230-0-345-crop.jpg?v=cf0de6b266"}, {"t": "Losing Ground", "d": "Kathleen Collins", "y": 1982, "c": ["United States"], "g": "comedy, drama", "tp": "feature", "era": "flourishing", "url": "https://www.criterionchannel.com/losing-ground", "img": "https://a.ltrbxd.com/resized/sm/upload/37/da/jq/on/losingground-1200-1200-675-675-crop-000000.jpg?v=cae8c5b048"}, {"t": "Sankofa", "d": "Haile Gerima", "y": 1993, "c": ["Ethiopia", "Ghana", "Burkina Faso", "United States", "United Kingdom", "Germany"], "g": "drama", "tp": "feature", "era": "video-wave", "url": "https://en.wikipedia.org/wiki/Sankofa_(film)", "img": "https://a.ltrbxd.com/resized/sm/upload/rq/h5/7j/ad/sankofa-1200-1200-675-675-crop-000000.jpg?v=69d169490b"}, {"t": "Hyenas", "d": "Djibril Diop Mambety", "y": 1992, "c": ["Senegal", "Switzerland", "France"], "g": "comedy, drama, satire", "tp": "feature", "era": "video-wave", "url": "https://en.wikipedia.org/wiki/Hyenas_(1992_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/ul/4s/uc/hw/hyenas-1200-1200-675-675-crop-000000.jpg?v=b724f973b3"}, {"t": "Mossane", "d": "Safi Faye", "y": 1996, "c": ["Senegal"], "g": "drama", "tp": "feature", "era": "video-wave", "url": "https://en.wikipedia.org/wiki/Mossane", "img": "https://a.ltrbxd.com/resized/sm/upload/oh/qw/eg/7r/9VyCn7Lo8EQWA9SLuyonP8sPTB0-1200-1200-675-675-crop-000000.jpg?v=fc0265f071"}, {"t": "Compensation", "d": "Zeinabu irene Davis", "y": 1999, "c": ["United States"], "g": "drama", "tp": "feature", "era": "video-wave", "url": "https://www.criterion.com/films/31494-compensation", "img": "https://a.ltrbxd.com/resized/sm/upload/9m/i2/o7/ku/header-1200-1200-675-675-crop-000000.jpg?v=5d944963dc"}, {"t": "Bamako", "d": "Abderrahmane Sissako", "y": 2006, "c": ["Mali", "France"], "g": "docudrama", "tp": "feature", "era": "festival-era", "url": "https://en.wikipedia.org/wiki/Bamako_(film)", "img": "https://a.ltrbxd.com/resized/sm/upload/2t/xy/ti/d1/bamako-1200-1200-675-675-crop-000000.jpg?v=a372e68c82"}, {"t": "Ezra", "d": "Newton Aduaka", "y": 2007, "c": ["Nigeria", "France", "Austria", "United Kingdom"], "g": "drama, war", "tp": "feature", "era": "festival-era", "url": "https://en.wikipedia.org/wiki/Ezra_(2007_film)", "img": "https://a.ltrbxd.com/resized/film-poster/3/7/9/3/6/37936-ezra-0-230-0-345-crop.jpg?v=885ba73df1"}, {"t": "Drum", "d": "Zola Maseko", "y": 2004, "c": ["South Africa", "Germany", "United Kingdom"], "g": "drama, biography", "tp": "feature", "era": "festival-era", "url": "https://en.wikipedia.org/wiki/Drum_(2004_film)", "img": "https://a.ltrbxd.com/resized/film-poster/5/9/5/4/5954-drum-0-230-0-345-crop.jpg?v=8f1226a001"}, {"t": "Pumzi", "d": "Wanuri Kahiu", "y": 2009, "c": ["Kenya"], "g": "science fiction", "tp": "short", "era": "festival-era", "url": "https://en.wikipedia.org/wiki/Pumzi", "img": "https://a.ltrbxd.com/resized/film-poster/2/0/0/6/2/20062-pumzi-0-230-0-345-crop.jpg?v=4bcfe8226d"}, {"t": "Atlantics", "d": "Mati Diop", "y": 2019, "c": ["Senegal", "France", "Belgium"], "g": "drama, romance, fantasy", "tp": "feature", "era": "new-voices", "url": "https://en.wikipedia.org/wiki/Atlantics", "img": "https://a.ltrbxd.com/resized/sm/upload/2l/dr/f4/sx/atlantics-1200-1200-675-675-crop-000000.jpg?v=41c4b49dca"}, {"t": "I Am Not a Witch", "d": "Rungano Nyoni", "y": 2017, "c": ["Zambia", "United Kingdom", "France", "Germany"], "g": "comedy, drama", "tp": "feature", "era": "new-voices", "url": "https://en.wikipedia.org/wiki/I_Am_Not_a_Witch", "img": "https://a.ltrbxd.com/resized/sm/upload/e5/g1/4m/ix/i-am-not-witch-1200-1200-675-675-crop-000000.jpg?v=0dcde5b58a"}, {"t": "Felicite", "d": "Alain Gomis", "y": 2017, "c": ["Senegal", "France", "Belgium", "Germany", "Lebanon"], "g": "drama, music", "tp": "feature", "era": "new-voices", "url": "https://en.wikipedia.org/wiki/F%C3%A9licit%C3%A9_(2017_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/12/qs/i8/7x/felicite-1200-1200-675-675-crop-000000.jpg?v=56bbde3054"}, {"t": "Timbuktu", "d": "Abderrahmane Sissako", "y": 2014, "c": ["Mauritania", "Mali", "France"], "g": "drama, war", "tp": "feature", "era": "new-voices", "url": "https://en.wikipedia.org/wiki/Timbuktu_(2014_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/d1/xu/06/kc/timbuktu-2014-1200-1200-675-675-crop-000000.jpg?v=abb105143d"}, {"t": "Dahomey", "d": "Mati Diop", "y": 2024, "c": ["Senegal", "France", "Benin"], "g": "documentary", "tp": "documentary", "era": "present", "url": "https://en.wikipedia.org/wiki/Dahomey_(film)", "img": "https://a.ltrbxd.com/resized/sm/upload/06/hh/ia/2d/daomey-1200-1200-675-675-crop-000000.jpg?v=23bcf9306d"}, {"t": "Banel & Adama", "d": "Ramata-Toulaye Sy", "y": 2023, "c": ["France", "Senegal", "Mali"], "g": "drama, romance", "tp": "feature", "era": "present", "url": "https://en.wikipedia.org/wiki/Banel_%26_Adama", "img": "https://a.ltrbxd.com/resized/sm/upload/44/ln/ge/st/banel-1200-1200-675-675-crop-000000.jpg?v=473b61b435"}, {"t": "Sira", "d": "Apolline Traore", "y": 2023, "c": ["Burkina Faso", "France", "Germany", "Senegal"], "g": "adventure, drama, thriller", "tp": "feature", "era": "present", "url": "https://en.wikipedia.org/wiki/Sira_(film)", "img": "https://a.ltrbxd.com/resized/sm/upload/ui/4h/qb/i5/cWe8ShNTh6oaDb8olS0uuiyXMmJ-1200-1200-675-675-crop-000000.jpg?v=698914a53b"}, {"t": "Lingui, The Sacred Bonds", "d": "Mahamat-Saleh Haroun", "y": 2021, "c": ["Chad", "France", "Germany", "Belgium"], "g": "drama", "tp": "feature", "era": "present", "url": "https://en.wikipedia.org/wiki/Lingui,_The_Sacred_Bonds", "img": "https://a.ltrbxd.com/resized/sm/upload/ng/u9/ge/t4/lingui-1200-1200-675-675-crop-000000.jpg?v=5a5fc2a517"}, {"t": "Touki Bouki", "d": "Djibril Diop Mambety", "y": 1973, "c": ["Senegal"], "g": "drama, fantasy", "tp": "feature", "era": "manifesto", "url": "https://www.criterion.com/films/28412-touki-bouki", "img": "https://a.ltrbxd.com/resized/sm/upload/wj/pw/p3/d7/touki-1200-1200-675-675-crop-000000.jpg?v=62be48939c"}, {"t": "Living in Bondage", "d": "Chris Obi Rapu", "y": 1992, "c": ["Nigeria"], "g": "drama, thriller", "tp": "feature", "era": "video-wave", "url": "https://en.wikipedia.org/wiki/Living_in_Bondage", "img": "https://a.ltrbxd.com/resized/film-poster/3/0/1/1/0/1/301101-living-in-bondage-0-230-0-345-crop.jpg?v=ff7b55f5bb"}, {"t": "Saworoide", "d": "Tunde Kelani", "y": 1999, "c": ["Nigeria"], "g": "drama, political", "tp": "feature", "era": "video-wave", "url": "https://en.wikipedia.org/wiki/Saworoide", "img": "https://a.ltrbxd.com/resized/film-poster/1/4/0/6/3/1/140631-saworoide-0-230-0-345-crop.jpg?v=3e84b7a70d"}, {"t": "Sacred Places (Lieux saints)", "d": "Jean-Marie Teno", "y": 2009, "c": ["Cameroon", "France"], "g": "documentary", "tp": "documentary", "era": "festival-era", "url": "https://africanfilmny.org/films/sacred-places-lieux-saints/", "img": ""}, {"t": "Nanny", "d": "Nikyatu Jusu", "y": 2022, "c": ["United States"], "g": "horror, drama", "tp": "feature", "era": "present", "url": "https://www.criterion.com/films/33916-nanny", "img": "https://a.ltrbxd.com/resized/sm/upload/00/mv/6j/y0/NNNY_2022_FG_01451519_Still912R-1200-1200-675-675-crop-000000.jpg?v=ffef6d25da"}, {"t": "Bataille sur le grand fleuve", "d": "Jean Rouch, Roger Rosfelder", "y": 1952, "c": ["France", "Niger"], "g": "ethnographic documentary", "tp": "short", "era": "pre-history", "url": "https://www.comitedufilmethnographique.com/oeuvre/bataille-grand-fleuve/", "img": ""}, {"t": "Zouzou", "d": "Marc Allegret", "y": 1934, "c": ["France"], "g": "musical, romance", "tp": "feature", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/Zouzou_(film)", "img": "https://a.ltrbxd.com/resized/alternative-backdrop/2/1/5/5/0/tmdb/16jYyKzW1WUmxZ6D1DFgbdRlOH3-1200-1200-675-675-crop-000000.jpg?v=de0eb20912"}, {"t": "Princess Tam Tam", "d": "Edmond T. Greville", "y": 1935, "c": ["France"], "g": "comedy, romance", "tp": "feature", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/Princess_Tam_Tam", "img": "https://a.ltrbxd.com/resized/film-poster/7/7/5/0/4/77504-princess-tam-tam-0-230-0-345-crop.jpg?v=e991b13e4a"}, {"t": "Stanley and Livingstone", "d": "Henry King, Otto Brower", "y": 1939, "c": ["United States"], "g": "adventure, drama, history", "tp": "feature", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/Stanley_and_Livingstone", "img": "https://a.ltrbxd.com/resized/sm/upload/on/yv/vu/6p/cSbxWKIWRssECX1XbUAzcvwnd0x-1200-1200-675-675-crop-000000.jpg?v=63c81dfe8c"}, {"t": "The Four Feathers", "d": "Zoltan Korda", "y": 1939, "c": ["United Kingdom"], "g": "adventure, war", "tp": "feature", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/The_Four_Feathers_(1939_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/3w/aa/3z/5v/four%20feathers-1200-1200-675-675-crop-000000.jpg?v=811052cafd"}, {"t": "Afrique sur Seine", "d": "Mamadou Sarr, Paulin Soumanou Vieyra", "y": 1955, "c": ["Senegal", "France"], "g": "documentary", "tp": "short", "era": "liberation", "url": "https://en.wikipedia.org/wiki/Afrique-sur-Seine", "img": "https://a.ltrbxd.com/resized/film-poster/1/9/5/9/9/9/195999-africa-on-the-seine-0-230-0-345-crop.jpg?v=393ea32e68"}, {"t": "Aoure", "d": "Moustapha Alassane", "y": 1962, "c": ["Niger"], "g": "docufiction", "tp": "short", "era": "liberation", "url": "https://en.wikipedia.org/wiki/Moustapha_Alassane", "img": ""}, {"t": "Moi, un Noir", "d": "Jean Rouch", "y": 1958, "c": ["France", "Ivory Coast"], "g": "ethnofiction", "tp": "feature", "era": "liberation", "url": "https://en.wikipedia.org/wiki/Moi,_un_noir", "img": "https://a.ltrbxd.com/resized/sm/upload/ru/fv/e5/b1/ryWxl0onuAgXQHNF7f3ha7NiDws-1200-1200-675-675-crop-000000.jpg?v=6bd4316613"}, {"t": "Cabascabo", "d": "Oumarou Ganda", "y": 1969, "c": ["Niger"], "g": "drama", "tp": "feature", "era": "liberation", "url": "https://en.wikipedia.org/wiki/Cabascabo", "img": "https://a.ltrbxd.com/resized/film-poster/2/4/2/7/7/3/242773-cabascabo-0-230-0-345-crop.jpg?v=07bff862b4"}, {"t": "Niaye", "d": "Ousmane Sembene", "y": 1964, "c": ["Senegal"], "g": "drama", "tp": "short", "era": "liberation", "url": "https://en.wikipedia.org/wiki/Niaye", "img": "https://a.ltrbxd.com/resized/film-poster/2/1/0/8/3/3/210833-niaye-0-230-0-345-crop.jpg?v=3dfe034088"}, {"t": "Baara", "d": "Souleymane Cisse", "y": 1978, "c": ["Mali"], "g": "drama", "tp": "feature", "era": "manifesto", "url": "https://en.wikipedia.org/wiki/Baara", "img": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/9/4/120694-work-0-230-0-345-crop.jpg?v=a64e0adf5d"}, {"t": "Fad'jal", "d": "Safi Faye", "y": 1979, "c": ["Senegal"], "g": "documentary", "tp": "documentary", "era": "manifesto", "url": "https://en.wikipedia.org/wiki/Fad%27jal", "img": "https://a.ltrbxd.com/resized/film-poster/1/9/5/0/0/0/195000-fad-jal-0-230-0-345-crop.jpg?v=f722fb38da"}, {"t": "FVVA: Femme, Villa, Voiture, Argent", "d": "Moustapha Alassane", "y": 1972, "c": ["Niger"], "g": "drama, satire", "tp": "feature", "era": "manifesto", "url": "https://www.cinematheque.fr/film/56754.html", "img": ""}, {"t": "Des fusils pour Banta (Guns for Banta)", "d": "Sarah Maldoror", "y": 1970, "c": ["Algeria", "Guinea-Bissau"], "g": "drama", "tp": "feature", "era": "manifesto", "url": "https://www.bfi.org.uk/sight-and-sound/features/sarah-maldoror-trailblazer-anti-colonial-cinema", "img": "https://a.ltrbxd.com/resized/film-poster/1/9/6/2/3/2/196232-guns-for-banta-0-230-0-345-crop.jpg?v=348e3007cf"}, {"t": "Finye (The Wind)", "d": "Souleymane Cisse", "y": 1982, "c": ["Mali"], "g": "drama", "tp": "feature", "era": "flourishing", "url": "https://en.wikipedia.org/wiki/The_Wind_(1982_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/nb/33/9n/av/xO4HoWP6hDtkXc6XfG2Twp28xva-1200-1200-675-675-crop-000000.jpg?v=b01195ce7b"}, {"t": "Wend Kuuni", "d": "Gaston Kabore", "y": 1982, "c": ["Burkina Faso"], "g": "drama", "tp": "feature", "era": "flourishing", "url": "https://en.wikipedia.org/wiki/Wend_Kuuni", "img": "https://a.ltrbxd.com/resized/sm/upload/l2/jw/k6/gf/qZ6ZIjUWRvqik4QciXT0S9epEi8-1200-1200-675-675-crop-000000.jpg?v=8f1c42356c"}, {"t": "Love Brewed in the African Pot", "d": "Kwaw Ansah", "y": 1980, "c": ["Ghana"], "g": "drama, romance", "tp": "feature", "era": "flourishing", "url": "https://en.wikipedia.org/wiki/Love_Brewed_in_the_African_Pot", "img": "https://a.ltrbxd.com/resized/film-poster/1/9/4/7/4/4/194744-love-brewed-in-the-african-pot-0-230-0-345-crop.jpg?v=9c0c283da2"}, {"t": "Ashes and Embers", "d": "Haile Gerima", "y": 1982, "c": ["United States"], "g": "drama", "tp": "feature", "era": "flourishing", "url": "https://en.wikipedia.org/wiki/Ashes_and_Embers", "img": "https://a.ltrbxd.com/resized/film-poster/2/2/9/8/4/9/229849-ashes-and-embers-0-230-0-345-crop.jpg?v=60e40c0aaf"}, {"t": "Quartier Mozart", "d": "Jean-Pierre Bekolo", "y": 1992, "c": ["Cameroon", "France"], "g": "comedy, drama, fantasy", "tp": "feature", "era": "video-wave", "url": "https://africanfilmny.org/films/quartier-mozart/", "img": "https://a.ltrbxd.com/resized/film-poster/1/4/1/4/4/4/141444-quartier-mozart-0-230-0-345-crop.jpg?v=abc0ca3ff8"}, {"t": "Po di Sangui (Tree of Blood)", "d": "Flora Gomes", "y": 1996, "c": ["Guinea-Bissau", "France", "Tunisia", "Portugal"], "g": "drama", "tp": "feature", "era": "video-wave", "url": "https://en.wikipedia.org/wiki/Po_di_Sangui", "img": "https://a.ltrbxd.com/resized/film-poster/1/4/2/4/6/4/142464-tree-of-blood-0-230-0-345-crop.jpg?v=9c0539126b"}, {"t": "Keita! L'Heritage du griot", "d": "Dani Kouyate", "y": 1995, "c": ["Burkina Faso", "France"], "g": "drama, family, fantasy", "tp": "feature", "era": "video-wave", "url": "https://en.wikipedia.org/wiki/Ke%C3%AFta!_l%27H%C3%A9ritage_du_griot", "img": "https://a.ltrbxd.com/resized/film-poster/9/7/6/4/3/97643-keita-the-voice-of-the-griot-0-230-0-345-crop.jpg?v=d0cd667264"}, {"t": "O Heroi (The Hero)", "d": "Zeze Gamboa", "y": 2004, "c": ["Angola", "Portugal", "France"], "g": "drama, war", "tp": "feature", "era": "festival-era", "url": "https://en.wikipedia.org/wiki/The_Hero_(2004_film)", "img": "https://a.ltrbxd.com/resized/film-poster/1/5/4/5/4/0/154540-the-hero-0-230-0-345-crop.jpg?v=2e3502719b"}, {"t": "Waiting for Happiness (Heremakono)", "d": "Abderrahmane Sissako", "y": 2002, "c": ["Mauritania", "France"], "g": "drama", "tp": "feature", "era": "festival-era", "url": "https://en.wikipedia.org/wiki/Waiting_for_Happiness", "img": "https://a.ltrbxd.com/resized/alternative-backdrop/1/8/1/6/0/tmdb/fgkt6KVenMAiKtEMNV67KZPueyq-1200-1200-675-675-crop-000000.jpg?v=13ce4f5743"}, {"t": "Les Saignantes (The Bloodettes)", "d": "Jean-Pierre Bekolo", "y": 2005, "c": ["Cameroon"], "g": "science fiction, thriller", "tp": "feature", "era": "festival-era", "url": "https://en.wikipedia.org/wiki/The_Bloodettes", "img": "https://a.ltrbxd.com/resized/sm/upload/fe/at/a8/te/fKeeSrFswJHfmhTFDnWVHEmMAsa-1200-1200-675-675-crop-000000.jpg?v=dda4dff264"}, {"t": "L'Afrance", "d": "Alain Gomis", "y": 2001, "c": ["France", "Senegal"], "g": "drama", "tp": "feature", "era": "festival-era", "url": "https://africanfilmny.org/films/lafrance/", "img": "https://a.ltrbxd.com/resized/film-poster/1/5/7/0/1/15701-lafrance-0-230-0-345-crop.jpg?v=0b5aa50a9f"}, {"t": "Tey (Today)", "d": "Alain Gomis", "y": 2012, "c": ["Senegal", "France"], "g": "drama", "tp": "feature", "era": "new-voices", "url": "https://en.wikipedia.org/wiki/Today_(2012_film)", "img": "https://a.ltrbxd.com/resized/alternative-backdrop/8/8/5/1/1/tmdb/7tSgwvoxx6vQAww2zcturN7PcBv-1200-1200-675-675-crop-000000.jpg?v=511aab386a"}, {"t": "Vaya", "d": "Akin Omotoso", "y": 2016, "c": ["South Africa"], "g": "drama", "tp": "feature", "era": "new-voices", "url": "https://en.wikipedia.org/wiki/Vaya_(film)", "img": "https://a.ltrbxd.com/resized/film-poster/3/4/6/2/5/6/346256-vaya-0-230-0-345-crop.jpg?v=0c449db0bc"}, {"t": "Kwaku Ananse", "d": "Akosua Adoma Owusu", "y": 2013, "c": ["Ghana", "United States"], "g": "drama, fantasy", "tp": "short", "era": "new-voices", "url": "https://en.wikipedia.org/wiki/Kwaku_Ananse_(film)", "img": "https://a.ltrbxd.com/resized/film-poster/1/5/6/2/7/3/156273-kwaku-ananse-0-230-0-345-crop.jpg?v=ef86576d62"}, {"t": "Black to Techno", "d": "Jenn Nkiru", "y": 2019, "c": ["United Kingdom", "United States"], "g": "documentary", "tp": "short", "era": "new-voices", "url": "https://en.wikipedia.org/wiki/Jenn_Nkiru", "img": "https://a.ltrbxd.com/resized/film-poster/5/4/6/1/5/4/546154-black-to-techno-0-230-0-345-crop.jpg?v=2e5bf3dd0c"}, {"t": "This Is Not a Burial, It's a Resurrection", "d": "Lemohang Jeremiah Mosese", "y": 2019, "c": ["Lesotho", "South Africa", "Italy", "Germany", "Qatar"], "g": "drama", "tp": "feature", "era": "new-voices", "url": "https://en.wikipedia.org/wiki/This_Is_Not_a_Burial,_It%27s_a_Resurrection", "img": "https://a.ltrbxd.com/resized/sm/upload/br/td/ac/gh/3p1hzWl5utuOZdNghepHmyRXjJE-1200-1200-675-675-crop-000000.jpg?v=e4f54a5b82"}, {"t": "Saint Omer", "d": "Alice Diop", "y": 2022, "c": ["France", "Senegal"], "g": "drama", "tp": "feature", "era": "present", "url": "https://en.wikipedia.org/wiki/Saint_Omer_(film)", "img": "https://a.ltrbxd.com/resized/sm/upload/2k/ge/26/8i/saint-1200-1200-675-675-crop-000000.jpg?v=c588181363"}, {"t": "Goodbye Julia", "d": "Mohamed Kordofani", "y": 2023, "c": ["Sudan", "Egypt", "Saudi Arabia", "Germany", "France"], "g": "drama", "tp": "feature", "era": "present", "url": "https://en.wikipedia.org/wiki/Goodbye_Julia", "img": "https://a.ltrbxd.com/resized/sm/upload/e7/l2/2x/ze/GoodbyeJulia-1200-1200-675-675-crop-000000.jpg?v=b8201cccb1"}, {"t": "Omen (Augure)", "d": "Baloji", "y": 2023, "c": ["Democratic Republic of the Congo", "Belgium", "Netherlands", "France", "South Africa"], "g": "drama, fantasy", "tp": "feature", "era": "present", "url": "https://en.wikipedia.org/wiki/Omen_(2023_film)", "img": "https://a.ltrbxd.com/resized/sm/upload/ze/6f/9y/79/Agure2023-1200-1200-675-675-crop-000000.jpg?v=6c5087fa5e"}, {"t": "Le spectre de Boko Haram (The Spectre of Boko Haram)", "d": "Cyrielle Raingou", "y": 2023, "c": ["Cameroon"], "g": "documentary", "tp": "documentary", "era": "present", "url": "https://en.wikipedia.org/wiki/Le_spectre_de_Boko_Haram", "img": "https://a.ltrbxd.com/resized/film-poster/9/5/9/1/8/0/959180-the-spectre-of-boko-haram-0-230-0-345-crop.jpg?v=f801dc688c"}, {"t": "Trailing African Wild Animals", "d": "Martin E. Johnson, Osa Johnson", "y": 1923, "c": ["United States"], "g": "documentary, expedition film", "tp": "documentary", "era": "pre-history", "url": "https://catalog.afi.com/Catalog/MovieDetails/7292", "img": ""}, {"t": "Simba: The King of the Beasts", "d": "Martin E. Johnson, Osa Johnson", "y": 1928, "c": ["United States"], "g": "documentary, expedition film", "tp": "documentary", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/Simba:_King_of_the_Beasts", "img": "https://a.ltrbxd.com/resized/sm/upload/1c/nt/42/2f/dxW1SXd9omuVe4PAsaNOTSrEeEV-1200-1200-675-675-crop-000000.jpg?v=7bdf64d93d"}, {"t": "Men of Two Worlds", "d": "Thorold Dickinson", "y": 1946, "c": ["United Kingdom"], "g": "drama", "tp": "feature", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/Men_of_Two_Worlds", "img": "https://a.ltrbxd.com/resized/film-poster/1/6/8/9/5/0/168950-men-of-two-worlds-0-230-0-345-crop.jpg?v=d9bf3db25c"}, {"t": "Daybreak in Udi", "d": "Terry Bishop", "y": 1949, "c": ["United Kingdom", "Nigeria"], "g": "documentary", "tp": "documentary", "era": "pre-history", "url": "https://en.wikipedia.org/wiki/Daybreak_in_Udi", "img": "https://a.ltrbxd.com/resized/film-poster/9/1/0/8/0/91080-daybreak-in-udi-0-230-0-345-crop.jpg?v=1b46189dc4"}, {"t": "Allan Quatermain", "d": "H. Lisle Lucoque", "y": 1919, "c": ["South Africa"], "g": "adventure, silent", "tp": "feature", "era": "pre-history", "url": "", "img": ""}, {"t": "Nionga", "d": "Unknown (Stoll Film Company)", "y": 1925, "c": ["United Kingdom"], "g": "drama, silent", "tp": "feature", "era": "pre-history", "url": "", "img": ""}, {"t": "Laila", "d": "Disputed: credited variously as Stephan Rosti; Stephan Rosti and Wedad Orfi; or Stephan Rosti, Aziza Amir and Wedad Orfi depending on source", "y": 1927, "c": ["Egypt"], "g": "drama, silent", "tp": "feature", "era": "pre-history", "url": "", "img": "https://a.ltrbxd.com/resized/film-poster/2/5/9/5/4/4/259544-laila-0-230-0-345-crop.jpg?v=a189692403"}, {"t": "Sallama", "d": "Togo Mizrahi", "y": 1945, "c": ["Egypt"], "g": "drama, musical, historical", "tp": "feature", "era": "pre-history", "url": "", "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Sallama.jpg"}, {"t": "North and South of the Niger", "d": "John Page", "y": 1947, "c": ["United Kingdom"], "g": "documentary", "tp": "documentary", "era": "pre-history", "url": "", "img": ""}, {"t": "Jim Comes to Jo'burg (African Jim)", "d": "Donald Swanson", "y": 1949, "c": ["South Africa"], "g": "drama, musical", "tp": "short", "era": "pre-history", "url": "", "img": "https://a.ltrbxd.com/resized/film-poster/1/6/8/0/1/4/168014-african-jim-0-230-0-345-crop.jpg?v=33540601d8"}];
+const CONT = {"Senegal": "Africa", "Guinea-Bissau": "Africa", "Republic of the Congo": "Africa", "Mali": "Africa", "Zambia": "Africa", "Nigeria": "Africa", "Lesotho": "Africa", "Egypt": "Africa", "Ivory Coast": "Africa", "Cameroon": "Africa", "South Africa": "Africa", "Burkina Faso": "Africa", "Ghana": "Africa", "Angola": "Africa", "Mauritania": "Africa", "Benin": "Africa", "Chad": "Africa", "Tunisia": "Africa", "Niger": "Africa", "Democratic Republic of the Congo": "Africa", "Kenya": "Africa", "Algeria": "Africa", "Ethiopia": "Africa", "Sudan": "Africa", "United Kingdom": "Europe", "Italy": "Europe", "Austria": "Europe", "Norway": "Europe", "Netherlands": "Europe", "Ireland": "Europe", "France": "Europe", "Belgium": "Europe", "Germany": "Europe", "Portugal": "Europe", "Switzerland": "Europe", "United States": "North America", "Lebanon": "Asia / Middle East", "Saudi Arabia": "Asia / Middle East", "Qatar": "Asia / Middle East"};
+const DEC_LABEL = {1920:'Colonial Record',1930:'Early Diaspora',1940:'Wartime',1950:'Liberation',1960:'First Wave',1970:'Manifesto',1980:'Flourishing',1990:'Video Wave',2000:'Festival Era',2010:'New Voices',2020:'Present'};
+const ERA_ORDER = ['pre-history','liberation','manifesto','flourishing','video-wave','festival-era','new-voices','present'];
+const ERA_NAME = {'pre-history':'Pre-History','liberation':'Liberation','manifesto':'Manifesto','flourishing':'Flourishing','video-wave':'Video Wave','festival-era':'Festival Era','new-voices':'New Voices','present':'Present'};
+function decadeOf(y){return Math.floor(y/10)*10;}
+function valuesFor(f,facet){
+  if(facet==='decade') return [decadeOf(f.y)+'s'];
+  if(facet==='era') return f.era?[f.era]:[];
+  if(facet==='country') return f.c;
+  if(facet==='continent') return [...new Set(f.c.map(x=>CONT[x]||'Other'))];
+  if(facet==='genre') return f.g?[f.g]:[];
+  if(facet==='tp') return f.tp?[f.tp]:[];
+  if(facet==='director') return f.d?[f.d]:[];
+  return [];
+}
+function shortTag(facet,v){
+  if(facet==='decade') return "'"+String(v).slice(2);
+  if(facet==='continent'){return {'Africa':'AF','Europe':'EU','North America':'NA','Asia / Middle East':'AS','Other':'~'}[v]||v.slice(0,2);}
+  return String(v).slice(0,3).toUpperCase();
+}
+function longLabel(facet,v){
+  if(facet==='decade') return DEC_LABEL[parseInt(v)]||'';
+  if(facet==='era') return ERA_NAME[v]||v;
+  return v;
+}
+let curFacet='decade', curValue=null;
+function buildButtons(){
+  const groups={};
+  FILMS.forEach(f=>valuesFor(f,curFacet).forEach(v=>{(groups[v]=groups[v]||[]).push(f);}));
+  let keys=Object.keys(groups);
+  if(curFacet==='decade') keys.sort((a,b)=>parseInt(a)-parseInt(b));
+  else if(curFacet==='era') keys.sort((a,b)=>ERA_ORDER.indexOf(a)-ERA_ORDER.indexOf(b));
+  else keys.sort((a,b)=>groups[b].length-groups[a].length || String(a).localeCompare(b));
+  if(!keys.includes(curValue)) curValue=keys[0];
+  const scroll=document.getElementById('eraScroll'); scroll.innerHTML='';
+  keys.forEach(v=>{
+    const b=document.createElement('button');
+    b.className='era-btn'+(v===curValue?' active':'');
+    b.innerHTML=`<span class="era-decade">${shortTag(curFacet,v)}</span><span class="era-label">${longLabel(curFacet,v)}</span><span class="era-count">${groups[v].length} titles</span>`;
+    b.addEventListener('click',()=>{curValue=v; document.querySelectorAll('.era-btn').forEach(x=>x.classList.remove('active')); b.classList.add('active'); renderValue(v,groups[v]);});
+    scroll.appendChild(b);
+  });
+  renderValue(curValue,groups[curValue]);
+}
+function renderValue(v,list){
+  const facetName={decade:'Decade',era:'Era',country:'Country',continent:'Continent',genre:'Genre',tp:'Type',director:'Director'}[curFacet];
+  document.getElementById('eraTitle').textContent = (longLabel(curFacet,v)&&curFacet==='decade')? `The ${DEC_LABEL[parseInt(v)]||v}` : `${facetName} : ${longLabel(curFacet,v)}`;
+  document.getElementById('eraSub').textContent = `${list.length} titles in the archive`;
+  const grid=document.getElementById('filmGrid'); grid.innerHTML='';
+  list.slice().sort((a,b)=>a.y-b.y).forEach((film,i)=>{
+    const card=document.createElement(film.url?'a':'div');
+    card.className='film-card fade-in'; card.style.animationDelay=`${i*0.05}s`;
+    if(film.url){card.href=film.url;card.target='_blank';card.rel='noopener';card.style.textDecoration='none';card.style.color='inherit';}
+    const cc=(film.c&&film.c.length)?film.c.join(' / '):'';
+    var posterImg = film.img ? ('<img src="'+film.img+'" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:1;">') : '';
+    card.innerHTML=`
+      <div class="film-reel">${posterImg}<div class="sprockets left"><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="sprockets right"><span></span><span></span><span></span><span></span><span></span><span></span></div>
+        <div class="film-reel-inner"><div class="reel-top"><span>${film.tp||''}</span><span>${film.c[0]||''}</span></div><div class="reel-center">${film.t}</div><div class="reel-bottom"><span>${film.y}</span><span>${film.g||''}</span></div></div></div>
+      <div class="film-info"><div class="film-title-line">${film.t}</div><div class="film-director">DIR. ${(film.d||'').toUpperCase()}</div><div class="film-year">${film.y} &middot; ${cc}</div></div>`;
+    grid.appendChild(card);
+  });
+}
+document.getElementById('facetSelect').addEventListener('change',e=>{curFacet=e.target.value;curValue=null;buildButtons();});
+// live Lagos date + issue number
+(function(){
+  const now=new Date();
+  document.getElementById('liveDate').textContent = now.toLocaleDateString('en-GB',{timeZone:'Africa/Lagos',weekday:'short',day:'2-digit',month:'short',year:'numeric'}).toUpperCase().replace(',','');
+  const iss=Math.max(1,(now.getFullYear()-2026)*12+(now.getMonth()-7)+1);
+  document.getElementById('issueNo').innerHTML='ISSUE N&deg; '+String(iss).padStart(2,'0');
+})();
+(function(){
+  var b=document.getElementById('menuBtn'), l=document.getElementById('menuList');
+  if(b){ b.addEventListener('click',function(e){e.stopPropagation(); l.style.display = l.style.display==='block'?'none':'block';});
+    document.addEventListener('click',function(){ l.style.display='none'; }); }
+})();
+buildButtons();
+</script>
+
+</body>
+</html>
+
+{% endraw %}
