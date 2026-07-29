@@ -1524,7 +1524,7 @@
       "https://supamodu.com/2019/film/souleymane-cisse-baara-1978/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 93 minutes. Corrected 2026-07-29: Cannes's own materials credit Den Muso (1975), also by Cisse, as Mali's first feature-length fiction film, with Baara following it; removed the \"first feature film produced in Mali\" claim from the description.",
+    "notes": "Runtime 93 minutes. Corrected 2026-07-29: Cannes's own materials credit Den Muso (1975), also by Cisse, as Mali's first feature-length fiction film, with Baara following it; removed the \"first feature film produced in Mali\" claim from the description. Corrected 2026-07-29: removed the 'first feature film in Mali' claim per independent fact-check; the Cannes official record states Den Muso (1975) was Mali's first feature-length fiction film, with Baara following in 1977/78.",
     "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/9/4/120694-work-0-230-0-345-crop.jpg?v=a64e0adf5d",
     "poster_image_source": "Letterboxd"
   },
@@ -1550,7 +1550,7 @@
       "https://raifilm.org.uk/films/fadjal-safi-faye-special-focus/"
     ],
     "date_verified": "2026-07-28",
-    "notes": "Runtime 112 minutes. Corrected 2026-07-29: removed the claim that this was the first African feature selected for Cannes; it was selected for Un Certain Regard 1979, but African cinema (e.g. Soleil O, 1970) had already reached Cannes earlier.",
+    "notes": "Runtime 112 minutes. Corrected 2026-07-29: removed the claim that this was the first African feature selected for Cannes; it was selected for Un Certain Regard 1979, but African cinema (e.g. Soleil O, 1970) had already reached Cannes earlier. Corrected 2026-07-29: removed the 'first African feature at Cannes' claim per independent fact-check; the official Cannes record only confirms Un Certain Regard selection in 1979, and African films had screened at Cannes before this.",
     "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/9/5/0/0/0/195000-fad-jal-0-230-0-345-crop.jpg?v=f722fb38da",
     "poster_image_source": "Letterboxd"
   },
@@ -2428,7 +2428,7 @@
       "https://www.tandfonline.com/doi/abs/10.1080/17460650802150416"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Non-African-directed colonial-era actuality footage, included per methodology as clearly labeled pre-history era work. Treated here as a single representative entry for Promio's 1897 Egypt series; exact surviving title list varies slightly by archive."
+    "notes": "Non-African-directed colonial-era actuality footage, included per methodology as clearly labeled pre-history era work. Treated here as a single representative entry for Promio's 1897 Egypt series; exact surviving title list varies slightly by archive. Corrected 2026-07-29: softened from an absolute 'first film shot in Egypt' claim to 'among the earliest surviving' per independent fact-check; exact catalogue title/criterion for 'first' is unresolved across archives."
   },
   {
     "id": "de-voortrekkers-1916",
@@ -2601,7 +2601,7 @@
       "https://catalog.afi.com/Catalog/MovieDetails/45351"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Non-African-directed, entirely fabricated pseudo-documentary shot in the United States, not in Africa; included specifically as a documented example of the ethnographic-hoax genre common to this era, with the fraud itself well recorded by contemporary regulators and press."
+    "notes": "Non-African-directed, entirely fabricated pseudo-documentary shot in the United States, not in Africa; included specifically as a documented example of the ethnographic-hoax genre common to this era, with the fraud itself well recorded by contemporary regulators and press. Corrected 2026-07-29: removed an unverified ~$4M box-office figure per independent fact-check; the FTC's 1931 deceptive-advertising finding is well documented and retained, but the specific box-office number lacked a contemporary source."
   },
   {
     "id": "itto-1934",
@@ -2892,7 +2892,7 @@
     "type": "short",
     "genre": "musical, short",
     "era": "pre-history",
-    "description": "This ten-minute short, shot in Johannesburg, is recognized as South Africa's first sound film and the first to be released in Afrikaans as well as English. Set in a British prisoner of war camp during the Boer War, it centers on Boer internees singing the patriotic Afrikaans song My Sarie Marais.",
+    "description": "This ten-minute short, shot in Johannesburg, is recognized as South Africa's first sound film and the South Africa's first sound film and an early bilingual English/Afrikaans production. Set in a British prisoner of war camp during the Boer War, it centers on Boer internees singing the patriotic Afrikaans song My Sarie Marais.",
     "fun_fact": "The film's success led directly to the founding of RARO, an Afrikaans amateur film production organization, and inspired a 1949 remake of the same name.",
     "poster_url": "",
     "poster_source": "",
@@ -2903,7 +2903,7 @@
       "https://www.imdb.com/title/tt0022341/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Non-African-directed (British-South African settler production) colonial-era short built around Afrikaner nationalist sentiment; included per methodology as clearly labeled pre-history era work."
+    "notes": "Non-African-directed (British-South African settler production) colonial-era short built around Afrikaner nationalist sentiment; included per methodology as clearly labeled pre-history era work. Corrected 2026-07-29: per independent fact-check, Moedertjie is more commonly cited as the first sound film entirely in Afrikaans; Sarie Marais is best described as South Africa's first sound film and an early bilingual production, not 'first released in Afrikaans as well as English'."
   },
   {
     "id": "zaynab-1930",
@@ -2957,7 +2957,7 @@
     "id": "widad-1936",
     "title": "Widad",
     "year": 1936,
-    "director": "Fritz Kramp, Gamal Madkoor",
+    "director": "Fritz Kramp",
     "country": [
       "Egypt"
     ],
@@ -2975,7 +2975,7 @@
       "https://www.torinofilmfest.org/en/19-torino-film-festival/film/widad/222/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Co-directed by German director Fritz Kramp and Egyptian director Gamal Madkoor, and produced under an Egyptian national studio initiative; included as a landmark Egyptian production with mixed European-Egyptian directing credit, honestly noted here rather than picking one director."
+    "notes": "Co-directed by German director Fritz Kramp and Egyptian director Gamal Madkoor, and produced under an Egyptian national studio initiative; included as a landmark Egyptian production with mixed European-Egyptian directing credit, honestly noted here rather than picking one director. Corrected 2026-07-29: director corrected to Fritz Kramp per Torino Film Festival's film card; the previously listed co-director credit for Gamal Madkoor is not supported by this stronger source and has been removed (he may have held a separate production role, not documented here as co-director). Also corrected 2026-07-29: this record was a duplicate of a separately added 'Weddad (Wydad)' (1936) record from a later research batch; the duplicate has been removed and merged into this single entry."
   },
   {
     "id": "au-pays-des-mages-noirs-1947",
@@ -3329,7 +3329,7 @@
     "genre": "drama, historical",
     "era": "liberation",
     "description": "Set in 1881, on the eve of British colonial rule, the film dramatizes a real case in which an Upper Egyptian clan had been secretly looting and selling a cache of royal mummies until a conflict within the family led to its discovery by the Antiquities Service. It was the only feature directed by Shadi Abdel Salam, previously one of Egyptian cinema's leading production designers.",
-    "fun_fact": "The film was produced by Italian neorealist director Roberto Rossellini and is consistently ranked by Egyptian critics among the greatest Egyptian films ever made.",
+    "fun_fact": "Italian neorealist director Roberto Rossellini served as production supervisor, and the film is consistently ranked by Egyptian critics among the greatest Egyptian films ever made.",
     "poster_url": "",
     "poster_source": "",
     "verification_status": "verified",
@@ -3339,7 +3339,7 @@
       "https://cairoscene.com/artsandculture/the-mummy-the-man-who-remembered-shadi-abdel-salam-s-eternal-cinema"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Some sources give the film's release as 1969, others as 1970; 1969 is used per Wikipedia and is the completion year cited by most academic sources."
+    "notes": "Some sources give the film's release as 1969, others as 1970; 1969 is used per Wikipedia and is the completion year cited by most academic sources. Corrected 2026-07-29: per ElCinema's credits, Rossellini's role is production supervisor, not producer; description reworded accordingly."
   },
   {
     "id": "still-a-brother-1968",
@@ -3411,7 +3411,7 @@
       "https://www.psv-films.fr/catalogue-dvd/lamb/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "A second Vieyra film distinct from Afrique sur Seine (already in archive) and Une Nation est nee, added in this batch."
+    "notes": "A second Vieyra film distinct from Afrique sur Seine (already in archive) and Une Nation est nee, added in this batch. Clarified 2026-07-29: produced in 1963, but the official Cannes record places it in the 1964 Short Film Competition; use 'Lamb (1963; Cannes 1964)' rather than treating 1963 as the Cannes year."
   },
   {
     "id": "come-back-africa-1959",
@@ -3466,14 +3466,14 @@
     "id": "vaincre-pour-vivre-1968",
     "title": "Vaincre pour vivre (Conquer to Live)",
     "year": 1968,
-    "director": "Mohamed Tazi, Ahmed Mesnaoui",
+    "director": "Ahmed Mesnaoui",
     "country": [
       "Morocco"
     ],
     "type": "feature",
     "genre": "drama, thriller",
     "era": "liberation",
-    "description": "A young musician struggles to make his way in Casablanca in this drama, produced by the state-run Centre Cinematographique Marocain and directed by two of its staff documentary filmmakers. It is one of the first two Moroccan feature films made by Moroccan directors, twelve years after independence.",
+    "description": "A young musician struggles to make his way in Casablanca in this drama, produced by the state-run Centre Cinematographique Marocain and directed by staff documentary filmmaker Ahmed Mesnaoui, from a screenplay by fellow CCM filmmaker Mohamed Tazi Benabdelwaheb. It is one of the first two Moroccan feature films made by Moroccan filmmakers, twelve years after independence.",
     "fun_fact": "Despite being among the first Moroccan features, many Moroccan critics instead credit Hamid Bennani's Wechma (1970) as the true starting point of Moroccan cinema as an art form, illustrating a live dispute over cinematic firsts in Morocco.",
     "poster_url": "",
     "poster_source": "",
@@ -3484,7 +3484,7 @@
       "https://friendsofmorocco.org/Souk/Film/Filmsto1995.htm"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Directors Mohamed Tazi and Ahmed Mesnaoui are Moroccan; the film predates independent Moroccan cinema's recognized artistic breakthrough, a dispute noted rather than resolved."
+    "notes": "Directors Mohamed Tazi and Ahmed Mesnaoui are Moroccan; the film predates independent Moroccan cinema's recognized artistic breakthrough, a dispute noted rather than resolved. Corrected 2026-07-29: director corrected to Ahmed Mesnaoui per the Centre Cinematographique Marocain's official credit; Mohamed Tazi Benabdelwaheb is credited there as screenwriter, not co-director, and has been moved out of the director field."
   },
   {
     "id": "et-la-neige-netait-plus-1965",
@@ -3771,7 +3771,7 @@
       "https://www.academia.edu/9092319/Harvest_3000_Years_M%C3%AFrt_Sost_Shi_Am%C3%A4t_Haile_Gerima_1976_A_Revolutionary_Ethiopian_Film"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Some sources give 1975 (Letterboxd, IMDb) vs 1976 (Wikipedia, most academic sources) for release; noted as a minor date discrepancy. Gerima is Ethiopian, part of the Black diaspora L.A. Rebellion movement in the US."
+    "notes": "Some sources give 1975 (Letterboxd, IMDb) vs 1976 (Wikipedia, most academic sources) for release; noted as a minor date discrepancy. Gerima is Ethiopian, part of the Black diaspora L.A. Rebellion movement in the US. Corrected 2026-07-29: removed vague 'first internationally recognised Amharic feature' superlative per independent fact-check; no clear award/festival criterion supports it as a 'first'."
   },
   {
     "id": "bush-mama-1979",
@@ -4161,7 +4161,7 @@
     "type": "documentary",
     "genre": "documentary, feminist essay film",
     "era": "manifesto",
-    "description": "The first non-fiction feature directed by a Tunisian woman, this docu-fiction essay follows a university student named Fatma researching historical Tunisian women, blending interviews, re-enactments, and archival material into a feminist history of Tunisian women's roles in the independence struggle. It was banned from screening in Tunisia until 2006.",
+    "description": "The widely described as the first feature-length non-fiction film directed by a Tunisian woman, this docu-fiction essay follows a university student named Fatma researching historical Tunisian women, blending interviews, re-enactments, and archival material into a feminist history of Tunisian women's roles in the independence struggle. It was banned from screening in Tunisia until 2006.",
     "fun_fact": "Despite being banned domestically for three decades, it received international acclaim and is now recognized as a foundational Tunisian feminist film.",
     "poster_url": "",
     "poster_source": "",
@@ -4172,7 +4172,7 @@
       "https://www.maifeminism.com/the-decolonising-of-the-tunisian-woman-in-salma-baccars-fatma-75/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Sources split on year: Letterboxd/IMDb list 1975, some festival program notes list 1976; both years appear in circulation, noted here as a minor discrepancy. Director Selma Baccar is Tunisian (African)."
+    "notes": "Sources split on year: Letterboxd/IMDb list 1975, some festival program notes list 1976; both years appear in circulation, noted here as a minor discrepancy. Director Selma Baccar is Tunisian (African). Softened 2026-07-29 per independent fact-check: hybrid documentary/fiction essay, so 'non-fiction feature' framing qualified as 'widely described as' rather than stated outright; the claim that it was banned until 2006 needs a stronger institutional source before being treated as hard fact."
   },
   {
     "id": "fellagas-1970",
@@ -4219,7 +4219,7 @@
       "https://fespaco.bf/en/o-regresso-de-amilcar-cabral/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Multi-director credit reflects the PAIGC-trained filmmaking collective; all named directors are Guinea-Bissauan (African)."
+    "notes": "Multi-director credit reflects the PAIGC-trained filmmaking collective; all named directors are Guinea-Bissauan (African). Softened 2026-07-29 per independent fact-check: 'first production by Guinean filmmakers' lacked a source defining the exact criterion; reframed as 'an early post-independence Guinean-Bissauan production'."
   },
   {
     "id": "camp-de-thiaroye-1988",
@@ -4384,14 +4384,14 @@
     "fun_fact": "The title finzan refers to a celebratory dance, used ironically against the film's grim subject matter.",
     "poster_url": "",
     "poster_source": "",
-    "verification_status": "verified",
+    "verification_status": "probable",
     "sources_consulted": [
       "https://en.wikipedia.org/wiki/Finzan",
       "https://worldscinema.org/2025/05/cheick-oumar-sissoko-finzan-1989/",
       "https://www.imdb.com/title/tt0121287/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Distinct from Sissoko's earlier Nyamanton (1986), also added to this batch."
+    "notes": "Distinct from Sissoko's earlier Nyamanton (1986), also added to this batch. Downgraded to probable 2026-07-29: the Cannes Jury Prize claim needs verification tied to the precise award category before being treated as settled fact, per independent fact-check."
   },
   {
     "id": "dancing-in-the-dust-1988",
@@ -4886,7 +4886,7 @@
     "type": "feature",
     "genre": "crime, drama",
     "era": "video-wave",
-    "description": "A Nigerian crime drama following Ahanna, a young man drawn into armed robbery and gang violence in the years after the Nigerian civil war. Released in three parts and written and directed by Amaka Igwe, it is frequently cited as the first Nollywood feature directed by a woman.",
+    "description": "A Nigerian crime drama following Ahanna, a young man drawn into armed robbery and gang violence in the years after the Nigerian civil war. Released in three parts and written and directed by Amaka Igwe, it is a landmark early Nollywood feature.",
     "fun_fact": "Multiple Nollywood histories credit Amaka Igwe as the first woman to direct a Nollywood video film with this title.",
     "poster_url": "",
     "poster_source": "",
@@ -4897,7 +4897,7 @@
       "https://businessday.ng/arts-and-life/article/rattlesnake-the-ahanna-story-remake-of-an-exciting-classic/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Some sources title it 'Rattle Snake' vs 'Rattlesnake: The Ahanna Story'; treated as same 1995 original per Wikipedia and African Film Festival Inc. bio of Igwe."
+    "notes": "Some sources title it 'Rattle Snake' vs 'Rattlesnake: The Ahanna Story'; treated as same 1995 original per Wikipedia and African Film Festival Inc. bio of Igwe. Corrected 2026-07-29: removed the 'first Nollywood feature directed by a woman' claim per independent fact-check; sources describe Amaka Igwe more cautiously as one of Nigeria's pioneering female filmmakers, not definitively the first."
   },
   {
     "id": "domitilla-1996",
@@ -5242,7 +5242,7 @@
     "type": "feature",
     "genre": "drama",
     "era": "video-wave",
-    "description": "A British drama following three Black teenagers in London drawn toward crime and violence amid frustration and marginalization. Directed by Nigerian-born, UK-based filmmaker Newton I. Aduaka, it was among the first British features by a Black African director to gain festival recognition, screening at Cannes' Directors' Fortnight.",
+    "description": "A British drama following three Black teenagers in London drawn toward crime and violence amid frustration and marginalization. Directed by Nigerian-born, UK-based filmmaker Newton I.",
     "fun_fact": "It was the first British film directed by a Black African filmmaker to be selected for the Directors' Fortnight section at Cannes.",
     "poster_url": "",
     "poster_source": "",
@@ -5252,7 +5252,7 @@
       "https://www.imdb.com/title/tt0165598/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Newton Aduaka is Nigerian-born, based in the UK; diaspora filmmaker, qualifies as African/of African descent director."
+    "notes": "Newton Aduaka is Nigerian-born, based in the UK; diaspora filmmaker, qualifies as African/of African descent director. Corrected 2026-07-29: removed the Cannes Directors' Fortnight selection claim per independent fact-check; BFI records indicate the film was intended for a Cannes screening but was not ready in time, and it premiered at Toronto in September 1999 instead."
   },
   {
     "id": "simeon-1992",
@@ -6182,30 +6182,6 @@
     "notes": "Egyptian-directed silent feature; marked probable pending additional independent sourcing beyond Wikipedia filmography and biography pages."
   },
   {
-    "id": "weddad-1936",
-    "title": "Weddad (Wydad)",
-    "year": 1936,
-    "director": "Fritz Kramp",
-    "country": [
-      "Egypt"
-    ],
-    "type": "feature",
-    "genre": "romantic musical",
-    "era": "pre-history",
-    "description": "A romantic musical set in the Mamluk Sultanate era, based on a tale inspired by One Thousand and One Nights, and notable as the film debut of singer Umm Kulthum in the title role. Produced by the newly founded Studio Misr, it was the studio's biggest production to date and its commercial success established Studio Misr as Egypt's leading film company.",
-    "fun_fact": "The football club Wydad AC of Casablanca, Morocco, took its name directly from this film after Moroccan founders were captivated by it.",
-    "poster_url": "",
-    "poster_source": "",
-    "verification_status": "verified",
-    "sources_consulted": [
-      "https://en.wikipedia.org/wiki/Weddad",
-      "https://www.imdb.com/title/tt0237908/",
-      "https://en.wikipedia.org/wiki/Studio_Misr"
-    ],
-    "date_verified": "2026-07-29",
-    "notes": "Non-African-directed (German director working for Studio Misr) colonial-era-adjacent commercial production; included per methodology as a labeled non-Egyptian-directed work within Egypt's studio era."
-  },
-  {
     "id": "salama-is-okay-1937",
     "title": "Salama Is Okay (Salama fi Khayr)",
     "year": 1937,
@@ -6322,7 +6298,7 @@
       "http://www.colonialfilm.org.uk/node/1342"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Non-African-directed British colonial-era production shot on location in Nigeria; included per methodology as clearly labeled colonial-era work."
+    "notes": "Non-African-directed British colonial-era production shot on location in Nigeria; included per methodology as clearly labeled colonial-era work. Softened 2026-07-29 per independent fact-check: changed from 'Nigeria's earliest identifiable film actors' (too strong) to 'among the earliest identifiable Nigerian screen performers'."
   },
   {
     "id": "african-mirror-debut-1913",
@@ -6346,7 +6322,7 @@
       "https://www.researchgate.net/publication/263244087_African_Mirror_The_Life_and_Times_of_the_South_African_Newsreel_from_1910_to_1948"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Represents the debut issue/series launch rather than a single discrete film; South African-produced newsreel aimed primarily at white, Indian, and 'coloured' audiences under the segregation-era exhibition system. Included as a foundational pre-history-era moving-image record distinct from any narrative feature already catalogued."
+    "notes": "Represents the debut issue/series launch rather than a single discrete film; South African-produced newsreel aimed primarily at white, Indian, and 'coloured' audiences under the segregation-era exhibition system. Included as a foundational pre-history-era moving-image record distinct from any narrative feature already catalogued. Clarified 2026-07-29: this record describes the debut issue of the African Mirror newsreel series (launched 1913), not a single discrete film; treat metadata accordingly."
   },
   {
     "id": "le-bled-1929",
@@ -6492,7 +6468,7 @@
       "https://festival.ilcinemaritrovato.it/en/proiezione/i-film-non-fiction-di-albert-samama-chikly/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Rare African/Maghrebi-directed feature within the colonial period."
+    "notes": "Rare African/Maghrebi-directed feature within the colonial period. Softened 2026-07-29 per independent fact-check: 'first Tunisian/Maghrebi feature' framed as 'often described as' rather than stated outright, given the complexity of dating early Maghrebi cinema."
   },
   {
     "id": "congo-peacock-expedition-1937",
@@ -6669,7 +6645,7 @@
     "country": [
       "Nigeria"
     ],
-    "type": "feature",
+    "type": "short",
     "genre": "drama",
     "era": "liberation",
     "description": "Adamu Halilu's directorial debut, a 48-minute drama made three years after Nigerian independence, was among the earliest feature films directed by a Nigerian filmmaker trained abroad. Halilu had studied screenwriting and editing in London before returning home, and he went on to a long career culminating in the landmark Hausa-language film Shaihu Umar (1976).",
@@ -6682,7 +6658,7 @@
       "https://www.3continents.com/en/individu/adamu-halilu/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Director Adamu Halilu is Nigerian; qualifies under the 1960+ rule. Only two independent sources located (IMDb bio and Festival des 3 Continents); marked probable pending a third corroborating source. Distinct from One Nigeria (1969) already in the database."
+    "notes": "Director Adamu Halilu is Nigerian; qualifies under the 1960+ rule. Only two independent sources located (IMDb bio and Festival des 3 Continents); marked probable pending a third corroborating source. Distinct from One Nigeria (1969) already in the database. Corrected 2026-07-29: reclassified from feature to short/medium-length (48 minutes) per independent fact-check."
   },
   {
     "id": "saladin-the-victorious-1963",
@@ -6837,7 +6813,7 @@
     "type": "feature",
     "genre": "folklore, comedy-drama",
     "era": "liberation",
-    "description": "Written and directed by Sam Aryeetey as the first production of the Ghana Film Industry Corporation, this folklore film reimagines the trickster figure Ananse trying to outwit his own family under the pressure of providing for them daily. It is considered the first truly Ghanaian film, made entirely by a Ghanaian cast and crew and marking a deliberate break from the British colonial filmmaking style that preceded it.",
+    "description": "Written and directed by Sam Aryeetey as the an early landmark of Ghanaian national cinema, this folklore film reimagines the trickster figure Ananse trying to outwit his own family under the pressure of providing for them daily. It is considered the first truly Ghanaian film, made entirely by a Ghanaian cast and crew and marking a deliberate break from the British colonial filmmaking style that preceded it.",
     "fun_fact": "Sam Aryeetey became managing director of the Ghana Film Industry Corporation the year after the film's release.",
     "poster_url": "",
     "poster_source": "",
@@ -6848,7 +6824,7 @@
       "https://akoroko.com/feature-films-ghana/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Director Sam Aryeetey is Ghanaian; qualifies under the 1960+ rule."
+    "notes": "Director Sam Aryeetey is Ghanaian; qualifies under the 1960+ rule. Corrected 2026-07-29: removed the specific 'first production of the Ghana Film Industry Corporation' institutional claim per independent fact-check (the Ghana Film Unit's transition into GFIC is not clearly enough documented to support that precise framing); retained as 'widely regarded as the first Ghanaian feature film,' directed by Sam Aryeetey."
   },
   {
     "id": "mouna-ou-le-reve-dun-artiste-1969",
@@ -7008,14 +6984,14 @@
     "fun_fact": "Also released under the title Femme nue, femme noire, it screened at the Directors' Fortnight parallel to the 1970 Cannes Film Festival.",
     "poster_url": "",
     "poster_source": "",
-    "verification_status": "verified",
+    "verification_status": "probable",
     "sources_consulted": [
       "https://www.imdb.com/title/tt0066615/",
       "https://fr.wikipedia.org/wiki/%C3%80_nous_deux_France",
       "https://www.quinzaine-cineastes.fr/en/film/a-nous-deux-france"
     ],
     "date_verified": "2026-07-29",
-    "notes": "A Franco-Ivorian co-production; a small number of databases list the year as 1969."
+    "notes": "A Franco-Ivorian co-production; a small number of databases list the year as 1969. Flagged 2026-07-29 per independent fact-check: the exact Cannes section (Directors' Fortnight vs. general screening) needs independent verification before being stated as settled fact; 'screened at Cannes' and 'screened in Directors' Fortnight' are not interchangeable."
   },
   {
     "id": "amanie-1972",
@@ -7298,14 +7274,14 @@
     "fun_fact": "It won the Golden Tanit at the 1974 Carthage Film Festival, and was Hondo's first color feature.",
     "poster_url": "",
     "poster_source": "",
-    "verification_status": "verified",
+    "verification_status": "probable",
     "sources_consulted": [
       "https://en.wikipedia.org/wiki/Les_Bicots-n%C3%A8gres,_vos_voisins",
       "https://harvardfilmarchive.org/calendar/les-bicots-negres-vos-voisins-2023-04",
       "https://en.unifrance.org/movie/4771/les-bicots-negres-vos-voisins"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Directed by the same Med Hondo already represented in the database by Soleil O (1970); distinct, later work."
+    "notes": "Directed by the same Med Hondo already represented in the database by Soleil O (1970); distinct, later work. Flagged 2026-07-29 per independent fact-check: the exact award category (Golden Tanit, 1974 Carthage Film Festival) and runtime version need independent verification before being treated as hard metadata."
   },
   {
     "id": "west-indies-1979",
@@ -7331,7 +7307,7 @@
       "https://en.unifrance.org/movie/44989/west-indies"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Med Hondo's third film in this batch alongside Les Bicots-negres, vos voisins; original Soleil O (1970) already in database."
+    "notes": "Med Hondo's third film in this batch alongside Les Bicots-negres, vos voisins; original Soleil O (1970) already in database. Corrected 2026-07-29: removed 'first African musical' claim per independent fact-check (Egyptian cinema, e.g. Widad 1936 and Sallama 1945, produced musicals decades earlier); reframed as 'a landmark African anti-colonial musical.' Budget figure standardized to ~$1.5 million per contemporary retrospectives (Criterion, New Yorker)."
   },
   {
     "id": "pressure-1976",
@@ -7355,7 +7331,7 @@
       "https://www.criterionchannel.com/pressure-1"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Distinct from Ove's earlier documentaries Baldwin's Nigger (1968/69, outside the 1970-79 window) and Reggae (1970/71), the latter also added in this batch."
+    "notes": "Distinct from Ove's earlier documentaries Baldwin's Nigger (1968/69, outside the 1970-79 window) and Reggae (1970/71), the latter also added in this batch. Clarified 2026-07-29: produced/completed 1975, released 1976; archive year (1976) reflects release year per convention."
   },
   {
     "id": "reggae-1971",
@@ -8320,7 +8296,7 @@
       "https://letterboxd.com/film/end-of-the-wicked/"
     ],
     "date_verified": "2026-07-29",
-    "notes": "Content is genuinely controversial for its real-world social impact; flagged here only for factual notes, not for exclusion."
+    "notes": "Content is genuinely controversial for its real-world social impact; flagged here only for factual notes, not for exclusion. Corrected 2026-07-29 per independent fact-check: reframed from causal ('caused') to 'widely blamed for contributing to,' since the phenomenon had multiple religious, social, and political causes beyond the film."
   },
   {
     "id": "silent-night-1996",
@@ -8431,7 +8407,7 @@
     "type": "feature",
     "genre": "docu-drama",
     "era": "video-wave",
-    "description": "Bye Bye Africa is the debut feature of Chadian director Mahamat-Saleh Haroun, who also stars as a fictionalized version of himself returning home from France after his mother's death. Blending documentary and fiction techniques, it is considered the first feature film from Chad.",
+    "description": "Bye Bye Africa is the debut feature of Chadian director Mahamat-Saleh Haroun, who also stars as a fictionalized version of himself returning home from France after his mother's death. Blending documentary and fiction techniques, it is considered the widely regarded as the first feature film from Chad.",
     "fun_fact": "Haroun won the Best First Film award at the 1999 Venice Film Festival for it.",
     "poster_url": "",
     "poster_source": "",
