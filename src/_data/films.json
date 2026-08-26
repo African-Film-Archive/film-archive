@@ -12912,5 +12912,686 @@
     "notes": "Haitian Black director; distinct from Lumumba (2000) and Sometimes in April (2005), already in the database.",
     "poster_image": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/4/9/105549-moloch-tropical-0-230-0-345-crop.jpg?v=cc24c6ae43",
     "poster_image_source": "Letterboxd"
+  },
+  {
+    "id": "integration-report-one-1960",
+    "title": "Integration Report One",
+    "year": 1960,
+    "director": "Madeline Anderson",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "documentary",
+    "era": "liberation",
+    "description": "Madeline Anderson's documentary short weaves together footage of the 1959-60 fight for Black equality in Alabama, Brooklyn and Washington, D.C., incorporating cinematography by Albert Maysles and Richard Leacock, singing by Maya Angelou, and a speech by Martin Luther King Jr., and was recognized in 2015 by the Smithsonian's National Museum of African American History and Culture as the first documentary directed by an African American woman.",
+    "fun_fact": "The film was newly preserved by the Smithsonian's National Museum of African American History and Culture and is distributed today by Icarus Films.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Madeline_Anderson",
+      "https://icarusfilms.com/if-inte",
+      "https://nwfilmforum.org/films/madeline-anderson-integration-report-1960-somebody-1970/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the African Film Archive's Black Sisters of Cinema II research list. Anderson also directed I Am Somebody (1970)."
+  },
+  {
+    "id": "plaza-vieja-1962",
+    "title": "Plaza Vieja",
+    "year": 1962,
+    "director": "Sara Gómez",
+    "country": [
+      "Cuba"
+    ],
+    "type": "short",
+    "genre": "documentary",
+    "era": "liberation",
+    "description": "Sara Gómez's directorial debut is an 8-minute black-and-white documentary made for ICAIC's Enciclopedia popular series, marking the first film directed by a Cuban woman and the opening work of a career that made Gómez one of the twentieth century's most significant Afro-Cuban filmmakers before her death in 1974.",
+    "fun_fact": "Gómez joined ICAIC in 1961 as an assistant director, including work on Agnès Varda's Cuba documentary Salut les Cubains, before directing Plaza Vieja the following year.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Sara_G%C3%B3mez",
+      "http://cinelatinoamericano.org/versionfp.aspx?cod=5211",
+      "https://bfmaf.org/director/sara-gomez/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list. Gómez went on to direct De cierta manera (1974/77), completed posthumously."
+  },
+  {
+    "id": "now-1965",
+    "title": "Now!",
+    "year": 1965,
+    "director": "Santiago Álvarez",
+    "country": [
+      "Cuba"
+    ],
+    "type": "short",
+    "genre": "documentary, essay film",
+    "era": "liberation",
+    "description": "Santiago Álvarez's six-minute montage film sets newsreel footage and still photographs of U.S. civil rights protests and racial violence to Lena Horne's radio-banned protest song \"Now!\", producing an agitprop montage widely cited as a forerunner of the modern music video.",
+    "fun_fact": "Horne's recording had been kept off American radio for its political content before Álvarez built the film entirely around it.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Santiago_%C3%81lvarez_(filmmaker)",
+      "https://criticalmediaproject.org/now-santiago-alvarez/",
+      "https://mubi.com/en/us/films/now"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "ICAIC production. Cuban editor Norma Torrado, credited in the Black Sisters of Cinema II research list, became a regular Álvarez collaborator starting around this period, editing several of his subsequent films through 1975."
+  },
+  {
+    "id": "chechia-1966",
+    "title": "Chéchia",
+    "year": 1966,
+    "director": "Sophie Ferchiou",
+    "country": [
+      "Tunisia"
+    ],
+    "type": "short",
+    "genre": "ethnographic documentary",
+    "era": "liberation",
+    "description": "Made to accompany anthropologist Sophie Ferchiou's doctoral research on the manufacture of the chéchia, the traditional Tunisian felt cap, this roughly 30-minute ethnographic documentary is credited by Tunisian and francophone film sources as the first film directed by a woman from the Maghreb.",
+    "fun_fact": "Ferchiou, a CNRS researcher, went on to direct about a dozen ethnographic films on Tunisian economic, social and religious life through the 1990s, several restored and screened at the Cinémathèque tunisienne in 2019.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://fr.wikipedia.org/wiki/Sophie_Ferchiou",
+      "https://www.africine.org/personne/sophie-ferchiou/10066",
+      "https://kapitalis.com/tunisie/2019/02/05/sophie-ferchiou-a-la-cinematheque-tunisienne/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Runtime and 1966 date are corroborated by French-language sources on Ferchiou's thesis defense, but the film is not catalogued in major English-language film databases (IMDb/BFI); recorded as probable pending a primary archival record. Added from the Black Sisters of Cinema II research list."
+  },
+  {
+    "id": "araba-the-village-story-1967",
+    "title": "Araba: The Village Story",
+    "year": 1967,
+    "director": "Efua Sutherland",
+    "country": [
+      "Ghana",
+      "United States"
+    ],
+    "type": "documentary",
+    "genre": "documentary",
+    "era": "liberation",
+    "description": "Produced for American television by ABC and centered on Ghanaian writer Efua Sutherland's Atwia Experimental Community Theatre Project, this 1967 documentary follows a young girl named Araba in the village of Atwia and stands as an early work of African women's involvement in moving-image production.",
+    "fun_fact": "The Atwia project it documents is recognized as a foundational model for the Theatre for Development movement across Africa.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.africanwomenincinema.org/AFWC/Timeline.html",
+      "https://muse.jhu.edu/article/634992",
+      "https://en.wikipedia.org/wiki/Efua_Sutherland"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "The Black Sisters of Cinema II research list titles this film \"Arabia: The Village Story\" and credits Sutherland as writer/cultural producer; secondary sources consistently give the title as \"Araba\" (matching the protagonist's name), used here, with the alternate spelling recorded per AFA's dispute-logging policy. On-screen directing credit is not consistently specified in available sources; Sutherland is credited as the documentary's creative lead and producer."
+  },
+  {
+    "id": "leveil-1968",
+    "title": "L'Éveil",
+    "year": 1968,
+    "director": "Selma Baccar",
+    "country": [
+      "Tunisia"
+    ],
+    "type": "short",
+    "genre": "documentary",
+    "era": "liberation",
+    "description": "Selma Baccar's first film, a black-and-white short made under Tunisia's Federation of Amateur Filmmakers and addressing women's emancipation, won awards at the Kelibia and Sfax film festivals and opened the career of a filmmaker later recognized as the first woman to direct a Tunisian feature film.",
+    "fun_fact": "Baccar's subsequent feature Fatma 75 (1975) became a landmark of Arab and African feminist cinema, already catalogued in this archive.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Selma_Baccar",
+      "https://www.tandfonline.com/doi/abs/10.1080/13629387.2010.527122",
+      "https://mad-distribution.film/directors/51593392980.php"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Sources disagree on the exact year: the Black Sisters of Cinema II list and one academic source date the film to 1968, while another source dates it to 1966; both agree it is Baccar's first short and concerns women's liberation. Recorded as probable pending a primary catalogue record; year 1968 used per the research list and the Journal of North African Studies interview."
+  },
+  {
+    "id": "blacks-blues-black-1968",
+    "title": "Blacks, Blues, Black!",
+    "year": 1968,
+    "director": "Maya Angelou",
+    "country": [
+      "United States"
+    ],
+    "type": "documentary",
+    "genre": "documentary series",
+    "era": "liberation",
+    "description": "Maya Angelou wrote, produced and directed this ten-part documentary series for San Francisco public station KQED, tracing the influence of West African culture, history, art, music and religion on African American life; broadcast in the immediate aftermath of Martin Luther King Jr.'s assassination, the series' tapes were lost for decades until rediscovered in 2009.",
+    "fun_fact": "The restored series includes Angelou reciting her poem \"A Letter to an Aspiring Junkie\" and a filmed conversation and performance with blues guitarist B.B. King.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.kqed.org/news/10431582/from-the-archive-maya-angelou-hosts-1968-series-blacks-blues-black",
+      "https://case.edu/news/once-lost-painfully-present-maya-angelous-blacks-blues-black-1968",
+      "https://blogs.iu.edu/bfca/2015/03/03/archival-spotlight-rediscovered-maya-angelou-series-blacks-bluesblack/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "A television series rather than a single film; recorded under its 1968 broadcast year. Added from the Black Sisters of Cinema II research list, which also credits Angelou's earlier singing contribution to Madeline Anderson's Integration Report One (1960)."
+  },
+  {
+    "id": "horse-of-mud-1971",
+    "title": "Horse of Mud",
+    "year": 1971,
+    "director": "Atteyat El Abnoudy",
+    "country": [
+      "Egypt"
+    ],
+    "type": "short",
+    "genre": "documentary",
+    "era": "manifesto",
+    "description": "Atteyat El Abnoudy's first film, a 12-minute documentary, follows women laborers at a Cairo mud-brick factory as they tread clay for hours in place of draft animals, and went on to win the Grand Prize at the 1972 Damascus Film Festival despite being banned in Egypt for its unflinching depiction of the workers' conditions.",
+    "fun_fact": "El Abnoudy gave microphones directly to the workers so their own voices, rather than narration, carry the film.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Horse_of_Mud",
+      "https://en.wikipedia.org/wiki/Ateyyat_El_Abnoudy",
+      "https://www.arabfilm.com/item/73/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list."
+  },
+  {
+    "id": "la-passante-1972",
+    "title": "La Passante",
+    "year": 1972,
+    "director": "Safi Faye",
+    "country": [
+      "Senegal",
+      "France"
+    ],
+    "type": "short",
+    "genre": "experimental short",
+    "era": "manifesto",
+    "description": "Made by Safi Faye while completing her studies at the Louis Lumière film school, this wordless ten-minute Paris-shot short imagines the differing romantic fantasies of a French man and an African man as a young African woman passes them on the street, drawing on Baudelaire's poem \"À une passante\" to explore Faye's own position between French and Senegalese identity.",
+    "fun_fact": "Faye, the first Senegalese woman filmmaker, would go on to make Kaddu Beykat (1975), already catalogued in this archive as the first commercially distributed feature by a Sub-Saharan African woman.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Safi_Faye",
+      "https://africanwomenincinema.blogspot.com/2022/09/safi-fayes-la-passante-50-years-on.html",
+      "https://africanfilmny.org/articles/safi-faye-selbe-et-tant-dautres/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list; complements the archive's existing Kaddu Beykat (1975) entry."
+  },
+  {
+    "id": "the-kitchen-1975",
+    "title": "The Kitchen",
+    "year": 1975,
+    "director": "Alile Sharon Larkin",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "drama, experimental",
+    "era": "manifesto",
+    "description": "Alile Sharon Larkin's seven-minute UCLA student film uses non-linear editing between a mental ward and flashback scenes to portray a Black woman's breakdown under the pressure of internalized Eurocentric beauty standards, an early work of the L.A. Rebellion movement examining Black women's lives, family and cultural identity.",
+    "fun_fact": "Larkin made the film as her \"Project One\" at UCLA, the same program that produced fellow L.A. Rebellion filmmakers Julie Dash and Charles Burnett.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.cinema.ucla.edu/la-rebellion/films/kitchen",
+      "https://en.wikipedia.org/wiki/Alile_Sharon_Larkin",
+      "https://cleojournal.com/2017/08/18/black-women-edit-shame-alile-sharon-larkins-kitchen/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list; complements the archive's existing A Different Image (1982), also by Larkin."
+  },
+  {
+    "id": "carib-gold-1956",
+    "title": "Carib Gold",
+    "year": 1956,
+    "director": "Harold Young",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "liberation",
+    "description": "Shot almost entirely in Key West, Florida with a largely African American cast, this drama about a struggling shrimp-boat crew who discover sunken treasure gave both Cicely Tyson and Geoffrey Holder their first film roles and starred Ethel Waters, who also performed the film's title song; long thought lost, it was digitized and released publicly by Southern Methodist University in 2012.",
+    "fun_fact": "It was director Harold Young's final film.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Carib_Gold",
+      "https://catalog.afi.com/Catalog/moviedetails/51778",
+      "https://www.tcm.com/tcmdb/title/557212/carib-gold/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list, which also credits Diana Sands' feature-film debut to this production."
+  },
+  {
+    "id": "island-in-the-sun-1957",
+    "title": "Island in the Sun",
+    "year": 1957,
+    "director": "Robert Rossen",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama, romance",
+    "era": "liberation",
+    "description": "Produced by 20th Century-Fox and shot on Barbados and Grenada, this drama depicting interracial romance on a fictional Caribbean island was controversial on release for its on-screen treatment of Black-white relationships, and stars Dorothy Dandridge as Margot Seaton alongside Harry Belafonte, James Mason and Joan Fontaine.",
+    "fun_fact": "Dandridge went on to co-star with Sidney Poitier in Otto Preminger's Porgy and Bess two years later.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Island_in_the_Sun_(film)",
+      "https://www.allmovie.com/movie/island-in-the-sun-am24064",
+      "https://www.boxofficemojo.com/title/tt0050549"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list."
+  },
+  {
+    "id": "porgy-and-bess-1959",
+    "title": "Porgy and Bess",
+    "year": 1959,
+    "director": "Otto Preminger",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "musical, drama",
+    "era": "liberation",
+    "description": "Otto Preminger's adaptation of the Gershwin opera, starring Sidney Poitier and Dorothy Dandridge in the title roles alongside Sammy Davis Jr., Pearl Bailey and Diahann Carroll as Clara, was one of the largest-budget studio films to date built around an all-Black cast, though its subject matter made it a limited and controversial release.",
+    "fun_fact": "Poitier's and Dandridge's singing voices were dubbed for the film, by Robert McFerrin and Adele Addison respectively.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Porgy_and_Bess_(film)",
+      "https://gershwin.com/publications/porgy-and-bess-film-1959/",
+      "https://www.imdb.com/title/tt0053182/fullcredits/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list, which highlights Diahann Carroll's role as Clara."
+  },
+  {
+    "id": "imitation-of-life-1959",
+    "title": "Imitation of Life",
+    "year": 1959,
+    "director": "Douglas Sirk",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "melodrama",
+    "era": "liberation",
+    "description": "Douglas Sirk's final Hollywood film pairs an aspiring white actress with Annie Johnson, the Black single mother she employs as a live-in maid, whose light-skinned daughter chooses to pass as white; Juanita Moore's performance as Annie earned her an Academy Award nomination and the film was added to the U.S. National Film Registry in 2015.",
+    "fun_fact": "Moore and co-star Susan Kohner both received Academy Award nominations for Best Supporting Actress for the film.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Imitation_of_Life_(1959_film)",
+      "https://en.wikipedia.org/wiki/Juanita_Moore",
+      "https://filmforum.org/film/imitation-of-life-1959-black-women-1-23"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list."
+  },
+  {
+    "id": "bound-for-lagos-1960",
+    "title": "Bound for Lagos",
+    "year": 1960,
+    "director": "Edric Connor",
+    "country": [
+      "Nigeria",
+      "United Kingdom"
+    ],
+    "type": "short",
+    "genre": "drama",
+    "era": "liberation",
+    "description": "Commissioned by Nigeria's first president, Nnamdi Azikiwe, to mark independence, this 31-minute fiction film directed by and starring Trinidadian actor-filmmaker Edric Connor centers on an emergent West African middle class through the story of an agriculturalist's romance with a mining engineer, and screened at the 1961 Edinburgh Film Festival.",
+    "fun_fact": "Production troubles forced Connor to dismiss most of his cast and crew partway through the shoot and return to England with only part of the planned footage.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.themoviedb.org/movie/871863-bound-for-lagos",
+      "https://letterboxd.com/film/bound-for-lagos/",
+      "https://www.youtube.com/watch?v=Qect3l0IXiA"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Held by the BFI National Archive; not catalogued on Wikipedia or major academic databases at time of research, so recorded as probable. Added from the Black Sisters of Cinema II research list, which credits Nigerian actress Bola Adeniji's appearance in the film."
+  },
+  {
+    "id": "tremor-1961",
+    "title": "Tremor",
+    "year": 1961,
+    "director": "Denis Scully",
+    "country": [
+      "South Africa",
+      "United Kingdom"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "liberation",
+    "description": "A Rand Film Productions mining drama made in association with the British company Avon Films, Tremor starred Canadian actor Robert Beatty alongside South African boxer Jake Ntuli (billed as Jake Tuli) in a supporting role, one of the rare mainstream South African features of the period to cast a Black sportsman in a dramatic part.",
+    "fun_fact": "Ntuli had been a British Empire flyweight boxing champion before his screen appearance in the film.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Tremor_(film)",
+      "https://esat.sun.ac.za/index.php/Denis_Scully",
+      "https://intellectdiscover.com/content/journals/10.1386/jac_00032_1"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list, which also credits South African actress Dottie Tiyo's appearance in the film."
+  },
+  {
+    "id": "soy-cuba-1964",
+    "title": "Soy Cuba (I Am Cuba)",
+    "year": 1964,
+    "director": "Mikhail Kalatozov",
+    "country": [
+      "Soviet Union",
+      "Cuba"
+    ],
+    "type": "feature",
+    "genre": "drama, anthology film",
+    "era": "liberation",
+    "description": "A Mosfilm-ICAIC co-production shot by cinematographer Sergei Urusevsky, this anthology drama tells four interlinked vignettes of pre- and post-revolutionary Cuban life, with Afro-Cuban dancer and model Luz María Collazo starring as María/Betty in its opening episode; largely ignored on release, it was rediscovered internationally in the 1990s and restored by Milestone Films.",
+    "fun_fact": "Collazo was a soloist with Cuba's pioneering modern-dance movement and the first Black model to work the Cuban runway.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/I_Am_Cuba",
+      "https://www.criterionchannel.com/i-am-cuba",
+      "https://archive.org/details/i-am-cuba-1964"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list."
+  },
+  {
+    "id": "der-rivonia-prozess-1966",
+    "title": "Der Rivonia-Prozess",
+    "year": 1966,
+    "director": "Jürgen Goslar",
+    "country": [
+      "West Germany"
+    ],
+    "type": "feature",
+    "genre": "docudrama, television film",
+    "era": "liberation",
+    "description": "This two-part, 150-minute West German television docudrama for ZDF dramatizes the 1963-64 Rivonia Trial of South African anti-apartheid activists, with Black South African actor and future director Simon Sabela playing Nelson Mandela and Bridget Taintan playing Winnie Mandela.",
+    "fun_fact": "Simon Sabela, who portrayed Mandela here, would go on to become South Africa's first Black feature-film director, making Inkedama (1975) and iKati Elimnyama (1975).",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.filmportal.de/film/der-rivonia-prozess_dacab155642b48b398373b8906046b2f",
+      "https://archive.nelsonmandela.org/index.php/za-com-mr-f-1966-001",
+      "https://de.wikipedia.org/wiki/Rivonia-Prozess"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list, which credits South African actress Bridget Taintan's role as Mrs. Mandela; connects to this archive's existing Sabela-directed entries."
+  },
+  {
+    "id": "guess-whos-coming-to-dinner-1967",
+    "title": "Guess Who's Coming to Dinner",
+    "year": 1967,
+    "director": "Stanley Kramer",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "comedy, drama",
+    "era": "liberation",
+    "description": "Stanley Kramer's drama about a white couple confronting their own liberal convictions when their daughter brings home a Black fiancé, played by Sidney Poitier, was one of the mainstream era's few major studio films to center interracial marriage, and marked the film debut of Isabel Sanford, later star of The Jeffersons, as the family's maid, Tillie.",
+    "fun_fact": "The film received ten Academy Award nominations, including for Spencer Tracy in his final screen role.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner",
+      "https://www.britannica.com/topic/Guess-Whos-Coming-to-Dinner",
+      "https://www.tcm.com/watchtcm/titles/23790"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list."
+  },
+  {
+    "id": "remparts-dargile-1970",
+    "title": "Remparts d'argile (Ramparts of Clay)",
+    "year": 1970,
+    "director": "Jean-Louis Bertuccelli",
+    "country": [
+      "Algeria",
+      "France"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "Jean-Louis Bertuccelli's first feature, adapting Jean Duvignaud's anthropological study of a Saharan-edge village, was filmed in Algeria after plans to shoot in the originally scouted Tunisian village fell through, and follows a young woman's political awakening as salt-mine workers strike against colonial-era authorities; the film won the Jean Vigo Prize.",
+    "fun_fact": "Moroccan actress Leila Shenna, who appears in the film, went on to work with Algerian director Mohammed Lakhdar-Hamina on the Palme d'Or-winning Chronique des années de braise (1975).",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Ramparts_of_Clay",
+      "https://fr.wikipedia.org/wiki/Remparts_d%27argile",
+      "https://en.unifrance.org/movie/1461/ramparts-of-clay"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Year disputed across sources: the Black Sisters of Cinema II research list gives 1968, UniFrance gives 1970, and English Wikipedia/IMDb give a 1971 release; 1970 is used here per UniFrance, consistent with the film's Cannes Critics' Week premiere, but recorded as probable pending a single authoritative date. Country recorded as Algeria/France per production location; Bertuccelli originally scouted the story's Chebika setting in Tunisia."
+  },
+  {
+    "id": "toomorrow-1970",
+    "title": "Toomorrow",
+    "year": 1970,
+    "director": "Val Guest",
+    "country": [
+      "United Kingdom"
+    ],
+    "type": "feature",
+    "genre": "science fiction, musical",
+    "era": "manifesto",
+    "description": "This British science-fiction musical, marking Olivia Newton-John's film debut, cast Zimbabwean-born actress Kubi Chaza (billed as Kubi Indi) as Sylvana in its story of a pop band whose experimental synthesizer draws the attention of aliens, and was a commercial failure on release that later gained a cult following.",
+    "fun_fact": "The film was co-produced by James Bond producer Harry Saltzman and former Monkees music supervisor Don Kirshner in an attempt to replicate that franchise's success.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Toomorrow_(film)",
+      "https://www.bfi.org.uk/film/630807d9-a912-5197-93ef-f2983a7d34eb/toomorrow",
+      "https://galacticjourney.org/september-2-1970-a-brighter-tomorrow-toomorrow-1970/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list, which credits Kubi Chaza's supporting role; her casting is not detailed in the main English-language sources on the film, so that specific credit is carried from the research list pending further corroboration."
+  },
+  {
+    "id": "things-fall-apart-1971",
+    "title": "Things Fall Apart",
+    "year": 1971,
+    "director": "Hans Jürgen Pohland",
+    "country": [
+      "Nigeria",
+      "West Germany",
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "Filmed almost entirely on location in Nigeria and jointly produced by Nigerian, West German and American companies, this adaptation of Chinua Achebe's novel (blended with elements of his No Longer at Ease) stars Ugandan royal and actress Princess Elizabeth of Toro as Clara Okeke alongside Orlando Martins and Johnny Sekka.",
+    "fun_fact": "Princess Elizabeth of Toro later became a Ugandan diplomat and the country's first female career ambassador.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt0208779/fullcredits/",
+      "https://africanfilmny.org/films/things-fall-apart/",
+      "https://www.filmportal.de/en/movie/things-fall-apart_"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list, which also credits Nigerian actress and later cultural administrator Iyabo Aboaba's role as Bisi."
+  },
+  {
+    "id": "deixem-me-ao-menos-subir-as-palmeiras-1972",
+    "title": "Deixem-me ao Menos Subir às Palmeiras",
+    "year": 1972,
+    "director": "Joaquim Lopes Barbosa",
+    "country": [
+      "Mozambique",
+      "Portugal"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "Lopes Barbosa's only feature film, shot around Lourenço Marques (now Maputo) with a cast of Black Mozambican nonprofessional actors and dialogue substantially in Ronga, dramatizes forced labor and revolt on a colonial-era farm and was banned by Portugal's Estado Novo regime, receiving no commercial release until after the 1974 Carnation Revolution.",
+    "fun_fact": "The film drew its title and imagery in part from Angolan poet António Jacinto's poem \"Monangamba.\"",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www.buala.org/pt/afroscreen/deixem-me-ao-menos-subir-as-palmeiras-um-filme-da-frente-de-guerrilha",
+      "https://www.publico.pt/2012/06/29/jornal/joaquim-lopes-barbosa-criador-de-metaforas-politicas-do-mocambique-rural-24798231",
+      "https://www.cinemateca.pt/CinematecaSite/media/Documentos/2021-04-23_DEIXEM-ME-AO-MENOS-SUBIR-AS-PALMEIRAS_1.pdf"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list, which credits Mozambican actress Helena Ubisse's role as Maria."
+  },
+  {
+    "id": "shaft-in-africa-1973",
+    "title": "Shaft in Africa",
+    "year": 1973,
+    "director": "John Guillermin",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "action, crime",
+    "era": "manifesto",
+    "description": "The third film in the Shaft series sends Richard Roundtree's detective undercover to break up a modern slave-labor ring trafficking young Africans to Paris, co-starring Vonetta McGee as Aleme, an emir's daughter, in a role that placed her among the most visible Black women in transnational 1970s genre cinema.",
+    "fun_fact": "Roundtree and McGee met Emperor Haile Selassie shortly before filming began in Ethiopia.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Shaft_in_Africa",
+      "https://en.wikipedia.org/wiki/Vonetta_McGee",
+      "http://www.tcm.com/tcmdb/title/1387/Shaft-In-Africa/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list."
+  },
+  {
+    "id": "coffy-1973",
+    "title": "Coffy",
+    "year": 1973,
+    "director": "Jack Hill",
+    "country": [
+      "United States"
+    ],
+    "type": "feature",
+    "genre": "action, blaxploitation",
+    "era": "manifesto",
+    "description": "Pam Grier stars as a nurse turned vigilante avenging her sister's heroin addiction in Jack Hill's blaxploitation action film, widely credited as the genre's first film centered on a Black woman action hero and the role that launched Grier's stardom alongside Shaft's Richard Roundtree and Super Fly's Ron O'Neal.",
+    "fun_fact": "Grier followed Coffy with further action leads in Foxy Brown (1974), Sheba, Baby (1975) and Friday Foster (1975).",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://en.wikipedia.org/wiki/Coffy",
+      "https://www.bfi.org.uk/film/0e9c033e-a9dd-569a-9aa3-3a6ab06b7295/coffy",
+      "https://www.grindhousedatabase.com/index.php/Coffy"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Added from the Black Sisters of Cinema II research list."
+  },
+  {
+    "id": "inkedama-1975",
+    "title": "Inkedama",
+    "year": 1975,
+    "director": "Simon Sabela",
+    "country": [
+      "South Africa"
+    ],
+    "type": "feature",
+    "genre": "drama",
+    "era": "manifesto",
+    "description": "Directed by Simon Sabela, the first Black South African film director, for the Heyns Films studio, Inkedama follows a boy named Zwelibanzi who loses his mother young but overcomes hardship to become a surgeon, with South African actress and former Miss South Africa titleholder Cynthia Shange in a lead role.",
+    "fun_fact": "Cynthia Shange had been crowned the first Black Miss South Africa in 1972, three years before appearing in the film.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://www2.bfi.org.uk/films-tv-people/4ce2b7a147fe7",
+      "https://esat.sun.ac.za/index.php/Simon_Sabela",
+      "https://www.ulwaziprogramme.org/simon-mabhunu-sabela/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Heyns Films produced numerous features for Black audiences under an apartheid-era government subsidy tied to ethnic-language broadcasting policy; the Black Sisters of Cinema II research list notes Sabela was apparently unaware of this funding source at the time. The list also credits South African actress Mabel Mafuya's appearance in the film."
+  },
+  {
+    "id": "ikati-elimnyama-1975",
+    "title": "iKati Elimnyama (The Black Cat)",
+    "year": 1975,
+    "director": "Simon Sabela",
+    "country": [
+      "South Africa"
+    ],
+    "type": "feature",
+    "genre": "drama, crime",
+    "era": "manifesto",
+    "description": "Simon Sabela both directed and starred in this Heyns Films drama as Lefty Ndaba, a businessman whose shady dealings catch up with him, with South African actress Mary Twala appearing uncredited as a warehouse worker in an early role before she became one of the most recognized Black women in South African screen history.",
+    "fun_fact": "The film is listed among titles reviewed by apartheid-era South African censors in national archive records.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "probable",
+    "sources_consulted": [
+      "https://www.imdb.com/title/tt3789866/",
+      "https://www.themoviedb.org/movie/1169409-ikati-elimnyama",
+      "https://www.nationalarchives.gov.za/node/4133000"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Year disputed: the Black Sisters of Cinema II research list, IMDb and TMDB give 1975, while one secondary account states Sabela directed it in 1976; recorded as probable pending resolution. This is a separate film from the 1981 and 1991 films also titled The Black Cat."
+  },
+  {
+    "id": "methadone-evil-spirit-or-wonder-drug-1975",
+    "title": "Methadone: Evil Spirit or Wonder Drug",
+    "year": 1975,
+    "director": "Jessie Maple",
+    "country": [
+      "United States"
+    ],
+    "type": "short",
+    "genre": "documentary",
+    "era": "manifesto",
+    "description": "The first production of Jessie Maple and Leroy Patton's LJ Film Productions, this short documentary examines the effects of distributing methadone to heroin addicts, made the same year Maple became the first Black woman admitted to the International Photographers of Motion Picture and Television union.",
+    "fun_fact": "Maple later wrote How to Become a Union Camerawoman (1977) about her fight to enter the union, and in 1981 directed Will, one of the earliest surviving features by a Black American woman.",
+    "poster_url": "",
+    "poster_source": "",
+    "verification_status": "verified",
+    "sources_consulted": [
+      "https://bfca.indiana.edu/explore-collections/jessie-maple-collection.html",
+      "https://amsterdamnews.com/news/2025/06/05/jessie-maples-film-classic-will-reissued-and-on-view-at-bam/",
+      "https://darkiris.tft.ucla.edu/jessie-maple/"
+    ],
+    "date_verified": "2026-08-26",
+    "notes": "Sources give the production/broadcast window as 1975-1976; recorded here under 1975 per the Black Sisters of Cinema II research list and LJ Film Productions' founding year."
   }
 ]
